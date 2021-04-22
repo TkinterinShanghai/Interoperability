@@ -1,0 +1,63 @@
+<grammar ns="" xmlns="http://relaxng.org/ns/structure/1.0">
+    <start>
+      <element name="info">
+        <element name="description">
+          <element name="player">
+            <ref name="nickname" />
+            <ref name="email" />
+            <ref name="details" />
+          </element>
+          <element name="player_location">
+            <attribute name="geolocation" />
+            <ref name="account_description" />
+            <element name="flora">
+              <text />
+            </element>
+            <element name="fauna">
+              <text />
+            </element>
+            <element name="brightness">
+              <data type="integer" />
+            </element>
+          </element>
+        </element>
+      </element>
+    </start>
+  
+    <define name="nickname">
+      <element name="nickname">
+        <text />
+      </element>
+    </define>
+  
+    <define name="email">
+      <element name="email">
+        <text />
+      </element>
+    </define>
+  
+    <define name="details">
+      <element name="details">
+        <element name="gender">
+          <data type="gendertype" />
+        </element>
+        <element name="skills">
+          <text />
+        </element>
+      </element>
+    </define>
+  
+    <define name="account_description">
+      <element name="account_description">
+        <ref name="email" />
+        <optional>
+          <element name="account_description" />
+          <element name="account">
+            <ref name="nickname" />
+            <ref name="email" />
+            <ref name="details" />
+          </element>
+        </optional>
+      </element>
+    </define>
+  </grammar>

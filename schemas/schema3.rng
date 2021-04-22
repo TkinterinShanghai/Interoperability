@@ -1,0 +1,53 @@
+<grammar xmlns="http://relaxng.org/ns/structure/1.0">
+    <start>
+      <element name="materialusage">
+        <ref name="materialinfo" />
+  
+        <element name="usedin">
+          <interleave>
+            <ref name="name" />
+  
+            <ref name="worth" />
+            <ref name="usage" />
+            <element name="foundat">
+              <attribute name="geolocation" />
+              <element name="details">
+                <element name="floraandfauna">
+                  <element name="fauna">
+                    <text />
+                  </element>
+                  <element name="flora">
+                    <text />
+                  </element>
+                </element>
+              </element>
+            </element>
+          </interleave>
+        </element>
+      </element>
+    </start>
+  
+    <define name="materialinfo">
+      <element name="materialinfo">
+        <data type="decimal" />
+      </element>
+    </define>
+  
+    <define name="name">
+      <element name="name">
+        <text />
+      </element>
+    </define>
+  
+    <define name="worth">
+      <element name="worth">
+        <data type="integer" />
+      </element>
+    </define>
+  
+    <define name="usage">
+      <element name="usage">
+        <text />
+      </element>
+    </define>
+  </grammar>

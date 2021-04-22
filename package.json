@@ -1,0 +1,17 @@
+{
+  "name": "projekt",
+  "version": "1.0.0",
+  "description": "",
+  "main": "dbInsert.js",
+  "scripts": {
+    "dev": "nodemon dbInsert",
+    "start": "node dbInsert",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Tobias Wetzel",
+  "license": "ISC",
+  "dependencies": {
+    "nodemon": "^2.0.7",
+    "pg": "^8.5.1"
+  }
+}

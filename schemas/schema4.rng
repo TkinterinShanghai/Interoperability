@@ -1,0 +1,44 @@
+<grammar xmlns="http://relaxng.org/ns/structure/1.0">
+    <start>
+      <element name="locationinfo">
+        <ref name="geolocationattribute" />
+        <element name="playerslocation">
+          <zeroOrMore>
+            <element name="player">
+              <ref name="nickname" />
+              <ref name="email" />
+  
+              <element name="details">
+                <ref name="skills" />
+              </element>
+            </element>
+          </zeroOrMore>
+        </element>
+        <element name="averageitemworth">
+          <data type="decimal" />
+        </element>
+      </element>
+    </start>
+  
+    <define name="nickname">
+      <element name="nickname">
+        <text />
+      </element>
+    </define>
+  
+    <define name="geolocationattribute">
+      <attribute name="geolocation" />
+    </define>
+  
+    <define name="email">
+      <element name="email">
+        <text />
+      </element>
+    </define>
+  
+    <define name="skills">
+      <element name="skills">
+        <text />
+      </element>
+    </define>
+  </grammar>
