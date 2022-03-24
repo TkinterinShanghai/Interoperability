@@ -1,0 +1,90 @@
+generator client {
+  provider = "prisma-client-js"
+}
+
+datasource db {
+  provider = "postgresql"
+  url      = env("DATABASE_URL")
+}
+
+model appointment {
+  id                Int         @id @default(autoincrement())
+  complaintid       Int
+  employeeid        Int
+  handled           DateTime   @db.Date
+  repairpartid      Int
+  servicefacilityid Int
+  rating            Float
+  complaint         complaint  @relation(fields: [complaintid], references: [id], onDelete: NoAction, onUpdate: NoAction)
+  employee          employee   @relation(fields: [employeeid, servicefacilityid], references: [id, facilityid], onDelete: NoAction, onUpdate: NoAction)
+  repairpart        repairpart @relation(fields: [repairpartid, servicefacilityid], references: [partid, facilityid], onDelete: NoAction, onUpdate: NoAction)
+}
+
+model complaint {
+  id          Int           @id @default(autoincrement())
+  fridgeid    Int
+  customerid  Int
+  symptoms    String       @db.VarChar(400)
+  isresolved  Boolean
+  issuedate   DateTime     @db.Date
+  customer    customer     @relation(fields: [customerid], references: [id], onDelete: NoAction, onUpdate: NoAction)
+  fridge      fridge       @relation(fields: [fridgeid], references: [id], onDelete: NoAction, onUpdate: NoAction)
+  appointment appointment[]
+}
+
+model customer {
+  id         Int         @id @default(autoincrement())
+  lastactive DateTime   @db.Date
+  adress     String     @db.Xml
+  phone      Int
+  email      String     @db.VarChar(200)
+  remarks    Json       @db.Json
+  complaint  complaint[]
+}
+
+model employee {
+  id              Int             @default(autoincrement())
+  facilityid      Int
+  salary          Float
+  adress          String         @db.Xml
+  phone           Int
+  email           String         @db.VarChar(200)
+  etype           String         @db.VarChar(200)
+  servicefacility servicefacility @relation(fields: [facilityid], references: [id], onDelete: NoAction, onUpdate: NoAction)
+  appointment     appointment[]
+
+  @@id([id, facilityid])
+}
+
+model fridge {
+  id           Int         @id @default(autoincrement())
+  fridge_type  String     @db.VarChar(400)
+  manufactured DateTime   @db.Date
+  model        String     @db.VarChar(400)
+  price        Int
+  volume       Int
+  complaint    complaint[]
+}
+
+model repairpart {
+  partid      Int           @default(autoincrement())
+  facilityid  Int
+  remarks     Json         @db.Json
+  rname       String       @db.VarChar(200)
+  price       Float
+  material    String       @db.VarChar(200)
+  volume      Float
+  appointment appointment[]
+
+  @@id([partid, facilityid])
+}
+
+model servicefacility {
+  id       Int        @id @default(autoincrement())
+  adress   String    @db.Xml
+  phone    Int
+  email    String    @db.VarChar(200)
+  active   Boolean
+  ftype    String    @db.VarChar(200)
+  employee employee[]
+}

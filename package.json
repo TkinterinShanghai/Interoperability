@@ -5,13 +5,20 @@
   "main": "dbInsert.js",
   "scripts": {
     "dev": "nodemon dbInsert",
-    "start": "node dbInsert",
+    "create": "npx tsc && npx prisma migrate dev --name init && node ./build/main",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Tobias Wetzel",
   "license": "ISC",
   "dependencies": {
-    "nodemon": "^2.0.7",
-    "pg": "^8.5.1"
+    "@faker-js/faker": "^6.0.0",
+    "@prisma/client": "^3.11.0",
+    "nodemon": "^2.0.15",
+    "prisma": "^3.11.0",
+    "typescript": "^4.6.2",
+    "xml": "^1.0.1"
+  },
+  "devDependencies": {
+    "@types/xml": "^1.0.8"
   }
 }

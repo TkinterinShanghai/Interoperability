@@ -1,7 +1,0 @@
-xsltproc transformation/xslt1.xsl othercode/result2.xml > newcode/result1.xml
-
-xsltproc transformation/xslt2.xsl othercode/result2.xml > newcode/result2.xml
-
-xsltproc transformation/xslt3.xsl othercode/result2.xml > newcode/result3.xml
-
-xsltproc transformation/xslt4.xsl othercode/result2.xml > newcode/result4.xml
