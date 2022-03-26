@@ -1,0 +1,70 @@
+<grammar xmlns="http://relaxng.org/ns/structure/1.0" datatypeLibrary="http://www.w3.org/2001/XMLSchema-datatypes">
+  <start>
+    <element name="CustomerComplaintAppointment">
+      <oneOrMore>
+        <element name="appointment">
+          <ref name="attributes" />
+          <interleave>
+            <ref name="complaint" />
+            <ref name="customer" />
+          </interleave>
+        </element>
+      </oneOrMore>
+    </element>
+  </start>
+
+  <define name="attributes">
+    <attribute name="handled" />
+    <attribute name="rating" />
+  </define>
+
+  <define name="complaint">
+    <element name="complaint">
+      <element name="id">
+        <data type="integer"/>
+      </element>
+      <ref name="isresolved" />
+      <element name="issuedate">
+        <data type="date" />
+      </element>
+    </element>
+  </define>
+
+  <define name="isresolved">
+    <element name="isresolved">
+      <choice>
+        <value type="string">true</value>
+        <value type="string">false</value>
+      </choice>
+    </element>
+  </define>
+
+
+  <define name="customer">
+    <element name="customer">
+      <attribute name="importance" />
+      <element name="remarkstext">
+        <data type="string"/>
+      </element>
+      <ref name="options" />
+    </element>
+  </define>
+
+  <define name="options">
+    <optional>
+      <choice>
+        <element name="email">
+          <data type="string" />
+        </element>
+        <element name="contact">
+          <list>
+            <data type="string"/>
+          </list>
+        </element>
+      </choice>
+      <element name="lastactive">
+        <data type="date" />
+      </element>
+    </optional>
+  </define>
+</grammar>

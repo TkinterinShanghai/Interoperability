@@ -1,0 +1,72 @@
+<grammar xmlns="http://relaxng.org/ns/structure/1.0" datatypeLibrary="http://www.w3.org/2001/XMLSchema-datatypes">
+    <start>
+        <element name="player_game_list_information">
+            <oneOrMore>
+                <element name="xml_list">
+                    <ref name="attributes" />
+                    <ref name="detail_information" />
+                </element>
+            </oneOrMore>
+        </element>
+    </start>
+
+    <define name="attributes">
+        <attribute name="social_security_number" />
+        <attribute name="player_name" />
+        <attribute name="mail" />
+    </define>
+
+    <define name="detail_information">
+        <element name="detail_information">
+
+            <element name="date_xml">
+                <ref name="date" />
+            </element>
+            <element name="how_contact">
+                <data type="string" />
+            </element>
+            <element name="player_game_name">
+                <data type="string" />
+            </element>
+            <element name="genre">
+                <data type="string" />
+            </element>
+            <element name="place_list">
+                <choice>
+                    <value type="string">PC</value>
+                    <value type="string">Laptop</value>
+                    <value type="string">Beer</value>
+                    <value type="string">Vodka</value>
+                </choice>
+            </element>
+        </element>
+    </define>
+
+    <define name="date">
+        <element name="date_format_year_month_day">
+            <element name="date_of_birth">
+                <interleave>
+                    <attribute name="day" />
+                    <attribute name="month" />
+                    <attribute name="year" />
+                    <ref name="optional_attributes" />
+                </interleave>
+            </element>
+        </element>
+    </define>
+
+    <define name="optional_attributes">
+        <optional>
+            <choice>
+                <element name="age">
+                    <data type="positiveInteger"></data>
+                </element>
+                <element name="other">
+                    <list>
+                        <data type="string" />
+                    </list>
+                </element>
+            </choice>
+        </optional>
+    </define>
+</grammar>

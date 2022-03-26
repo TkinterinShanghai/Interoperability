@@ -1,0 +1,543 @@
+<?xml version="1.0" standalone="yes"?>
+<ComplaintOverview>
+    <complaint id="0" isresolved="false" issuedate="2021-12-06">
+        <customer>
+            <email>Maci_Johns@yahoo.com</email>
+            <lastactive>2021-08-20</lastactive>
+            <adress>
+                <adress zip="51207" country="MC">
+                    <street>
+                        <name>Nella Hill</name>
+                        <number>500</number>
+                    </street>
+                </adress>
+            </adress>
+        </customer>
+        <fridge>
+            <fridge_type>Tuna</fridge_type>
+            <price>702</price>
+        </fridge>
+    </complaint>
+    <complaint id="1" isresolved="false" issuedate="2021-04-26">
+        <customer>
+            <email>Ricardo15@hotmail.com</email>
+            <lastactive>2021-11-19</lastactive>
+            <adress>
+                <adress zip="35456-3317" country="GW">
+                    <street>
+                        <name>Emmanuelle Mews</name>
+                        <number>1503</number>
+                    </street>
+                </adress>
+            </adress>
+        </customer>
+        <fridge>
+            <fridge_type>Pizza</fridge_type>
+            <price>240</price>
+        </fridge>
+    </complaint>
+    <complaint id="2" isresolved="false" issuedate="2021-12-16">
+        <customer>
+            <email>Brent.Abbott@gmail.com</email>
+            <lastactive>2021-08-14</lastactive>
+            <adress>
+                <adress zip="55072-3666" country="AF">
+                    <street>
+                        <name>Mohr Shoal</name>
+                        <number>1296</number>
+                    </street>
+                </adress>
+            </adress>
+        </customer>
+        <fridge>
+            <fridge_type>Soap</fridge_type>
+            <price>925</price>
+        </fridge>
+    </complaint>
+    <complaint id="3" isresolved="true" issuedate="2021-06-19">
+        <customer>
+            <email>Peggie.Welch29@yahoo.com</email>
+            <lastactive>2021-05-11</lastactive>
+            <adress>
+                <adress zip="23934" country="UZ">
+                    <street>
+                        <name>Terrance Trail</name>
+                        <number>1596</number>
+                    </street>
+                </adress>
+            </adress>
+        </customer>
+        <fridge>
+            <fridge_type>Tuna</fridge_type>
+            <price>251</price>
+        </fridge>
+    </complaint>
+    <complaint id="4" isresolved="false" issuedate="2021-10-13">
+        <customer>
+            <email>Kaylie66@yahoo.com</email>
+            <lastactive>2021-04-02</lastactive>
+            <adress>
+                <adress zip="62640" country="SR">
+                    <street>
+                        <name>Marvin Burgs</name>
+                        <number>85</number>
+                    </street>
+                </adress>
+            </adress>
+        </customer>
+        <fridge>
+            <fridge_type>Chips</fridge_type>
+            <price>440</price>
+        </fridge>
+    </complaint>
+    <complaint id="5" isresolved="true" issuedate="2021-07-16">
+        <customer>
+            <email>Erik.Stamm16@gmail.com</email>
+            <lastactive>2021-09-20</lastactive>
+            <adress>
+                <adress zip="56179-7506" country="AX">
+                    <street>
+                        <name>Rosenbaum Station</name>
+                        <number>514</number>
+                    </street>
+                </adress>
+            </adress>
+        </customer>
+        <fridge>
+            <fridge_type>Bacon</fridge_type>
+            <price>627</price>
+        </fridge>
+    </complaint>
+    <complaint id="6" isresolved="false" issuedate="2022-03-15">
+        <customer>
+            <email>Zack31@yahoo.com</email>
+            <lastactive>2022-02-27</lastactive>
+            <adress>
+                <adress zip="26113" country="VI">
+                    <street>
+                        <name>Goldner Lodge</name>
+                        <number>1917</number>
+                    </street>
+                </adress>
+            </adress>
+        </customer>
+        <fridge>
+            <fridge_type>Cheese</fridge_type>
+            <price>609</price>
+        </fridge>
+    </complaint>
+    <complaint id="7" isresolved="true" issuedate="2022-01-23">
+        <customer>
+            <email>Aubree78@hotmail.com</email>
+            <lastactive>2021-12-21</lastactive>
+            <adress>
+                <adress zip="30404-7020" country="IE">
+                    <street>
+                        <name>Terry Rapids</name>
+                        <number>1062</number>
+                    </street>
+                </adress>
+            </adress>
+        </customer>
+        <fridge>
+            <fridge_type>Tuna</fridge_type>
+            <price>783</price>
+        </fridge>
+    </complaint>
+    <complaint id="8" isresolved="false" issuedate="2022-01-21">
+        <customer>
+            <email>Carole84@yahoo.com</email>
+            <lastactive>2022-01-09</lastactive>
+            <adress>
+                <adress zip="06108" country="BF">
+                    <street>
+                        <name>Zechariah Manor</name>
+                        <number>875</number>
+                    </street>
+                </adress>
+            </adress>
+        </customer>
+        <fridge>
+            <fridge_type>Sausages</fridge_type>
+            <price>442</price>
+        </fridge>
+    </complaint>
+    <complaint id="9" isresolved="false" issuedate="2022-02-23">
+        <customer>
+            <email>Charles_Predovic@hotmail.com</email>
+            <lastactive>2021-06-14</lastactive>
+            <adress>
+                <adress zip="39827" country="AZ">
+                    <street>
+                        <name>Rohan Fort</name>
+                        <number>986</number>
+                    </street>
+                </adress>
+            </adress>
+        </customer>
+        <fridge>
+            <fridge_type>Hat</fridge_type>
+            <price>621</price>
+        </fridge>
+    </complaint>
+    <complaint id="10" isresolved="false" issuedate="2021-06-28">
+        <customer>
+            <email>Alize75@yahoo.com</email>
+            <lastactive>2021-11-19</lastactive>
+            <adress>
+                <adress zip="63906" country="ET">
+                    <street>
+                        <name>Madilyn Place</name>
+                        <number>94</number>
+                    </street>
+                </adress>
+            </adress>
+        </customer>
+        <fridge>
+            <fridge_type>Ball</fridge_type>
+            <price>537</price>
+        </fridge>
+    </complaint>
+    <complaint id="11" isresolved="true" issuedate="2021-05-01">
+        <customer>
+            <email>Pamela32@gmail.com</email>
+            <lastactive>2021-06-21</lastactive>
+            <adress>
+                <adress zip="69822-0366" country="AL">
+                    <street>
+                        <name>Mauricio Views</name>
+                        <number>295</number>
+                    </street>
+                </adress>
+            </adress>
+        </customer>
+        <fridge>
+            <fridge_type>Pants</fridge_type>
+            <price>952</price>
+        </fridge>
+    </complaint>
+    <complaint id="12" isresolved="true" issuedate="2021-09-10">
+        <customer>
+            <email>Braxton.Prosacco@hotmail.com</email>
+            <lastactive>2022-03-16</lastactive>
+            <adress>
+                <adress zip="14396-5764" country="IS">
+                    <street>
+                        <name>Bins Row</name>
+                        <number>1437</number>
+                    </street>
+                </adress>
+            </adress>
+        </customer>
+        <fridge>
+            <fridge_type>Soap</fridge_type>
+            <price>463</price>
+        </fridge>
+    </complaint>
+    <complaint id="13" isresolved="true" issuedate="2022-02-10">
+        <customer>
+            <email>Rose.Dietrich31@hotmail.com</email>
+            <lastactive>2021-07-22</lastactive>
+            <adress>
+                <adress zip="44807-0852" country="TR">
+                    <street>
+                        <name>Murazik Islands</name>
+                        <number>1494</number>
+                    </street>
+                </adress>
+            </adress>
+        </customer>
+        <fridge>
+            <fridge_type>Tuna</fridge_type>
+            <price>838</price>
+        </fridge>
+    </complaint>
+    <complaint id="14" isresolved="false" issuedate="2021-12-16">
+        <customer>
+            <email>Jaren51@hotmail.com</email>
+            <lastactive>2021-11-25</lastactive>
+            <adress>
+                <adress zip="65528-0351" country="DE">
+                    <street>
+                        <name>Nikko Cove</name>
+                        <number>1714</number>
+                    </street>
+                </adress>
+            </adress>
+        </customer>
+        <fridge>
+            <fridge_type>Table</fridge_type>
+            <price>502</price>
+        </fridge>
+    </complaint>
+    <complaint id="15" isresolved="false" issuedate="2021-05-02">
+        <customer>
+            <email>Arlene_Marquardt1@hotmail.com</email>
+            <lastactive>2022-02-15</lastactive>
+            <adress>
+                <adress zip="29198" country="GG">
+                    <street>
+                        <name>Wolf Cape</name>
+                        <number>829</number>
+                    </street>
+                </adress>
+            </adress>
+        </customer>
+        <fridge>
+            <fridge_type>Bike</fridge_type>
+            <price>977</price>
+        </fridge>
+    </complaint>
+    <complaint id="16" isresolved="false" issuedate="2021-07-27">
+        <customer>
+            <email>Toby83@gmail.com</email>
+            <lastactive>2021-06-16</lastactive>
+            <adress>
+                <adress zip="27644-3564" country="CU">
+                    <street>
+                        <name>Lea Stravenue</name>
+                        <number>1291</number>
+                    </street>
+                </adress>
+            </adress>
+        </customer>
+        <fridge>
+            <fridge_type>Pizza</fridge_type>
+            <price>698</price>
+        </fridge>
+    </complaint>
+    <complaint id="17" isresolved="true" issuedate="2021-06-30">
+        <customer>
+            <email>Marcelo_Bradtke8@hotmail.com</email>
+            <lastactive>2021-06-11</lastactive>
+            <adress>
+                <adress zip="61776-2462" country="KR">
+                    <street>
+                        <name>Dylan Green</name>
+                        <number>1201</number>
+                    </street>
+                </adress>
+            </adress>
+        </customer>
+        <fridge>
+            <fridge_type>Tuna</fridge_type>
+            <price>823</price>
+        </fridge>
+    </complaint>
+    <complaint id="18" isresolved="true" issuedate="2021-04-30">
+        <customer>
+            <email>Tessie6@yahoo.com</email>
+            <lastactive>2021-08-16</lastactive>
+            <adress>
+                <adress zip="55475" country="IS">
+                    <street>
+                        <name>Lennie Hill</name>
+                        <number>1763</number>
+                    </street>
+                </adress>
+            </adress>
+        </customer>
+        <fridge>
+            <fridge_type>Bike</fridge_type>
+            <price>548</price>
+        </fridge>
+    </complaint>
+    <complaint id="19" isresolved="false" issuedate="2022-03-09">
+        <customer>
+            <email>Arlie_Brekke@yahoo.com</email>
+            <lastactive>2021-10-30</lastactive>
+            <adress>
+                <adress zip="82516" country="US">
+                    <street>
+                        <name>Towne Divide</name>
+                        <number>1418</number>
+                    </street>
+                </adress>
+            </adress>
+        </customer>
+        <fridge>
+            <fridge_type>Car</fridge_type>
+            <price>956</price>
+        </fridge>
+    </complaint>
+    <complaint id="20" isresolved="false" issuedate="2021-09-18">
+        <customer>
+            <email>Ilene14@hotmail.com</email>
+            <lastactive>2022-02-25</lastactive>
+            <adress>
+                <adress zip="87775-9548" country="NC">
+                    <street>
+                        <name>Gay Springs</name>
+                        <number>1742</number>
+                    </street>
+                </adress>
+            </adress>
+        </customer>
+        <fridge>
+            <fridge_type>Table</fridge_type>
+            <price>843</price>
+        </fridge>
+    </complaint>
+    <complaint id="21" isresolved="true" issuedate="2022-03-08">
+        <customer>
+            <email>Filiberto_Vandervort@gmail.com</email>
+            <lastactive>2021-05-22</lastactive>
+            <adress>
+                <adress zip="40672-2951" country="VA">
+                    <street>
+                        <name>Haag Parkways</name>
+                        <number>975</number>
+                    </street>
+                </adress>
+            </adress>
+        </customer>
+        <fridge>
+            <fridge_type>Towels</fridge_type>
+            <price>724</price>
+        </fridge>
+    </complaint>
+    <complaint id="22" isresolved="true" issuedate="2021-07-27">
+        <customer>
+            <email>Alverta.Schiller39@hotmail.com</email>
+            <lastactive>2021-05-30</lastactive>
+            <adress>
+                <adress zip="22235-1590" country="RW">
+                    <street>
+                        <name>Bridgette Streets</name>
+                        <number>1451</number>
+                    </street>
+                </adress>
+            </adress>
+        </customer>
+        <fridge>
+            <fridge_type>Fish</fridge_type>
+            <price>235</price>
+        </fridge>
+    </complaint>
+    <complaint id="23" isresolved="false" issuedate="2021-11-01">
+        <customer>
+            <email>Valentina.Carter19@gmail.com</email>
+            <lastactive>2022-01-20</lastactive>
+            <adress>
+                <adress zip="07480" country="KP">
+                    <street>
+                        <name>Sauer Views</name>
+                        <number>273</number>
+                    </street>
+                </adress>
+            </adress>
+        </customer>
+        <fridge>
+            <fridge_type>Ball</fridge_type>
+            <price>585</price>
+        </fridge>
+    </complaint>
+    <complaint id="24" isresolved="true" issuedate="2022-01-01">
+        <customer>
+            <email>Ryley77@hotmail.com</email>
+            <lastactive>2022-02-02</lastactive>
+            <adress>
+                <adress zip="11594-2901" country="CM">
+                    <street>
+                        <name>Myles Haven</name>
+                        <number>1056</number>
+                    </street>
+                </adress>
+            </adress>
+        </customer>
+        <fridge>
+            <fridge_type>Car</fridge_type>
+            <price>390</price>
+        </fridge>
+    </complaint>
+    <complaint id="25" isresolved="true" issuedate="2021-08-16">
+        <customer>
+            <email>Alford.Swift33@yahoo.com</email>
+            <lastactive>2021-11-20</lastactive>
+            <adress>
+                <adress zip="79942-7637" country="SI">
+                    <street>
+                        <name>Skiles Meadows</name>
+                        <number>701</number>
+                    </street>
+                </adress>
+            </adress>
+        </customer>
+        <fridge>
+            <fridge_type>Soap</fridge_type>
+            <price>979</price>
+        </fridge>
+    </complaint>
+    <complaint id="26" isresolved="false" issuedate="2021-05-10">
+        <customer>
+            <email>Tanner_Haley@gmail.com</email>
+            <lastactive>2021-05-03</lastactive>
+            <adress>
+                <adress zip="76739" country="CX">
+                    <street>
+                        <name>Dooley Corner</name>
+                        <number>1219</number>
+                    </street>
+                </adress>
+            </adress>
+        </customer>
+        <fridge>
+            <fridge_type>Car</fridge_type>
+            <price>313</price>
+        </fridge>
+    </complaint>
+    <complaint id="27" isresolved="true" issuedate="2021-05-22">
+        <customer>
+            <email>Luz27@hotmail.com</email>
+            <lastactive>2021-07-22</lastactive>
+            <adress>
+                <adress zip="26687-5041" country="KM">
+                    <street>
+                        <name>Jazmin Lane</name>
+                        <number>669</number>
+                    </street>
+                </adress>
+            </adress>
+        </customer>
+        <fridge>
+            <fridge_type>Fish</fridge_type>
+            <price>202</price>
+        </fridge>
+    </complaint>
+    <complaint id="28" isresolved="true" issuedate="2021-09-19">
+        <customer>
+            <email>Stanley_Kub@hotmail.com</email>
+            <lastactive>2021-06-30</lastactive>
+            <adress>
+                <adress zip="25507" country="IT">
+                    <street>
+                        <name>O&apos;Keefe Locks</name>
+                        <number>1809</number>
+                    </street>
+                </adress>
+            </adress>
+        </customer>
+        <fridge>
+            <fridge_type>Chair</fridge_type>
+            <price>741</price>
+        </fridge>
+    </complaint>
+    <complaint id="29" isresolved="false" issuedate="2021-06-14">
+        <customer>
+            <email>Princess95@gmail.com</email>
+            <lastactive>2021-07-11</lastactive>
+            <adress>
+                <adress zip="84933-2227" country="BW">
+                    <street>
+                        <name>Beth Station</name>
+                        <number>888</number>
+                    </street>
+                </adress>
+            </adress>
+        </customer>
+        <fridge>
+            <fridge_type>Towels</fridge_type>
+            <price>632</price>
+        </fridge>
+    </complaint>
+</ComplaintOverview>

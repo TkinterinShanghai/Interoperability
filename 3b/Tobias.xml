@@ -1,0 +1,1627 @@
+<player_game_list_information>
+    <xml_list social_security_number="13" player_name="PlayerName13" mail="personal.mail@mailbox.org">
+        <detail_information>
+            <date_xml>
+                <date_format_year_month_day>
+                    <date_of_birth day="1" month="FEBRUARY" year="1980" />
+                </date_format_year_month_day>
+            </date_xml>
+            <how_contact>personal.mail@mailbox.org</how_contact>
+            <player_game_name>{"player":{"player_name":{"given_name":"Marius","family_name":"Stregge"}}}</player_game_name>
+            <genre>Adventure</genre>
+            <place_list>PC</place_list>
+        </detail_information>
+    </xml_list>
+    <xml_list social_security_number="16" player_name="PlayerName16" mail="personal.mail@mailbox.org">
+        <detail_information>
+            <date_xml>
+                <date_format_year_month_day>
+                    <date_of_birth day="23" month="FEBRUARY" year="1993" />
+                </date_format_year_month_day>
+            </date_xml>
+            <how_contact>personal.mail@mailbox.org</how_contact>
+            <player_game_name>{"player":{"player_name":{"given_name":"Diana","family_name":"Lang"}}}</player_game_name>
+            <genre>Jump n Run</genre>
+            <place_list>PC</place_list>
+        </detail_information>
+    </xml_list>
+    <xml_list social_security_number="19" player_name="PlayerName19" mail="personal.mail@mailbox.org">
+        <detail_information>
+            <date_xml>
+                <date_format_year_month_day>
+                    <date_of_birth day="28" month="DECEMBER" year="1979" />
+                </date_format_year_month_day>
+            </date_xml>
+            <how_contact>personal.mail@mailbox.org</how_contact>
+            <player_game_name>{"player":{"player_name":{"given_name":"Miriam","family_name":"Fuchs"}}}</player_game_name>
+            <genre>Ego-Shooter</genre>
+            <place_list>PC</place_list>
+        </detail_information>
+    </xml_list>
+    <xml_list social_security_number="20" player_name="PlayerName20" mail="personal.mail@mailbox.org">
+        <detail_information>
+            <date_xml>
+                <date_format_year_month_day>
+                    <date_of_birth day="5" month="MAY" year="1988" />
+                </date_format_year_month_day>
+            </date_xml>
+            <how_contact>personal.mail@mailbox.org</how_contact>
+            <player_game_name>{"player":{"player_name":{"given_name":"Manuel","family_name":"Mueller"}}}</player_game_name>
+            <genre>Ego-Shooter</genre>
+            <place_list>PC</place_list>
+        </detail_information>
+    </xml_list>
+    <xml_list social_security_number="21" player_name="PlayerName21" mail="personal.mail@mailbox.org">
+        <detail_information>
+            <date_xml>
+                <date_format_year_month_day>
+                    <date_of_birth day="22" month="JANUARY" year="1998" />
+                </date_format_year_month_day>
+            </date_xml>
+            <how_contact>personal.mail@mailbox.org</how_contact>
+            <player_game_name>{"player":{"player_name":{"given_name":"Miriam","family_name":"Aigner"}}}</player_game_name>
+            <genre>Strategy</genre>
+            <place_list>PC</place_list>
+        </detail_information>
+    </xml_list>
+    <xml_list social_security_number="25" player_name="PlayerName25" mail="personal.mail@mailbox.org">
+        <detail_information>
+            <date_xml>
+                <date_format_year_month_day>
+                    <date_of_birth day="15" month="MARCH" year="1979" />
+                </date_format_year_month_day>
+            </date_xml>
+            <how_contact>personal.mail@mailbox.org</how_contact>
+            <player_game_name>{"player":{"player_name":{"given_name":"Manuel","family_name":"Mustermann"}}}</player_game_name>
+            <genre>Strategy</genre>
+            <place_list>PC</place_list>
+        </detail_information>
+    </xml_list>
+    <xml_list social_security_number="25" player_name="PlayerName25" mail="personal.mail@mailbox.org">
+        <detail_information>
+            <date_xml>
+                <date_format_year_month_day>
+                    <date_of_birth day="15" month="MARCH" year="1979" />
+                </date_format_year_month_day>
+            </date_xml>
+            <how_contact>personal.mail@mailbox.org</how_contact>
+            <player_game_name>{"player":{"player_name":{"given_name":"Manuel","family_name":"Mustermann"}}}</player_game_name>
+            <genre>Strategy</genre>
+            <place_list>PC</place_list>
+        </detail_information>
+    </xml_list>
+    <xml_list social_security_number="32" player_name="PlayerName32" mail="personal.mail@mailbox.org">
+        <detail_information>
+            <date_xml>
+                <date_format_year_month_day>
+                    <date_of_birth day="15" month="JANUARY" year="1976" />
+                </date_format_year_month_day>
+            </date_xml>
+            <how_contact>personal.mail@mailbox.org</how_contact>
+            <player_game_name>{"player":{"player_name":{"given_name":"Miriam","family_name":"Lang"}}}</player_game_name>
+            <genre>MMORPG</genre>
+            <place_list>PC</place_list>
+        </detail_information>
+    </xml_list>
+    <xml_list social_security_number="43" player_name="PlayerName43" mail="personal.mail@mailbox.org">
+        <detail_information>
+            <date_xml>
+                <date_format_year_month_day>
+                    <date_of_birth day="27" month="MAY" year="1970" />
+                </date_format_year_month_day>
+            </date_xml>
+            <how_contact>personal.mail@mailbox.org</how_contact>
+            <player_game_name>{"player":{"player_name":{"given_name":"Marius","family_name":"Mustermann"}}}</player_game_name>
+            <genre>Strategy</genre>
+            <place_list>PC</place_list>
+        </detail_information>
+    </xml_list>
+    <xml_list social_security_number="44" player_name="PlayerName44" mail="personal.mail@mailbox.org">
+        <detail_information>
+            <date_xml>
+                <date_format_year_month_day>
+                    <date_of_birth day="19" month="FEBRUARY" year="1980" />
+                </date_format_year_month_day>
+            </date_xml>
+            <how_contact>personal.mail@mailbox.org</how_contact>
+            <player_game_name>{"player":{"player_name":{"given_name":"Erik","family_name":"Stregge"}}}</player_game_name>
+            <genre>Adventure</genre>
+            <place_list>PC</place_list>
+        </detail_information>
+    </xml_list>
+    <xml_list social_security_number="49" player_name="PlayerName49" mail="personal.mail@mailbox.org">
+        <detail_information>
+            <date_xml>
+                <date_format_year_month_day>
+                    <date_of_birth day="14" month="FEBRUARY" year="1990" />
+                </date_format_year_month_day>
+            </date_xml>
+            <how_contact>personal.mail@mailbox.org</how_contact>
+            <player_game_name>{"player":{"player_name":{"given_name":"Diana","family_name":"Stregge"}}}</player_game_name>
+            <genre>Action</genre>
+            <place_list>PC</place_list>
+        </detail_information>
+    </xml_list>
+    <xml_list social_security_number="52" player_name="PlayerName52" mail="personal.mail@mailbox.org">
+        <detail_information>
+            <date_xml>
+                <date_format_year_month_day>
+                    <date_of_birth day="4" month="MAY" year="1973" />
+                </date_format_year_month_day>
+            </date_xml>
+            <how_contact>personal.mail@mailbox.org</how_contact>
+            <player_game_name>{"player":{"player_name":{"given_name":"Miriam","family_name":"Mueller"}}}</player_game_name>
+            <genre>Adventure</genre>
+            <place_list>PC</place_list>
+        </detail_information>
+    </xml_list>
+    <xml_list social_security_number="52" player_name="PlayerName52" mail="personal.mail@mailbox.org">
+        <detail_information>
+            <date_xml>
+                <date_format_year_month_day>
+                    <date_of_birth day="4" month="MAY" year="1973" />
+                </date_format_year_month_day>
+            </date_xml>
+            <how_contact>personal.mail@mailbox.org</how_contact>
+            <player_game_name>{"player":{"player_name":{"given_name":"Miriam","family_name":"Mueller"}}}</player_game_name>
+            <genre>Adventure</genre>
+            <place_list>PC</place_list>
+        </detail_information>
+    </xml_list>
+    <xml_list social_security_number="52" player_name="PlayerName52" mail="personal.mail@mailbox.org">
+        <detail_information>
+            <date_xml>
+                <date_format_year_month_day>
+                    <date_of_birth day="4" month="MAY" year="1973" />
+                </date_format_year_month_day>
+            </date_xml>
+            <how_contact>personal.mail@mailbox.org</how_contact>
+            <player_game_name>{"player":{"player_name":{"given_name":"Miriam","family_name":"Mueller"}}}</player_game_name>
+            <genre>Adventure</genre>
+            <place_list>PC</place_list>
+        </detail_information>
+    </xml_list>
+    <xml_list social_security_number="56" player_name="PlayerName56" mail="personal.mail@mailbox.org">
+        <detail_information>
+            <date_xml>
+                <date_format_year_month_day>
+                    <date_of_birth day="2" month="AUGUST" year="1988" />
+                </date_format_year_month_day>
+            </date_xml>
+            <how_contact>personal.mail@mailbox.org</how_contact>
+            <player_game_name>{"player":{"player_name":{"given_name":"Sophie","family_name":"Mueller"}}}</player_game_name>
+            <genre>Adventure</genre>
+            <place_list>PC</place_list>
+        </detail_information>
+    </xml_list>
+    <xml_list social_security_number="61" player_name="PlayerName61" mail="personal.mail@mailbox.org">
+        <detail_information>
+            <date_xml>
+                <date_format_year_month_day>
+                    <date_of_birth day="16" month="JUNE" year="2010" />
+                </date_format_year_month_day>
+            </date_xml>
+            <how_contact>personal.mail@mailbox.org</how_contact>
+            <player_game_name>{"player":{"player_name":{"given_name":"Tobias","family_name":"Schmid"}}}</player_game_name>
+            <genre>MMORPG</genre>
+            <place_list>PC</place_list>
+        </detail_information>
+    </xml_list>
+    <xml_list social_security_number="61" player_name="PlayerName61" mail="personal.mail@mailbox.org">
+        <detail_information>
+            <date_xml>
+                <date_format_year_month_day>
+                    <date_of_birth day="16" month="JUNE" year="2010" />
+                </date_format_year_month_day>
+            </date_xml>
+            <how_contact>personal.mail@mailbox.org</how_contact>
+            <player_game_name>{"player":{"player_name":{"given_name":"Tobias","family_name":"Schmid"}}}</player_game_name>
+            <genre>MMORPG</genre>
+            <place_list>PC</place_list>
+        </detail_information>
+    </xml_list>
+    <xml_list social_security_number="61" player_name="PlayerName61" mail="personal.mail@mailbox.org">
+        <detail_information>
+            <date_xml>
+                <date_format_year_month_day>
+                    <date_of_birth day="16" month="JUNE" year="2010" />
+                </date_format_year_month_day>
+            </date_xml>
+            <how_contact>personal.mail@mailbox.org</how_contact>
+            <player_game_name>{"player":{"player_name":{"given_name":"Tobias","family_name":"Schmid"}}}</player_game_name>
+            <genre>MMORPG</genre>
+            <place_list>PC</place_list>
+        </detail_information>
+    </xml_list>
+    <xml_list social_security_number="64" player_name="PlayerName64" mail="personal.mail@mailbox.org">
+        <detail_information>
+            <date_xml>
+                <date_format_year_month_day>
+                    <date_of_birth day="17" month="MAY" year="1975" />
+                </date_format_year_month_day>
+            </date_xml>
+            <how_contact>personal.mail@mailbox.org</how_contact>
+            <player_game_name>{"player":{"player_name":{"given_name":"Tobias","family_name":"Lang"}}}</player_game_name>
+            <genre>Action</genre>
+            <place_list>PC</place_list>
+        </detail_information>
+    </xml_list>
+    <xml_list social_security_number="66" player_name="PlayerName66" mail="personal.mail@mailbox.org">
+        <detail_information>
+            <date_xml>
+                <date_format_year_month_day>
+                    <date_of_birth day="2" month="FEBRUARY" year="1992" />
+                </date_format_year_month_day>
+            </date_xml>
+            <how_contact>personal.mail@mailbox.org</how_contact>
+            <player_game_name>{"player":{"player_name":{"given_name":"Miriam","family_name":"Schmid"}}}</player_game_name>
+            <genre>Strategy</genre>
+            <place_list>PC</place_list>
+        </detail_information>
+    </xml_list>
+    <xml_list social_security_number="66" player_name="PlayerName66" mail="personal.mail@mailbox.org">
+        <detail_information>
+            <date_xml>
+                <date_format_year_month_day>
+                    <date_of_birth day="2" month="FEBRUARY" year="1992" />
+                </date_format_year_month_day>
+            </date_xml>
+            <how_contact>personal.mail@mailbox.org</how_contact>
+            <player_game_name>{"player":{"player_name":{"given_name":"Miriam","family_name":"Schmid"}}}</player_game_name>
+            <genre>Strategy</genre>
+            <place_list>PC</place_list>
+        </detail_information>
+    </xml_list>
+    <xml_list social_security_number="69" player_name="PlayerName69" mail="personal.mail@mailbox.org">
+        <detail_information>
+            <date_xml>
+                <date_format_year_month_day>
+                    <date_of_birth day="17" month="JULY" year="2009" />
+                </date_format_year_month_day>
+            </date_xml>
+            <how_contact>personal.mail@mailbox.org</how_contact>
+            <player_game_name>{"player":{"player_name":{"given_name":"Manuel","family_name":"Schmid"}}}</player_game_name>
+            <genre>Adventure</genre>
+            <place_list>PC</place_list>
+        </detail_information>
+    </xml_list>
+    <xml_list social_security_number="76" player_name="PlayerName76" mail="personal.mail@mailbox.org">
+        <detail_information>
+            <date_xml>
+                <date_format_year_month_day>
+                    <date_of_birth day="2" month="MARCH" year="1997" />
+                </date_format_year_month_day>
+            </date_xml>
+            <how_contact>personal.mail@mailbox.org</how_contact>
+            <player_game_name>{"player":{"player_name":{"given_name":"Erik","family_name":"Mueller"}}}</player_game_name>
+            <genre>Adventure</genre>
+            <place_list>PC</place_list>
+        </detail_information>
+    </xml_list>
+    <xml_list social_security_number="84" player_name="PlayerName84" mail="personal.mail@mailbox.org">
+        <detail_information>
+            <date_xml>
+                <date_format_year_month_day>
+                    <date_of_birth day="21" month="OCTOBER" year="1976" />
+                </date_format_year_month_day>
+            </date_xml>
+            <how_contact>personal.mail@mailbox.org</how_contact>
+            <player_game_name>{"player":{"player_name":{"given_name":"Julian","family_name":"Stregge"}}}</player_game_name>
+            <genre>Jump n Run</genre>
+            <place_list>PC</place_list>
+        </detail_information>
+    </xml_list>
+    <xml_list social_security_number="85" player_name="PlayerName85" mail="personal.mail@mailbox.org">
+        <detail_information>
+            <date_xml>
+                <date_format_year_month_day>
+                    <date_of_birth day="27" month="MARCH" year="1975" />
+                </date_format_year_month_day>
+            </date_xml>
+            <how_contact>personal.mail@mailbox.org</how_contact>
+            <player_game_name>{"player":{"player_name":{"given_name":"Sophie","family_name":"Stregge"}}}</player_game_name>
+            <genre>Action</genre>
+            <place_list>PC</place_list>
+        </detail_information>
+    </xml_list>
+    <xml_list social_security_number="93" player_name="PlayerName93" mail="personal.mail@mailbox.org">
+        <detail_information>
+            <date_xml>
+                <date_format_year_month_day>
+                    <date_of_birth day="18" month="MAY" year="2009" />
+                </date_format_year_month_day>
+            </date_xml>
+            <how_contact>personal.mail@mailbox.org</how_contact>
+            <player_game_name>{"player":{"player_name":{"given_name":"Diana","family_name":"Aigner"}}}</player_game_name>
+            <genre>Strategy</genre>
+            <place_list>PC</place_list>
+        </detail_information>
+    </xml_list>
+    <xml_list social_security_number="94" player_name="PlayerName94" mail="personal.mail@mailbox.org">
+        <detail_information>
+            <date_xml>
+                <date_format_year_month_day>
+                    <date_of_birth day="17" month="MAY" year="1988" />
+                </date_format_year_month_day>
+            </date_xml>
+            <how_contact>personal.mail@mailbox.org</how_contact>
+            <player_game_name>{"player":{"player_name":{"given_name":"Julian","family_name":"Mueller"}}}</player_game_name>
+            <genre>Jump n Run</genre>
+            <place_list>PC</place_list>
+        </detail_information>
+    </xml_list>
+    <xml_list social_security_number="101" player_name="PlayerName101" mail="personal.mail@mailbox.org">
+        <detail_information>
+            <date_xml>
+                <date_format_year_month_day>
+                    <date_of_birth day="13" month="APRIL" year="1990" />
+                </date_format_year_month_day>
+            </date_xml>
+            <how_contact>personal.mail@mailbox.org</how_contact>
+            <player_game_name>{"player":{"player_name":{"given_name":"Erik","family_name":"Stregge"}}}</player_game_name>
+            <genre>MMORPG</genre>
+            <place_list>PC</place_list>
+        </detail_information>
+    </xml_list>
+    <xml_list social_security_number="109" player_name="PlayerName109" mail="personal.mail@mailbox.org">
+        <detail_information>
+            <date_xml>
+                <date_format_year_month_day>
+                    <date_of_birth day="21" month="JANUARY" year="2003" />
+                </date_format_year_month_day>
+            </date_xml>
+            <how_contact>personal.mail@mailbox.org</how_contact>
+            <player_game_name>{"player":{"player_name":{"given_name":"Manuel","family_name":"Mustermann"}}}</player_game_name>
+            <genre>Strategy</genre>
+            <place_list>PC</place_list>
+        </detail_information>
+    </xml_list>
+    <xml_list social_security_number="120" player_name="PlayerName120" mail="personal.mail@mailbox.org">
+        <detail_information>
+            <date_xml>
+                <date_format_year_month_day>
+                    <date_of_birth day="28" month="MAY" year="1994" />
+                </date_format_year_month_day>
+            </date_xml>
+            <how_contact>personal.mail@mailbox.org</how_contact>
+            <player_game_name>{"player":{"player_name":{"given_name":"Julian","family_name":"Mustermann"}}}</player_game_name>
+            <genre>Adventure</genre>
+            <place_list>PC</place_list>
+        </detail_information>
+    </xml_list>
+    <xml_list social_security_number="126" player_name="PlayerName126" mail="personal.mail@mailbox.org">
+        <detail_information>
+            <date_xml>
+                <date_format_year_month_day>
+                    <date_of_birth day="25" month="OCTOBER" year="1985" />
+                </date_format_year_month_day>
+            </date_xml>
+            <how_contact>personal.mail@mailbox.org</how_contact>
+            <player_game_name>{"player":{"player_name":{"given_name":"Sophie","family_name":"Mueller"}}}</player_game_name>
+            <genre>MMORPG</genre>
+            <place_list>PC</place_list>
+        </detail_information>
+    </xml_list>
+    <xml_list social_security_number="130" player_name="PlayerName130" mail="personal.mail@mailbox.org">
+        <detail_information>
+            <date_xml>
+                <date_format_year_month_day>
+                    <date_of_birth day="12" month="JANUARY" year="1971" />
+                </date_format_year_month_day>
+            </date_xml>
+            <how_contact>personal.mail@mailbox.org</how_contact>
+            <player_game_name>{"player":{"player_name":{"given_name":"Miriam","family_name":"Stregge"}}}</player_game_name>
+            <genre>MMORPG</genre>
+            <place_list>PC</place_list>
+        </detail_information>
+    </xml_list>
+    <xml_list social_security_number="134" player_name="PlayerName134" mail="personal.mail@mailbox.org">
+        <detail_information>
+            <date_xml>
+                <date_format_year_month_day>
+                    <date_of_birth day="20" month="JULY" year="1974" />
+                </date_format_year_month_day>
+            </date_xml>
+            <how_contact>personal.mail@mailbox.org</how_contact>
+            <player_game_name>{"player":{"player_name":{"given_name":"Tobias","family_name":"Mustermann"}}}</player_game_name>
+            <genre>Strategy</genre>
+            <place_list>PC</place_list>
+        </detail_information>
+    </xml_list>
+    <xml_list social_security_number="136" player_name="PlayerName136" mail="personal.mail@mailbox.org">
+        <detail_information>
+            <date_xml>
+                <date_format_year_month_day>
+                    <date_of_birth day="11" month="AUGUST" year="1971" />
+                </date_format_year_month_day>
+            </date_xml>
+            <how_contact>personal.mail@mailbox.org</how_contact>
+            <player_game_name>{"player":{"player_name":{"given_name":"Manuel","family_name":"Stregge"}}}</player_game_name>
+            <genre>Ego-Shooter</genre>
+            <place_list>PC</place_list>
+        </detail_information>
+    </xml_list>
+    <xml_list social_security_number="136" player_name="PlayerName136" mail="personal.mail@mailbox.org">
+        <detail_information>
+            <date_xml>
+                <date_format_year_month_day>
+                    <date_of_birth day="11" month="AUGUST" year="1971" />
+                </date_format_year_month_day>
+            </date_xml>
+            <how_contact>personal.mail@mailbox.org</how_contact>
+            <player_game_name>{"player":{"player_name":{"given_name":"Manuel","family_name":"Stregge"}}}</player_game_name>
+            <genre>Ego-Shooter</genre>
+            <place_list>PC</place_list>
+        </detail_information>
+    </xml_list>
+    <xml_list social_security_number="137" player_name="PlayerName137" mail="personal.mail@mailbox.org">
+        <detail_information>
+            <date_xml>
+                <date_format_year_month_day>
+                    <date_of_birth day="23" month="JULY" year="1994" />
+                </date_format_year_month_day>
+            </date_xml>
+            <how_contact>personal.mail@mailbox.org</how_contact>
+            <player_game_name>{"player":{"player_name":{"given_name":"Erik","family_name":"Holzer"}}}</player_game_name>
+            <genre>MMORPG</genre>
+            <place_list>PC</place_list>
+        </detail_information>
+    </xml_list>
+    <xml_list social_security_number="138" player_name="PlayerName138" mail="personal.mail@mailbox.org">
+        <detail_information>
+            <date_xml>
+                <date_format_year_month_day>
+                    <date_of_birth day="5" month="FEBRUARY" year="1976" />
+                </date_format_year_month_day>
+            </date_xml>
+            <how_contact>personal.mail@mailbox.org</how_contact>
+            <player_game_name>{"player":{"player_name":{"given_name":"Sophie","family_name":"Fuchs"}}}</player_game_name>
+            <genre>Action</genre>
+            <place_list>PC</place_list>
+        </detail_information>
+    </xml_list>
+    <xml_list social_security_number="139" player_name="PlayerName139" mail="personal.mail@mailbox.org">
+        <detail_information>
+            <date_xml>
+                <date_format_year_month_day>
+                    <date_of_birth day="7" month="FEBRUARY" year="1996" />
+                </date_format_year_month_day>
+            </date_xml>
+            <how_contact>personal.mail@mailbox.org</how_contact>
+            <player_game_name>{"player":{"player_name":{"given_name":"Marius","family_name":"Holzer"}}}</player_game_name>
+            <genre>Adventure</genre>
+            <place_list>PC</place_list>
+        </detail_information>
+    </xml_list>
+    <xml_list social_security_number="139" player_name="PlayerName139" mail="personal.mail@mailbox.org">
+        <detail_information>
+            <date_xml>
+                <date_format_year_month_day>
+                    <date_of_birth day="7" month="FEBRUARY" year="1996" />
+                </date_format_year_month_day>
+            </date_xml>
+            <how_contact>personal.mail@mailbox.org</how_contact>
+            <player_game_name>{"player":{"player_name":{"given_name":"Marius","family_name":"Holzer"}}}</player_game_name>
+            <genre>Adventure</genre>
+            <place_list>PC</place_list>
+        </detail_information>
+    </xml_list>
+    <xml_list social_security_number="144" player_name="PlayerName144" mail="personal.mail@mailbox.org">
+        <detail_information>
+            <date_xml>
+                <date_format_year_month_day>
+                    <date_of_birth day="17" month="JANUARY" year="1976" />
+                </date_format_year_month_day>
+            </date_xml>
+            <how_contact>personal.mail@mailbox.org</how_contact>
+            <player_game_name>{"player":{"player_name":{"given_name":"Julian","family_name":"Holzer"}}}</player_game_name>
+            <genre>Jump n Run</genre>
+            <place_list>PC</place_list>
+        </detail_information>
+    </xml_list>
+    <xml_list social_security_number="145" player_name="PlayerName145" mail="personal.mail@mailbox.org">
+        <detail_information>
+            <date_xml>
+                <date_format_year_month_day>
+                    <date_of_birth day="26" month="JUNE" year="1992" />
+                </date_format_year_month_day>
+            </date_xml>
+            <how_contact>personal.mail@mailbox.org</how_contact>
+            <player_game_name>{"player":{"player_name":{"given_name":"Julian","family_name":"Aigner"}}}</player_game_name>
+            <genre>MMORPG</genre>
+            <place_list>PC</place_list>
+        </detail_information>
+    </xml_list>
+    <xml_list social_security_number="146" player_name="PlayerName146" mail="personal.mail@mailbox.org">
+        <detail_information>
+            <date_xml>
+                <date_format_year_month_day>
+                    <date_of_birth day="12" month="JANUARY" year="1978" />
+                </date_format_year_month_day>
+            </date_xml>
+            <how_contact>personal.mail@mailbox.org</how_contact>
+            <player_game_name>{"player":{"player_name":{"given_name":"Marius","family_name":"Lang"}}}</player_game_name>
+            <genre>Action</genre>
+            <place_list>PC</place_list>
+        </detail_information>
+    </xml_list>
+    <xml_list social_security_number="153" player_name="PlayerName153" mail="personal.mail@mailbox.org">
+        <detail_information>
+            <date_xml>
+                <date_format_year_month_day>
+                    <date_of_birth day="13" month="JANUARY" year="1980" />
+                </date_format_year_month_day>
+            </date_xml>
+            <how_contact>personal.mail@mailbox.org</how_contact>
+            <player_game_name>{"player":{"player_name":{"given_name":"Marius","family_name":"Fuchs"}}}</player_game_name>
+            <genre>Jump n Run</genre>
+            <place_list>PC</place_list>
+        </detail_information>
+    </xml_list>
+    <xml_list social_security_number="157" player_name="PlayerName157" mail="personal.mail@mailbox.org">
+        <detail_information>
+            <date_xml>
+                <date_format_year_month_day>
+                    <date_of_birth day="24" month="NOVEMBER" year="2006" />
+                </date_format_year_month_day>
+            </date_xml>
+            <how_contact>personal.mail@mailbox.org</how_contact>
+            <player_game_name>{"player":{"player_name":{"given_name":"Julian","family_name":"Aigner"}}}</player_game_name>
+            <genre>Ego-Shooter</genre>
+            <place_list>PC</place_list>
+        </detail_information>
+    </xml_list>
+    <xml_list social_security_number="158" player_name="PlayerName158" mail="personal.mail@mailbox.org">
+        <detail_information>
+            <date_xml>
+                <date_format_year_month_day>
+                    <date_of_birth day="6" month="OCTOBER" year="1977" />
+                </date_format_year_month_day>
+            </date_xml>
+            <how_contact>personal.mail@mailbox.org</how_contact>
+            <player_game_name>{"player":{"player_name":{"given_name":"Tobias","family_name":"Aigner"}}}</player_game_name>
+            <genre>Action</genre>
+            <place_list>PC</place_list>
+        </detail_information>
+    </xml_list>
+    <xml_list social_security_number="160" player_name="PlayerName160" mail="personal.mail@mailbox.org">
+        <detail_information>
+            <date_xml>
+                <date_format_year_month_day>
+                    <date_of_birth day="26" month="MARCH" year="1985" />
+                </date_format_year_month_day>
+            </date_xml>
+            <how_contact>personal.mail@mailbox.org</how_contact>
+            <player_game_name>{"player":{"player_name":{"given_name":"Miriam","family_name":"Schmid"}}}</player_game_name>
+            <genre>Jump n Run</genre>
+            <place_list>PC</place_list>
+        </detail_information>
+    </xml_list>
+    <xml_list social_security_number="162" player_name="PlayerName162" mail="personal.mail@mailbox.org">
+        <detail_information>
+            <date_xml>
+                <date_format_year_month_day>
+                    <date_of_birth day="3" month="FEBRUARY" year="1978" />
+                </date_format_year_month_day>
+            </date_xml>
+            <how_contact>personal.mail@mailbox.org</how_contact>
+            <player_game_name>{"player":{"player_name":{"given_name":"Manuel","family_name":"Schmid"}}}</player_game_name>
+            <genre>Action</genre>
+            <place_list>PC</place_list>
+        </detail_information>
+    </xml_list>
+    <xml_list social_security_number="174" player_name="PlayerName174" mail="personal.mail@mailbox.org">
+        <detail_information>
+            <date_xml>
+                <date_format_year_month_day>
+                    <date_of_birth day="25" month="APRIL" year="1989" />
+                </date_format_year_month_day>
+            </date_xml>
+            <how_contact>personal.mail@mailbox.org</how_contact>
+            <player_game_name>{"player":{"player_name":{"given_name":"Erik","family_name":"Aigner"}}}</player_game_name>
+            <genre>Adventure</genre>
+            <place_list>PC</place_list>
+        </detail_information>
+    </xml_list>
+    <xml_list social_security_number="175" player_name="PlayerName175" mail="personal.mail@mailbox.org">
+        <detail_information>
+            <date_xml>
+                <date_format_year_month_day>
+                    <date_of_birth day="8" month="APRIL" year="1994" />
+                </date_format_year_month_day>
+            </date_xml>
+            <how_contact>personal.mail@mailbox.org</how_contact>
+            <player_game_name>{"player":{"player_name":{"given_name":"Miriam","family_name":"Holzer"}}}</player_game_name>
+            <genre>Strategy</genre>
+            <place_list>PC</place_list>
+        </detail_information>
+    </xml_list>
+    <xml_list social_security_number="177" player_name="PlayerName177" mail="personal.mail@mailbox.org">
+        <detail_information>
+            <date_xml>
+                <date_format_year_month_day>
+                    <date_of_birth day="14" month="NOVEMBER" year="2008" />
+                </date_format_year_month_day>
+            </date_xml>
+            <how_contact>personal.mail@mailbox.org</how_contact>
+            <player_game_name>{"player":{"player_name":{"given_name":"Erik","family_name":"Aigner"}}}</player_game_name>
+            <genre>Jump n Run</genre>
+            <place_list>PC</place_list>
+        </detail_information>
+    </xml_list>
+    <xml_list social_security_number="183" player_name="PlayerName183" mail="personal.mail@mailbox.org">
+        <detail_information>
+            <date_xml>
+                <date_format_year_month_day>
+                    <date_of_birth day="19" month="MARCH" year="2010" />
+                </date_format_year_month_day>
+            </date_xml>
+            <how_contact>personal.mail@mailbox.org</how_contact>
+            <player_game_name>{"player":{"player_name":{"given_name":"Diana","family_name":"Fuchs"}}}</player_game_name>
+            <genre>Ego-Shooter</genre>
+            <place_list>PC</place_list>
+        </detail_information>
+    </xml_list>
+    <xml_list social_security_number="183" player_name="PlayerName183" mail="personal.mail@mailbox.org">
+        <detail_information>
+            <date_xml>
+                <date_format_year_month_day>
+                    <date_of_birth day="19" month="MARCH" year="2010" />
+                </date_format_year_month_day>
+            </date_xml>
+            <how_contact>personal.mail@mailbox.org</how_contact>
+            <player_game_name>{"player":{"player_name":{"given_name":"Diana","family_name":"Fuchs"}}}</player_game_name>
+            <genre>Ego-Shooter</genre>
+            <place_list>PC</place_list>
+        </detail_information>
+    </xml_list>
+    <xml_list social_security_number="183" player_name="PlayerName183" mail="personal.mail@mailbox.org">
+        <detail_information>
+            <date_xml>
+                <date_format_year_month_day>
+                    <date_of_birth day="19" month="MARCH" year="2010" />
+                </date_format_year_month_day>
+            </date_xml>
+            <how_contact>personal.mail@mailbox.org</how_contact>
+            <player_game_name>{"player":{"player_name":{"given_name":"Diana","family_name":"Fuchs"}}}</player_game_name>
+            <genre>Ego-Shooter</genre>
+            <place_list>PC</place_list>
+        </detail_information>
+    </xml_list>
+    <xml_list social_security_number="186" player_name="PlayerName186" mail="personal.mail@mailbox.org">
+        <detail_information>
+            <date_xml>
+                <date_format_year_month_day>
+                    <date_of_birth day="5" month="SEPTEMBER" year="1970" />
+                </date_format_year_month_day>
+            </date_xml>
+            <how_contact>personal.mail@mailbox.org</how_contact>
+            <player_game_name>{"player":{"player_name":{"given_name":"Miriam","family_name":"Holzer"}}}</player_game_name>
+            <genre>Adventure</genre>
+            <place_list>PC</place_list>
+        </detail_information>
+    </xml_list>
+    <xml_list social_security_number="187" player_name="PlayerName187" mail="personal.mail@mailbox.org">
+        <detail_information>
+            <date_xml>
+                <date_format_year_month_day>
+                    <date_of_birth day="7" month="MAY" year="1972" />
+                </date_format_year_month_day>
+            </date_xml>
+            <how_contact>personal.mail@mailbox.org</how_contact>
+            <player_game_name>{"player":{"player_name":{"given_name":"Erik","family_name":"Mueller"}}}</player_game_name>
+            <genre>Action</genre>
+            <place_list>PC</place_list>
+        </detail_information>
+    </xml_list>
+    <xml_list social_security_number="187" player_name="PlayerName187" mail="personal.mail@mailbox.org">
+        <detail_information>
+            <date_xml>
+                <date_format_year_month_day>
+                    <date_of_birth day="7" month="MAY" year="1972" />
+                </date_format_year_month_day>
+            </date_xml>
+            <how_contact>personal.mail@mailbox.org</how_contact>
+            <player_game_name>{"player":{"player_name":{"given_name":"Erik","family_name":"Mueller"}}}</player_game_name>
+            <genre>Action</genre>
+            <place_list>PC</place_list>
+        </detail_information>
+    </xml_list>
+    <xml_list social_security_number="196" player_name="PlayerName196" mail="personal.mail@mailbox.org">
+        <detail_information>
+            <date_xml>
+                <date_format_year_month_day>
+                    <date_of_birth day="19" month="MAY" year="2004" />
+                </date_format_year_month_day>
+            </date_xml>
+            <how_contact>personal.mail@mailbox.org</how_contact>
+            <player_game_name>{"player":{"player_name":{"given_name":"Miriam","family_name":"Aigner"}}}</player_game_name>
+            <genre>Jump n Run</genre>
+            <place_list>PC</place_list>
+        </detail_information>
+    </xml_list>
+    <xml_list social_security_number="214" player_name="PlayerName214" mail="personal.mail@mailbox.org">
+        <detail_information>
+            <date_xml>
+                <date_format_year_month_day>
+                    <date_of_birth day="25" month="APRIL" year="2001" />
+                </date_format_year_month_day>
+            </date_xml>
+            <how_contact>personal.mail@mailbox.org</how_contact>
+            <player_game_name>{"player":{"player_name":{"given_name":"Erik","family_name":"Stregge"}}}</player_game_name>
+            <genre>Strategy</genre>
+            <place_list>PC</place_list>
+        </detail_information>
+    </xml_list>
+    <xml_list social_security_number="237" player_name="PlayerName237" mail="personal.mail@mailbox.org">
+        <detail_information>
+            <date_xml>
+                <date_format_year_month_day>
+                    <date_of_birth day="26" month="OCTOBER" year="1991" />
+                </date_format_year_month_day>
+            </date_xml>
+            <how_contact>personal.mail@mailbox.org</how_contact>
+            <player_game_name>{"player":{"player_name":{"given_name":"Tobias","family_name":"Fuchs"}}}</player_game_name>
+            <genre>Action</genre>
+            <place_list>PC</place_list>
+        </detail_information>
+    </xml_list>
+    <xml_list social_security_number="243" player_name="PlayerName243" mail="personal.mail@mailbox.org">
+        <detail_information>
+            <date_xml>
+                <date_format_year_month_day>
+                    <date_of_birth day="8" month="NOVEMBER" year="2007" />
+                </date_format_year_month_day>
+            </date_xml>
+            <how_contact>personal.mail@mailbox.org</how_contact>
+            <player_game_name>{"player":{"player_name":{"given_name":"Miriam","family_name":"Stregge"}}}</player_game_name>
+            <genre>Action</genre>
+            <place_list>PC</place_list>
+        </detail_information>
+    </xml_list>
+    <xml_list social_security_number="243" player_name="PlayerName243" mail="personal.mail@mailbox.org">
+        <detail_information>
+            <date_xml>
+                <date_format_year_month_day>
+                    <date_of_birth day="8" month="NOVEMBER" year="2007" />
+                </date_format_year_month_day>
+            </date_xml>
+            <how_contact>personal.mail@mailbox.org</how_contact>
+            <player_game_name>{"player":{"player_name":{"given_name":"Miriam","family_name":"Stregge"}}}</player_game_name>
+            <genre>Action</genre>
+            <place_list>PC</place_list>
+        </detail_information>
+    </xml_list>
+    <xml_list social_security_number="243" player_name="PlayerName243" mail="personal.mail@mailbox.org">
+        <detail_information>
+            <date_xml>
+                <date_format_year_month_day>
+                    <date_of_birth day="8" month="NOVEMBER" year="2007" />
+                </date_format_year_month_day>
+            </date_xml>
+            <how_contact>personal.mail@mailbox.org</how_contact>
+            <player_game_name>{"player":{"player_name":{"given_name":"Miriam","family_name":"Stregge"}}}</player_game_name>
+            <genre>Action</genre>
+            <place_list>PC</place_list>
+        </detail_information>
+    </xml_list>
+    <xml_list social_security_number="248" player_name="PlayerName248" mail="personal.mail@mailbox.org">
+        <detail_information>
+            <date_xml>
+                <date_format_year_month_day>
+                    <date_of_birth day="8" month="NOVEMBER" year="1971" />
+                </date_format_year_month_day>
+            </date_xml>
+            <how_contact>personal.mail@mailbox.org</how_contact>
+            <player_game_name>{"player":{"player_name":{"given_name":"Tobias","family_name":"Lang"}}}</player_game_name>
+            <genre>Strategy</genre>
+            <place_list>PC</place_list>
+        </detail_information>
+    </xml_list>
+    <xml_list social_security_number="253" player_name="PlayerName253" mail="personal.mail@mailbox.org">
+        <detail_information>
+            <date_xml>
+                <date_format_year_month_day>
+                    <date_of_birth day="10" month="JUNE" year="1970" />
+                </date_format_year_month_day>
+            </date_xml>
+            <how_contact>personal.mail@mailbox.org</how_contact>
+            <player_game_name>{"player":{"player_name":{"given_name":"Erik","family_name":"Mueller"}}}</player_game_name>
+            <genre>MMORPG</genre>
+            <place_list>PC</place_list>
+        </detail_information>
+    </xml_list>
+    <xml_list social_security_number="257" player_name="PlayerName257" mail="personal.mail@mailbox.org">
+        <detail_information>
+            <date_xml>
+                <date_format_year_month_day>
+                    <date_of_birth day="18" month="MARCH" year="2007" />
+                </date_format_year_month_day>
+            </date_xml>
+            <how_contact>personal.mail@mailbox.org</how_contact>
+            <player_game_name>{"player":{"player_name":{"given_name":"Manuel","family_name":"Schmid"}}}</player_game_name>
+            <genre>Strategy</genre>
+            <place_list>PC</place_list>
+        </detail_information>
+    </xml_list>
+    <xml_list social_security_number="261" player_name="PlayerName261" mail="personal.mail@mailbox.org">
+        <detail_information>
+            <date_xml>
+                <date_format_year_month_day>
+                    <date_of_birth day="27" month="JULY" year="2008" />
+                </date_format_year_month_day>
+            </date_xml>
+            <how_contact>personal.mail@mailbox.org</how_contact>
+            <player_game_name>{"player":{"player_name":{"given_name":"Tobias","family_name":"Stregge"}}}</player_game_name>
+            <genre>Ego-Shooter</genre>
+            <place_list>PC</place_list>
+        </detail_information>
+    </xml_list>
+    <xml_list social_security_number="266" player_name="PlayerName266" mail="personal.mail@mailbox.org">
+        <detail_information>
+            <date_xml>
+                <date_format_year_month_day>
+                    <date_of_birth day="25" month="SEPTEMBER" year="1984" />
+                </date_format_year_month_day>
+            </date_xml>
+            <how_contact>personal.mail@mailbox.org</how_contact>
+            <player_game_name>{"player":{"player_name":{"given_name":"Manuel","family_name":"Aigner"}}}</player_game_name>
+            <genre>Adventure</genre>
+            <place_list>PC</place_list>
+        </detail_information>
+    </xml_list>
+    <xml_list social_security_number="277" player_name="PlayerName277" mail="personal.mail@mailbox.org">
+        <detail_information>
+            <date_xml>
+                <date_format_year_month_day>
+                    <date_of_birth day="10" month="MARCH" year="1980" />
+                </date_format_year_month_day>
+            </date_xml>
+            <how_contact>personal.mail@mailbox.org</how_contact>
+            <player_game_name>{"player":{"player_name":{"given_name":"Manuel","family_name":"Fuchs"}}}</player_game_name>
+            <genre>Ego-Shooter</genre>
+            <place_list>PC</place_list>
+        </detail_information>
+    </xml_list>
+    <xml_list social_security_number="283" player_name="PlayerName283" mail="personal.mail@mailbox.org">
+        <detail_information>
+            <date_xml>
+                <date_format_year_month_day>
+                    <date_of_birth day="24" month="SEPTEMBER" year="1992" />
+                </date_format_year_month_day>
+            </date_xml>
+            <how_contact>personal.mail@mailbox.org</how_contact>
+            <player_game_name>{"player":{"player_name":{"given_name":"Manuel","family_name":"Lang"}}}</player_game_name>
+            <genre>Strategy</genre>
+            <place_list>PC</place_list>
+        </detail_information>
+    </xml_list>
+    <xml_list social_security_number="287" player_name="PlayerName287" mail="personal.mail@mailbox.org">
+        <detail_information>
+            <date_xml>
+                <date_format_year_month_day>
+                    <date_of_birth day="28" month="AUGUST" year="1990" />
+                </date_format_year_month_day>
+            </date_xml>
+            <how_contact>personal.mail@mailbox.org</how_contact>
+            <player_game_name>{"player":{"player_name":{"given_name":"Sophie","family_name":"Mustermann"}}}</player_game_name>
+            <genre>Ego-Shooter</genre>
+            <place_list>PC</place_list>
+        </detail_information>
+    </xml_list>
+    <xml_list social_security_number="290" player_name="PlayerName290" mail="personal.mail@mailbox.org">
+        <detail_information>
+            <date_xml>
+                <date_format_year_month_day>
+                    <date_of_birth day="25" month="OCTOBER" year="1975" />
+                </date_format_year_month_day>
+            </date_xml>
+            <how_contact>personal.mail@mailbox.org</how_contact>
+            <player_game_name>{"player":{"player_name":{"given_name":"Tobias","family_name":"Mustermann"}}}</player_game_name>
+            <genre>Ego-Shooter</genre>
+            <place_list>PC</place_list>
+        </detail_information>
+    </xml_list>
+    <xml_list social_security_number="291" player_name="PlayerName291" mail="personal.mail@mailbox.org">
+        <detail_information>
+            <date_xml>
+                <date_format_year_month_day>
+                    <date_of_birth day="10" month="OCTOBER" year="1977" />
+                </date_format_year_month_day>
+            </date_xml>
+            <how_contact>personal.mail@mailbox.org</how_contact>
+            <player_game_name>{"player":{"player_name":{"given_name":"Tobias","family_name":"Aigner"}}}</player_game_name>
+            <genre>Strategy</genre>
+            <place_list>PC</place_list>
+        </detail_information>
+    </xml_list>
+    <xml_list social_security_number="295" player_name="PlayerName295" mail="personal.mail@mailbox.org">
+        <detail_information>
+            <date_xml>
+                <date_format_year_month_day>
+                    <date_of_birth day="24" month="MARCH" year="2008" />
+                </date_format_year_month_day>
+            </date_xml>
+            <how_contact>personal.mail@mailbox.org</how_contact>
+            <player_game_name>{"player":{"player_name":{"given_name":"Julian","family_name":"Mueller"}}}</player_game_name>
+            <genre>Action</genre>
+            <place_list>PC</place_list>
+        </detail_information>
+    </xml_list>
+    <xml_list social_security_number="300" player_name="PlayerName300" mail="personal.mail@mailbox.org">
+        <detail_information>
+            <date_xml>
+                <date_format_year_month_day>
+                    <date_of_birth day="5" month="APRIL" year="2001" />
+                </date_format_year_month_day>
+            </date_xml>
+            <how_contact>personal.mail@mailbox.org</how_contact>
+            <player_game_name>{"player":{"player_name":{"given_name":"Marius","family_name":"Fuchs"}}}</player_game_name>
+            <genre>Jump n Run</genre>
+            <place_list>PC</place_list>
+        </detail_information>
+    </xml_list>
+    <xml_list social_security_number="304" player_name="PlayerName304" mail="personal.mail@mailbox.org">
+        <detail_information>
+            <date_xml>
+                <date_format_year_month_day>
+                    <date_of_birth day="15" month="OCTOBER" year="1994" />
+                </date_format_year_month_day>
+            </date_xml>
+            <how_contact>personal.mail@mailbox.org</how_contact>
+            <player_game_name>{"player":{"player_name":{"given_name":"Sophie","family_name":"Stregge"}}}</player_game_name>
+            <genre>MMORPG</genre>
+            <place_list>PC</place_list>
+        </detail_information>
+    </xml_list>
+    <xml_list social_security_number="309" player_name="PlayerName309" mail="personal.mail@mailbox.org">
+        <detail_information>
+            <date_xml>
+                <date_format_year_month_day>
+                    <date_of_birth day="24" month="JULY" year="2005" />
+                </date_format_year_month_day>
+            </date_xml>
+            <how_contact>personal.mail@mailbox.org</how_contact>
+            <player_game_name>{"player":{"player_name":{"given_name":"Manuel","family_name":"Fuchs"}}}</player_game_name>
+            <genre>Action</genre>
+            <place_list>PC</place_list>
+        </detail_information>
+    </xml_list>
+    <xml_list social_security_number="315" player_name="PlayerName315" mail="personal.mail@mailbox.org">
+        <detail_information>
+            <date_xml>
+                <date_format_year_month_day>
+                    <date_of_birth day="5" month="MARCH" year="1997" />
+                </date_format_year_month_day>
+            </date_xml>
+            <how_contact>personal.mail@mailbox.org</how_contact>
+            <player_game_name>{"player":{"player_name":{"given_name":"Erik","family_name":"Mustermann"}}}</player_game_name>
+            <genre>Ego-Shooter</genre>
+            <place_list>PC</place_list>
+        </detail_information>
+    </xml_list>
+    <xml_list social_security_number="317" player_name="PlayerName317" mail="personal.mail@mailbox.org">
+        <detail_information>
+            <date_xml>
+                <date_format_year_month_day>
+                    <date_of_birth day="24" month="SEPTEMBER" year="1996" />
+                </date_format_year_month_day>
+            </date_xml>
+            <how_contact>personal.mail@mailbox.org</how_contact>
+            <player_game_name>{"player":{"player_name":{"given_name":"Julian","family_name":"Lang"}}}</player_game_name>
+            <genre>Action</genre>
+            <place_list>PC</place_list>
+        </detail_information>
+    </xml_list>
+    <xml_list social_security_number="317" player_name="PlayerName317" mail="personal.mail@mailbox.org">
+        <detail_information>
+            <date_xml>
+                <date_format_year_month_day>
+                    <date_of_birth day="24" month="SEPTEMBER" year="1996" />
+                </date_format_year_month_day>
+            </date_xml>
+            <how_contact>personal.mail@mailbox.org</how_contact>
+            <player_game_name>{"player":{"player_name":{"given_name":"Julian","family_name":"Lang"}}}</player_game_name>
+            <genre>Action</genre>
+            <place_list>PC</place_list>
+        </detail_information>
+    </xml_list>
+    <xml_list social_security_number="321" player_name="PlayerName321" mail="personal.mail@mailbox.org">
+        <detail_information>
+            <date_xml>
+                <date_format_year_month_day>
+                    <date_of_birth day="6" month="JULY" year="1998" />
+                </date_format_year_month_day>
+            </date_xml>
+            <how_contact>personal.mail@mailbox.org</how_contact>
+            <player_game_name>{"player":{"player_name":{"given_name":"Diana","family_name":"Mustermann"}}}</player_game_name>
+            <genre>Strategy</genre>
+            <place_list>PC</place_list>
+        </detail_information>
+    </xml_list>
+    <xml_list social_security_number="322" player_name="PlayerName322" mail="personal.mail@mailbox.org">
+        <detail_information>
+            <date_xml>
+                <date_format_year_month_day>
+                    <date_of_birth day="27" month="JUNE" year="1997" />
+                </date_format_year_month_day>
+            </date_xml>
+            <how_contact>personal.mail@mailbox.org</how_contact>
+            <player_game_name>{"player":{"player_name":{"given_name":"Marius","family_name":"Aigner"}}}</player_game_name>
+            <genre>MMORPG</genre>
+            <place_list>PC</place_list>
+        </detail_information>
+    </xml_list>
+    <xml_list social_security_number="324" player_name="PlayerName324" mail="personal.mail@mailbox.org">
+        <detail_information>
+            <date_xml>
+                <date_format_year_month_day>
+                    <date_of_birth day="7" month="JANUARY" year="2007" />
+                </date_format_year_month_day>
+            </date_xml>
+            <how_contact>personal.mail@mailbox.org</how_contact>
+            <player_game_name>{"player":{"player_name":{"given_name":"Marius","family_name":"Mustermann"}}}</player_game_name>
+            <genre>Strategy</genre>
+            <place_list>PC</place_list>
+        </detail_information>
+    </xml_list>
+    <xml_list social_security_number="328" player_name="PlayerName328" mail="personal.mail@mailbox.org">
+        <detail_information>
+            <date_xml>
+                <date_format_year_month_day>
+                    <date_of_birth day="12" month="JULY" year="1978" />
+                </date_format_year_month_day>
+            </date_xml>
+            <how_contact>personal.mail@mailbox.org</how_contact>
+            <player_game_name>{"player":{"player_name":{"given_name":"Manuel","family_name":"Mueller"}}}</player_game_name>
+            <genre>Ego-Shooter</genre>
+            <place_list>PC</place_list>
+        </detail_information>
+    </xml_list>
+    <xml_list social_security_number="329" player_name="PlayerName329" mail="personal.mail@mailbox.org">
+        <detail_information>
+            <date_xml>
+                <date_format_year_month_day>
+                    <date_of_birth day="20" month="SEPTEMBER" year="1996" />
+                </date_format_year_month_day>
+            </date_xml>
+            <how_contact>personal.mail@mailbox.org</how_contact>
+            <player_game_name>{"player":{"player_name":{"given_name":"Tobias","family_name":"Mustermann"}}}</player_game_name>
+            <genre>Jump n Run</genre>
+            <place_list>PC</place_list>
+        </detail_information>
+    </xml_list>
+    <xml_list social_security_number="331" player_name="PlayerName331" mail="personal.mail@mailbox.org">
+        <detail_information>
+            <date_xml>
+                <date_format_year_month_day>
+                    <date_of_birth day="18" month="JANUARY" year="1984" />
+                </date_format_year_month_day>
+            </date_xml>
+            <how_contact>personal.mail@mailbox.org</how_contact>
+            <player_game_name>{"player":{"player_name":{"given_name":"Miriam","family_name":"Mueller"}}}</player_game_name>
+            <genre>Ego-Shooter</genre>
+            <place_list>PC</place_list>
+        </detail_information>
+    </xml_list>
+    <xml_list social_security_number="337" player_name="PlayerName337" mail="personal.mail@mailbox.org">
+        <detail_information>
+            <date_xml>
+                <date_format_year_month_day>
+                    <date_of_birth day="6" month="MAY" year="1983" />
+                </date_format_year_month_day>
+            </date_xml>
+            <how_contact>personal.mail@mailbox.org</how_contact>
+            <player_game_name>{"player":{"player_name":{"given_name":"Erik","family_name":"Aigner"}}}</player_game_name>
+            <genre>MMORPG</genre>
+            <place_list>PC</place_list>
+        </detail_information>
+    </xml_list>
+    <xml_list social_security_number="337" player_name="PlayerName337" mail="personal.mail@mailbox.org">
+        <detail_information>
+            <date_xml>
+                <date_format_year_month_day>
+                    <date_of_birth day="6" month="MAY" year="1983" />
+                </date_format_year_month_day>
+            </date_xml>
+            <how_contact>personal.mail@mailbox.org</how_contact>
+            <player_game_name>{"player":{"player_name":{"given_name":"Erik","family_name":"Aigner"}}}</player_game_name>
+            <genre>MMORPG</genre>
+            <place_list>PC</place_list>
+        </detail_information>
+    </xml_list>
+    <xml_list social_security_number="340" player_name="PlayerName340" mail="personal.mail@mailbox.org">
+        <detail_information>
+            <date_xml>
+                <date_format_year_month_day>
+                    <date_of_birth day="1" month="AUGUST" year="1978" />
+                </date_format_year_month_day>
+            </date_xml>
+            <how_contact>personal.mail@mailbox.org</how_contact>
+            <player_game_name>{"player":{"player_name":{"given_name":"Sophie","family_name":"Mueller"}}}</player_game_name>
+            <genre>MMORPG</genre>
+            <place_list>PC</place_list>
+        </detail_information>
+    </xml_list>
+    <xml_list social_security_number="346" player_name="PlayerName346" mail="personal.mail@mailbox.org">
+        <detail_information>
+            <date_xml>
+                <date_format_year_month_day>
+                    <date_of_birth day="21" month="MARCH" year="2001" />
+                </date_format_year_month_day>
+            </date_xml>
+            <how_contact>personal.mail@mailbox.org</how_contact>
+            <player_game_name>{"player":{"player_name":{"given_name":"Julian","family_name":"Fuchs"}}}</player_game_name>
+            <genre>Action</genre>
+            <place_list>PC</place_list>
+        </detail_information>
+    </xml_list>
+    <xml_list social_security_number="348" player_name="PlayerName348" mail="personal.mail@mailbox.org">
+        <detail_information>
+            <date_xml>
+                <date_format_year_month_day>
+                    <date_of_birth day="7" month="MARCH" year="1994" />
+                </date_format_year_month_day>
+            </date_xml>
+            <how_contact>personal.mail@mailbox.org</how_contact>
+            <player_game_name>{"player":{"player_name":{"given_name":"Tobias","family_name":"Mustermann"}}}</player_game_name>
+            <genre>Ego-Shooter</genre>
+            <place_list>PC</place_list>
+        </detail_information>
+    </xml_list>
+    <xml_list social_security_number="351" player_name="PlayerName351" mail="personal.mail@mailbox.org">
+        <detail_information>
+            <date_xml>
+                <date_format_year_month_day>
+                    <date_of_birth day="16" month="NOVEMBER" year="2007" />
+                </date_format_year_month_day>
+            </date_xml>
+            <how_contact>personal.mail@mailbox.org</how_contact>
+            <player_game_name>{"player":{"player_name":{"given_name":"Diana","family_name":"Lang"}}}</player_game_name>
+            <genre>Jump n Run</genre>
+            <place_list>PC</place_list>
+        </detail_information>
+    </xml_list>
+    <xml_list social_security_number="356" player_name="PlayerName356" mail="personal.mail@mailbox.org">
+        <detail_information>
+            <date_xml>
+                <date_format_year_month_day>
+                    <date_of_birth day="8" month="JUNE" year="1974" />
+                </date_format_year_month_day>
+            </date_xml>
+            <how_contact>personal.mail@mailbox.org</how_contact>
+            <player_game_name>{"player":{"player_name":{"given_name":"Marius","family_name":"Stregge"}}}</player_game_name>
+            <genre>Strategy</genre>
+            <place_list>PC</place_list>
+        </detail_information>
+    </xml_list>
+    <xml_list social_security_number="359" player_name="PlayerName359" mail="personal.mail@mailbox.org">
+        <detail_information>
+            <date_xml>
+                <date_format_year_month_day>
+                    <date_of_birth day="2" month="AUGUST" year="1995" />
+                </date_format_year_month_day>
+            </date_xml>
+            <how_contact>personal.mail@mailbox.org</how_contact>
+            <player_game_name>{"player":{"player_name":{"given_name":"Sophie","family_name":"Aigner"}}}</player_game_name>
+            <genre>MMORPG</genre>
+            <place_list>PC</place_list>
+        </detail_information>
+    </xml_list>
+    <xml_list social_security_number="359" player_name="PlayerName359" mail="personal.mail@mailbox.org">
+        <detail_information>
+            <date_xml>
+                <date_format_year_month_day>
+                    <date_of_birth day="2" month="AUGUST" year="1995" />
+                </date_format_year_month_day>
+            </date_xml>
+            <how_contact>personal.mail@mailbox.org</how_contact>
+            <player_game_name>{"player":{"player_name":{"given_name":"Sophie","family_name":"Aigner"}}}</player_game_name>
+            <genre>MMORPG</genre>
+            <place_list>PC</place_list>
+        </detail_information>
+    </xml_list>
+    <xml_list social_security_number="364" player_name="PlayerName364" mail="personal.mail@mailbox.org">
+        <detail_information>
+            <date_xml>
+                <date_format_year_month_day>
+                    <date_of_birth day="26" month="JANUARY" year="2000" />
+                </date_format_year_month_day>
+            </date_xml>
+            <how_contact>personal.mail@mailbox.org</how_contact>
+            <player_game_name>{"player":{"player_name":{"given_name":"Julian","family_name":"Schmid"}}}</player_game_name>
+            <genre>Adventure</genre>
+            <place_list>PC</place_list>
+        </detail_information>
+    </xml_list>
+    <xml_list social_security_number="371" player_name="PlayerName371" mail="personal.mail@mailbox.org">
+        <detail_information>
+            <date_xml>
+                <date_format_year_month_day>
+                    <date_of_birth day="12" month="MAY" year="1999" />
+                </date_format_year_month_day>
+            </date_xml>
+            <how_contact>personal.mail@mailbox.org</how_contact>
+            <player_game_name>{"player":{"player_name":{"given_name":"Miriam","family_name":"Aigner"}}}</player_game_name>
+            <genre>Adventure</genre>
+            <place_list>PC</place_list>
+        </detail_information>
+    </xml_list>
+    <xml_list social_security_number="371" player_name="PlayerName371" mail="personal.mail@mailbox.org">
+        <detail_information>
+            <date_xml>
+                <date_format_year_month_day>
+                    <date_of_birth day="12" month="MAY" year="1999" />
+                </date_format_year_month_day>
+            </date_xml>
+            <how_contact>personal.mail@mailbox.org</how_contact>
+            <player_game_name>{"player":{"player_name":{"given_name":"Miriam","family_name":"Aigner"}}}</player_game_name>
+            <genre>Adventure</genre>
+            <place_list>PC</place_list>
+        </detail_information>
+    </xml_list>
+    <xml_list social_security_number="371" player_name="PlayerName371" mail="personal.mail@mailbox.org">
+        <detail_information>
+            <date_xml>
+                <date_format_year_month_day>
+                    <date_of_birth day="12" month="MAY" year="1999" />
+                </date_format_year_month_day>
+            </date_xml>
+            <how_contact>personal.mail@mailbox.org</how_contact>
+            <player_game_name>{"player":{"player_name":{"given_name":"Miriam","family_name":"Aigner"}}}</player_game_name>
+            <genre>Adventure</genre>
+            <place_list>PC</place_list>
+        </detail_information>
+    </xml_list>
+    <xml_list social_security_number="380" player_name="PlayerName380" mail="personal.mail@mailbox.org">
+        <detail_information>
+            <date_xml>
+                <date_format_year_month_day>
+                    <date_of_birth day="1" month="JANUARY" year="1974" />
+                </date_format_year_month_day>
+            </date_xml>
+            <how_contact>personal.mail@mailbox.org</how_contact>
+            <player_game_name>{"player":{"player_name":{"given_name":"Diana","family_name":"Fuchs"}}}</player_game_name>
+            <genre>Action</genre>
+            <place_list>PC</place_list>
+        </detail_information>
+    </xml_list>
+    <xml_list social_security_number="383" player_name="PlayerName383" mail="personal.mail@mailbox.org">
+        <detail_information>
+            <date_xml>
+                <date_format_year_month_day>
+                    <date_of_birth day="17" month="JULY" year="2003" />
+                </date_format_year_month_day>
+            </date_xml>
+            <how_contact>personal.mail@mailbox.org</how_contact>
+            <player_game_name>{"player":{"player_name":{"given_name":"Erik","family_name":"Lang"}}}</player_game_name>
+            <genre>Ego-Shooter</genre>
+            <place_list>PC</place_list>
+        </detail_information>
+    </xml_list>
+    <xml_list social_security_number="397" player_name="PlayerName397" mail="personal.mail@mailbox.org">
+        <detail_information>
+            <date_xml>
+                <date_format_year_month_day>
+                    <date_of_birth day="2" month="AUGUST" year="1995" />
+                </date_format_year_month_day>
+            </date_xml>
+            <how_contact>personal.mail@mailbox.org</how_contact>
+            <player_game_name>{"player":{"player_name":{"given_name":"Manuel","family_name":"Holzer"}}}</player_game_name>
+            <genre>MMORPG</genre>
+            <place_list>PC</place_list>
+        </detail_information>
+    </xml_list>
+    <xml_list social_security_number="400" player_name="PlayerName400" mail="personal.mail@mailbox.org">
+        <detail_information>
+            <date_xml>
+                <date_format_year_month_day>
+                    <date_of_birth day="10" month="MAY" year="2009" />
+                </date_format_year_month_day>
+            </date_xml>
+            <how_contact>personal.mail@mailbox.org</how_contact>
+            <player_game_name>{"player":{"player_name":{"given_name":"Julian","family_name":"Aigner"}}}</player_game_name>
+            <genre>Ego-Shooter</genre>
+            <place_list>PC</place_list>
+        </detail_information>
+    </xml_list>
+    <xml_list social_security_number="401" player_name="PlayerName401" mail="personal.mail@mailbox.org">
+        <detail_information>
+            <date_xml>
+                <date_format_year_month_day>
+                    <date_of_birth day="14" month="OCTOBER" year="1988" />
+                </date_format_year_month_day>
+            </date_xml>
+            <how_contact>personal.mail@mailbox.org</how_contact>
+            <player_game_name>{"player":{"player_name":{"given_name":"Sophie","family_name":"Mustermann"}}}</player_game_name>
+            <genre>Ego-Shooter</genre>
+            <place_list>PC</place_list>
+        </detail_information>
+    </xml_list>
+    <xml_list social_security_number="401" player_name="PlayerName401" mail="personal.mail@mailbox.org">
+        <detail_information>
+            <date_xml>
+                <date_format_year_month_day>
+                    <date_of_birth day="14" month="OCTOBER" year="1988" />
+                </date_format_year_month_day>
+            </date_xml>
+            <how_contact>personal.mail@mailbox.org</how_contact>
+            <player_game_name>{"player":{"player_name":{"given_name":"Sophie","family_name":"Mustermann"}}}</player_game_name>
+            <genre>Ego-Shooter</genre>
+            <place_list>PC</place_list>
+        </detail_information>
+    </xml_list>
+    <xml_list social_security_number="402" player_name="PlayerName402" mail="personal.mail@mailbox.org">
+        <detail_information>
+            <date_xml>
+                <date_format_year_month_day>
+                    <date_of_birth day="2" month="MARCH" year="1977" />
+                </date_format_year_month_day>
+            </date_xml>
+            <how_contact>personal.mail@mailbox.org</how_contact>
+            <player_game_name>{"player":{"player_name":{"given_name":"Tobias","family_name":"Holzer"}}}</player_game_name>
+            <genre>Ego-Shooter</genre>
+            <place_list>PC</place_list>
+        </detail_information>
+    </xml_list>
+    <xml_list social_security_number="402" player_name="PlayerName402" mail="personal.mail@mailbox.org">
+        <detail_information>
+            <date_xml>
+                <date_format_year_month_day>
+                    <date_of_birth day="2" month="MARCH" year="1977" />
+                </date_format_year_month_day>
+            </date_xml>
+            <how_contact>personal.mail@mailbox.org</how_contact>
+            <player_game_name>{"player":{"player_name":{"given_name":"Tobias","family_name":"Holzer"}}}</player_game_name>
+            <genre>Ego-Shooter</genre>
+            <place_list>PC</place_list>
+        </detail_information>
+    </xml_list>
+    <xml_list social_security_number="402" player_name="PlayerName402" mail="personal.mail@mailbox.org">
+        <detail_information>
+            <date_xml>
+                <date_format_year_month_day>
+                    <date_of_birth day="2" month="MARCH" year="1977" />
+                </date_format_year_month_day>
+            </date_xml>
+            <how_contact>personal.mail@mailbox.org</how_contact>
+            <player_game_name>{"player":{"player_name":{"given_name":"Tobias","family_name":"Holzer"}}}</player_game_name>
+            <genre>Ego-Shooter</genre>
+            <place_list>PC</place_list>
+        </detail_information>
+    </xml_list>
+    <xml_list social_security_number="404" player_name="PlayerName404" mail="personal.mail@mailbox.org">
+        <detail_information>
+            <date_xml>
+                <date_format_year_month_day>
+                    <date_of_birth day="21" month="MARCH" year="1987" />
+                </date_format_year_month_day>
+            </date_xml>
+            <how_contact>personal.mail@mailbox.org</how_contact>
+            <player_game_name>{"player":{"player_name":{"given_name":"Julian","family_name":"Stregge"}}}</player_game_name>
+            <genre>Action</genre>
+            <place_list>PC</place_list>
+        </detail_information>
+    </xml_list>
+    <xml_list social_security_number="404" player_name="PlayerName404" mail="personal.mail@mailbox.org">
+        <detail_information>
+            <date_xml>
+                <date_format_year_month_day>
+                    <date_of_birth day="21" month="MARCH" year="1987" />
+                </date_format_year_month_day>
+            </date_xml>
+            <how_contact>personal.mail@mailbox.org</how_contact>
+            <player_game_name>{"player":{"player_name":{"given_name":"Julian","family_name":"Stregge"}}}</player_game_name>
+            <genre>Action</genre>
+            <place_list>PC</place_list>
+        </detail_information>
+    </xml_list>
+    <xml_list social_security_number="407" player_name="PlayerName407" mail="personal.mail@mailbox.org">
+        <detail_information>
+            <date_xml>
+                <date_format_year_month_day>
+                    <date_of_birth day="21" month="OCTOBER" year="1987" />
+                </date_format_year_month_day>
+            </date_xml>
+            <how_contact>personal.mail@mailbox.org</how_contact>
+            <player_game_name>{"player":{"player_name":{"given_name":"Manuel","family_name":"Aigner"}}}</player_game_name>
+            <genre>Jump n Run</genre>
+            <place_list>PC</place_list>
+        </detail_information>
+    </xml_list>
+    <xml_list social_security_number="410" player_name="PlayerName410" mail="personal.mail@mailbox.org">
+        <detail_information>
+            <date_xml>
+                <date_format_year_month_day>
+                    <date_of_birth day="15" month="SEPTEMBER" year="1999" />
+                </date_format_year_month_day>
+            </date_xml>
+            <how_contact>personal.mail@mailbox.org</how_contact>
+            <player_game_name>{"player":{"player_name":{"given_name":"Manuel","family_name":"Aigner"}}}</player_game_name>
+            <genre>Action</genre>
+            <place_list>PC</place_list>
+        </detail_information>
+    </xml_list>
+    <xml_list social_security_number="415" player_name="PlayerName415" mail="personal.mail@mailbox.org">
+        <detail_information>
+            <date_xml>
+                <date_format_year_month_day>
+                    <date_of_birth day="10" month="OCTOBER" year="2001" />
+                </date_format_year_month_day>
+            </date_xml>
+            <how_contact>personal.mail@mailbox.org</how_contact>
+            <player_game_name>{"player":{"player_name":{"given_name":"Marius","family_name":"Mustermann"}}}</player_game_name>
+            <genre>Ego-Shooter</genre>
+            <place_list>PC</place_list>
+        </detail_information>
+    </xml_list>
+    <xml_list social_security_number="416" player_name="PlayerName416" mail="personal.mail@mailbox.org">
+        <detail_information>
+            <date_xml>
+                <date_format_year_month_day>
+                    <date_of_birth day="17" month="APRIL" year="2004" />
+                </date_format_year_month_day>
+            </date_xml>
+            <how_contact>personal.mail@mailbox.org</how_contact>
+            <player_game_name>{"player":{"player_name":{"given_name":"Tobias","family_name":"Aigner"}}}</player_game_name>
+            <genre>Ego-Shooter</genre>
+            <place_list>PC</place_list>
+        </detail_information>
+    </xml_list>
+    <xml_list social_security_number="417" player_name="PlayerName417" mail="personal.mail@mailbox.org">
+        <detail_information>
+            <date_xml>
+                <date_format_year_month_day>
+                    <date_of_birth day="17" month="FEBRUARY" year="1984" />
+                </date_format_year_month_day>
+            </date_xml>
+            <how_contact>personal.mail@mailbox.org</how_contact>
+            <player_game_name>{"player":{"player_name":{"given_name":"Erik","family_name":"Mueller"}}}</player_game_name>
+            <genre>Adventure</genre>
+            <place_list>PC</place_list>
+        </detail_information>
+    </xml_list>
+    <xml_list social_security_number="417" player_name="PlayerName417" mail="personal.mail@mailbox.org">
+        <detail_information>
+            <date_xml>
+                <date_format_year_month_day>
+                    <date_of_birth day="17" month="FEBRUARY" year="1984" />
+                </date_format_year_month_day>
+            </date_xml>
+            <how_contact>personal.mail@mailbox.org</how_contact>
+            <player_game_name>{"player":{"player_name":{"given_name":"Erik","family_name":"Mueller"}}}</player_game_name>
+            <genre>Adventure</genre>
+            <place_list>PC</place_list>
+        </detail_information>
+    </xml_list>
+    <xml_list social_security_number="418" player_name="PlayerName418" mail="personal.mail@mailbox.org">
+        <detail_information>
+            <date_xml>
+                <date_format_year_month_day>
+                    <date_of_birth day="28" month="JANUARY" year="1996" />
+                </date_format_year_month_day>
+            </date_xml>
+            <how_contact>personal.mail@mailbox.org</how_contact>
+            <player_game_name>{"player":{"player_name":{"given_name":"Sophie","family_name":"Holzer"}}}</player_game_name>
+            <genre>MMORPG</genre>
+            <place_list>PC</place_list>
+        </detail_information>
+    </xml_list>
+    <xml_list social_security_number="423" player_name="PlayerName423" mail="personal.mail@mailbox.org">
+        <detail_information>
+            <date_xml>
+                <date_format_year_month_day>
+                    <date_of_birth day="22" month="NOVEMBER" year="1975" />
+                </date_format_year_month_day>
+            </date_xml>
+            <how_contact>personal.mail@mailbox.org</how_contact>
+            <player_game_name>{"player":{"player_name":{"given_name":"Manuel","family_name":"Lang"}}}</player_game_name>
+            <genre>Action</genre>
+            <place_list>PC</place_list>
+        </detail_information>
+    </xml_list>
+    <xml_list social_security_number="425" player_name="PlayerName425" mail="personal.mail@mailbox.org">
+        <detail_information>
+            <date_xml>
+                <date_format_year_month_day>
+                    <date_of_birth day="17" month="NOVEMBER" year="1993" />
+                </date_format_year_month_day>
+            </date_xml>
+            <how_contact>personal.mail@mailbox.org</how_contact>
+            <player_game_name>{"player":{"player_name":{"given_name":"Tobias","family_name":"Mueller"}}}</player_game_name>
+            <genre>Jump n Run</genre>
+            <place_list>PC</place_list>
+        </detail_information>
+    </xml_list>
+    <xml_list social_security_number="426" player_name="PlayerName426" mail="personal.mail@mailbox.org">
+        <detail_information>
+            <date_xml>
+                <date_format_year_month_day>
+                    <date_of_birth day="4" month="DECEMBER" year="1974" />
+                </date_format_year_month_day>
+            </date_xml>
+            <how_contact>personal.mail@mailbox.org</how_contact>
+            <player_game_name>{"player":{"player_name":{"given_name":"Marius","family_name":"Lang"}}}</player_game_name>
+            <genre>Strategy</genre>
+            <place_list>PC</place_list>
+        </detail_information>
+    </xml_list>
+    <xml_list social_security_number="428" player_name="PlayerName428" mail="personal.mail@mailbox.org">
+        <detail_information>
+            <date_xml>
+                <date_format_year_month_day>
+                    <date_of_birth day="18" month="JUNE" year="1975" />
+                </date_format_year_month_day>
+            </date_xml>
+            <how_contact>personal.mail@mailbox.org</how_contact>
+            <player_game_name>{"player":{"player_name":{"given_name":"Manuel","family_name":"Schmid"}}}</player_game_name>
+            <genre>Ego-Shooter</genre>
+            <place_list>PC</place_list>
+        </detail_information>
+    </xml_list>
+    <xml_list social_security_number="428" player_name="PlayerName428" mail="personal.mail@mailbox.org">
+        <detail_information>
+            <date_xml>
+                <date_format_year_month_day>
+                    <date_of_birth day="18" month="JUNE" year="1975" />
+                </date_format_year_month_day>
+            </date_xml>
+            <how_contact>personal.mail@mailbox.org</how_contact>
+            <player_game_name>{"player":{"player_name":{"given_name":"Manuel","family_name":"Schmid"}}}</player_game_name>
+            <genre>Ego-Shooter</genre>
+            <place_list>PC</place_list>
+        </detail_information>
+    </xml_list>
+    <xml_list social_security_number="429" player_name="PlayerName429" mail="personal.mail@mailbox.org">
+        <detail_information>
+            <date_xml>
+                <date_format_year_month_day>
+                    <date_of_birth day="17" month="OCTOBER" year="1976" />
+                </date_format_year_month_day>
+            </date_xml>
+            <how_contact>personal.mail@mailbox.org</how_contact>
+            <player_game_name>{"player":{"player_name":{"given_name":"Miriam","family_name":"Aigner"}}}</player_game_name>
+            <genre>Action</genre>
+            <place_list>PC</place_list>
+        </detail_information>
+    </xml_list>
+    <xml_list social_security_number="435" player_name="PlayerName435" mail="personal.mail@mailbox.org">
+        <detail_information>
+            <date_xml>
+                <date_format_year_month_day>
+                    <date_of_birth day="7" month="AUGUST" year="1978" />
+                </date_format_year_month_day>
+            </date_xml>
+            <how_contact>personal.mail@mailbox.org</how_contact>
+            <player_game_name>{"player":{"player_name":{"given_name":"Diana","family_name":"Mustermann"}}}</player_game_name>
+            <genre>Ego-Shooter</genre>
+            <place_list>PC</place_list>
+        </detail_information>
+    </xml_list>
+    <xml_list social_security_number="440" player_name="PlayerName440" mail="personal.mail@mailbox.org">
+        <detail_information>
+            <date_xml>
+                <date_format_year_month_day>
+                    <date_of_birth day="28" month="SEPTEMBER" year="1990" />
+                </date_format_year_month_day>
+            </date_xml>
+            <how_contact>personal.mail@mailbox.org</how_contact>
+            <player_game_name>{"player":{"player_name":{"given_name":"Miriam","family_name":"Stregge"}}}</player_game_name>
+            <genre>Jump n Run</genre>
+            <place_list>PC</place_list>
+        </detail_information>
+    </xml_list>
+    <xml_list social_security_number="441" player_name="PlayerName441" mail="personal.mail@mailbox.org">
+        <detail_information>
+            <date_xml>
+                <date_format_year_month_day>
+                    <date_of_birth day="9" month="JANUARY" year="1999" />
+                </date_format_year_month_day>
+            </date_xml>
+            <how_contact>personal.mail@mailbox.org</how_contact>
+            <player_game_name>{"player":{"player_name":{"given_name":"Marius","family_name":"Schmid"}}}</player_game_name>
+            <genre>Ego-Shooter</genre>
+            <place_list>PC</place_list>
+        </detail_information>
+    </xml_list>
+</player_game_list_information>

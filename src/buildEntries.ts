@@ -21,10 +21,10 @@ export const createEntries = async () => {
         adress: adressGenerator(),
         phone: faker.datatype.number({ min: 1000000, max: 99999999999 }),
         email: faker.internet.email(),
-        remarks: JSON.stringify({
+        remarks: {
           text: faker.lorem.lines(1),
           meta: { importance: faker.datatype.number({ min: 1, max: 5 }) },
-        }),
+        },
       },
     });
     await prisma.complaint.create({
@@ -61,10 +61,10 @@ export const createEntries = async () => {
     await prisma.repairpart.create({
       data: {
         partid: i,
-        remarks: JSON.stringify({
+        remarks: {
           text: faker.lorem.lines(1),
           meta: { importance: faker.datatype.number({ min: 1, max: 5 }) },
-        }),
+        },
         facilityid: i,
         material: faker.commerce.productMaterial(),
         price: faker.datatype.float({ min: 0.1, max: 2000 }),
