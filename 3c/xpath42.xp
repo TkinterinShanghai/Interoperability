@@ -1,0 +1,1 @@
+sum(LocatedAtFacility/facility/repairpart[../@active = "false"][./price[text() < 500]]/price)

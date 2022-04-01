@@ -1,0 +1,1 @@
+count(ComplaintOverview[./complaint/@isresolved="false"]/@id | ComplaintOverview/complaint[@id <  20])

@@ -1,0 +1,1 @@
+CustomerComplaintAppointment/appointment[./customer/@importance < 3]/@rating

@@ -1,0 +1,1 @@
+LocatedAtFacility/facility/repairpart/price[not(. > ../../../facility/repairpart/price)][1]

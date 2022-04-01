@@ -1,0 +1,1 @@
+CustomerComplaintAppointment/appointment/complaint[../customer/@importance < 3][./isresolved[text()= "false"]]
