@@ -1,0 +1,71 @@
+<grammar xmlns="http://relaxng.org/ns/structure/1.0" datatypeLibrary="http://www.w3.org/2001/XMLSchema-datatypes">
+  <start>
+    <element name="LocatedAtFacility">
+      <oneOrMore>
+        <element name="facility">
+          <ref name="attributes" />
+          <ref name="repairpart" />
+          <ref name="employee" />
+        </element>
+      </oneOrMore>
+    </element>
+  </start>
+
+  <define name="attributes">
+    <attribute name="phone" />
+    <attribute name="email" />
+    <ref name="active" />
+  </define>
+
+  <define name="active">
+    <attribute name="active">
+      <choice>
+        <value type="string">true</value>
+        <value type="string">false</value>
+      </choice>
+    </attribute>
+  </define>
+
+  <define name="repairpart">
+    <element name="repairpart">
+      <element name="material">
+        <data type="string" />
+      </element>
+      <element name="price">
+        <data type="float" />
+      </element>
+      <element name="remarks">
+        <data type="string" />
+      </element>
+    </element>
+  </define>
+
+  <define name="employee">
+    <element name="employee">
+      <interleave>
+        <element name="email">
+          <data type="string" />
+        </element>
+        <element name="id">
+          <data type="integer" />
+        </element>
+        <ref name="options" />
+      </interleave>
+    </element>
+  </define>
+
+  <define name="options">
+    <optional>
+      <choice>
+        <element name="salary">
+          <data type="float" />
+        </element>
+        <element name="remarks">
+          <list>
+            <data type="string"/>
+          </list>
+        </element>
+      </choice>
+    </optional>
+  </define>
+</grammar>

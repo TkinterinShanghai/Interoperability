@@ -1,0 +1,1907 @@
+<tickets>
+    <script />
+    <ticket ticketid="1">
+        <status>assigned</status>
+        <editor>Linares</editor>
+        <central servicecenterid="386">
+            <central_name>Shirley-Central-386</central_name>
+        </central>
+        <customer customerid="499">
+            <name>Julie Tooley</name>
+            <email>Julie.Tooley@me.com</email>
+        </customer>
+        <description>
+            <customer_section>
+                { "preferred_comm": "email", "text": "Compressor is not cooling." }
+                <fridgeid>"279"</fridgeid>
+            </customer_section>
+        </description>
+    </ticket>
+    <ticket ticketid="8">
+        <status>assigned</status>
+        <editor>Mccoy</editor>
+        <central servicecenterid="629">
+            <central_name>Angelina-Central-629</central_name>
+        </central>
+        <customer customerid="318">
+            <name>Jennifer Bitner</name>
+            <email>Jennifer.Bitner@gmail.com</email>
+        </customer>
+        <description>
+            <customer_section>
+                { "preferred_comm": "email", "text": "Door is not cooling." }
+                <fridgeid>"778"</fridgeid>
+            </customer_section>
+        </description>
+    </ticket>
+    <ticket ticketid="45">
+        <status>assigned</status>
+        <editor>Mosier</editor>
+        <central servicecenterid="320">
+            <central_name>Gay-Central-320</central_name>
+        </central>
+        <customer customerid="17">
+            <name>Eric Bradley</name>
+            <email>Eric.Bradley@gmail.com</email>
+        </customer>
+        <description>
+            <customer_section>
+                { "preferred_comm": "email", "text": "Pipe does not work properly." }
+                <fridgeid>"795"</fridgeid>
+            </customer_section>
+        </description>
+    </ticket>
+    <ticket ticketid="52">
+        <status>assigned</status>
+        <editor>Arrington</editor>
+        <central servicecenterid="307">
+            <central_name>Brian-Central-307</central_name>
+        </central>
+        <customer customerid="424">
+            <name>Audrey Davis</name>
+            <email>Audrey.Davis@yahoo.com</email>
+        </customer>
+        <description>
+            <customer_section>
+                { "preferred_comm": "email", "text": "Tube looks strange." }
+                <fridgeid>"354"</fridgeid>
+            </customer_section>
+        </description>
+    </ticket>
+    <ticket ticketid="53">
+        <status>assigned</status>
+        <editor>Walker</editor>
+        <central servicecenterid="65">
+            <central_name>Cecil-Central-65</central_name>
+        </central>
+        <customer customerid="84">
+            <name>Gloria Schechter</name>
+            <email>Gloria.Schechter@gmail.com</email>
+        </customer>
+        <description>
+            <customer_section>
+                { "preferred_comm": "email", "text": "Pipe is not cooling." }
+                <fridgeid>"862"</fridgeid>
+            </customer_section>
+        </description>
+    </ticket>
+    <ticket ticketid="71">
+        <status>assigned</status>
+        <editor>Green</editor>
+        <central servicecenterid="656">
+            <central_name>Matthew-Central-656</central_name>
+        </central>
+        <customer customerid="71">
+            <name>Donna Wray</name>
+            <email>Donna.Wray@yahoo.com</email>
+        </customer>
+        <description>
+            <customer_section>
+                { "preferred_comm": "email", "text": "Compressor looks strange." }
+                <fridgeid>"849"</fridgeid>
+            </customer_section>
+        </description>
+    </ticket>
+    <ticket ticketid="73">
+        <status>assigned</status>
+        <editor>Baur</editor>
+        <central servicecenterid="120">
+            <central_name>Joel-Central-120</central_name>
+        </central>
+        <customer customerid="326">
+            <name>Barry Johnson</name>
+            <email>Barry.Johnson@gmail.com</email>
+        </customer>
+        <description>
+            <customer_section>
+                { "preferred_comm": "email", "text": "Pipe does not work properly." }
+                <fridgeid>"452"</fridgeid>
+            </customer_section>
+        </description>
+    </ticket>
+    <ticket ticketid="77">
+        <status>assigned</status>
+        <editor>Cole</editor>
+        <central servicecenterid="327">
+            <central_name>William-Central-327</central_name>
+        </central>
+        <customer customerid="614">
+            <name>Juan Carter</name>
+            <email>Juan.Carter@hotmail.com</email>
+        </customer>
+        <description>
+            <customer_section>
+                { "preferred_comm": "email", "text": "Glass Panel makes strange noises." }
+                <fridgeid>"164"</fridgeid>
+            </customer_section>
+        </description>
+    </ticket>
+    <ticket ticketid="80">
+        <status>assigned</status>
+        <editor>Erickson</editor>
+        <central servicecenterid="115">
+            <central_name>Mary-Central-115</central_name>
+        </central>
+        <customer customerid="465">
+            <name>Karen Sanchez</name>
+            <email>Karen.Sanchez@me.com</email>
+        </customer>
+        <description>
+            <customer_section>
+                { "preferred_comm": "email", "text": "Condenser makes strange noises." }
+                <fridgeid>"313"</fridgeid>
+            </customer_section>
+        </description>
+    </ticket>
+    <ticket ticketid="89">
+        <status>assigned</status>
+        <editor>Howell</editor>
+        <central servicecenterid="173">
+            <central_name>Michelle-Central-173</central_name>
+        </central>
+        <customer customerid="566">
+            <name>Jill Erikson</name>
+            <email>Jill.Erikson@hotmail.com</email>
+        </customer>
+        <description>
+            <customer_section>
+                { "preferred_comm": "email", "text": "Tube looks strange." }
+                <fridgeid>"212"</fridgeid>
+            </customer_section>
+        </description>
+    </ticket>
+    <ticket ticketid="91">
+        <status>assigned</status>
+        <editor>Rowley</editor>
+        <central servicecenterid="282">
+            <central_name>Kathryn-Central-282</central_name>
+        </central>
+        <customer customerid="747">
+            <name>Trudy Bragg</name>
+            <email>Trudy.Bragg@me.com</email>
+        </customer>
+        <description>
+            <customer_section>
+                { "preferred_comm": "email", "text": "Tube does not work properly." }
+                <fridgeid>"31"</fridgeid>
+            </customer_section>
+        </description>
+    </ticket>
+    <ticket ticketid="96">
+        <status>assigned</status>
+        <editor>Batz</editor>
+        <central servicecenterid="254">
+            <central_name>Viola-Central-254</central_name>
+        </central>
+        <customer customerid="646">
+            <name>Ronald Lawhon</name>
+            <email>Ronald.Lawhon@yahoo.com</email>
+        </customer>
+        <description>
+            <customer_section>
+                { "preferred_comm": "email", "text": "Door does not work properly." }
+                <fridgeid>"132"</fridgeid>
+            </customer_section>
+        </description>
+    </ticket>
+    <ticket ticketid="110">
+        <status>assigned</status>
+        <editor>Oliver</editor>
+        <central servicecenterid="593">
+            <central_name>Rebecca-Central-593</central_name>
+        </central>
+        <customer customerid="269">
+            <name>Angel Boutelle</name>
+            <email>Angel.Boutelle@yahoo.com</email>
+        </customer>
+        <description>
+            <customer_section>
+                { "preferred_comm": "email", "text": "Thermostat looks strange." }
+                <fridgeid>"509"</fridgeid>
+            </customer_section>
+        </description>
+    </ticket>
+    <ticket ticketid="134">
+        <status>assigned</status>
+        <editor>Rodriguez</editor>
+        <central servicecenterid="97">
+            <central_name>Nilsa-Central-97</central_name>
+        </central>
+        <customer customerid="538">
+            <name>David Kilcoyne</name>
+            <email>David.Kilcoyne@yahoo.com</email>
+        </customer>
+        <description>
+            <customer_section>
+                { "preferred_comm": "email", "text": "Glass Panel is not cooling." }
+                <fridgeid>"240"</fridgeid>
+            </customer_section>
+        </description>
+    </ticket>
+    <ticket ticketid="136">
+        <status>assigned</status>
+        <editor>Perry</editor>
+        <central servicecenterid="87">
+            <central_name>Kia-Central-87</central_name>
+        </central>
+        <customer customerid="745">
+            <name>Daniel Davis</name>
+            <email>Daniel.Davis@hotmail.com</email>
+        </customer>
+        <description>
+            <customer_section>
+                { "preferred_comm": "email", "text": "Thermostat makes strange noises." }
+                <fridgeid>"33"</fridgeid>
+            </customer_section>
+        </description>
+    </ticket>
+    <ticket ticketid="140">
+        <status>assigned</status>
+        <editor>Hernandez</editor>
+        <central servicecenterid="186">
+            <central_name>Grace-Central-186</central_name>
+        </central>
+        <customer customerid="486">
+            <name>Samantha Smith</name>
+            <email>Samantha.Smith@yahoo.com</email>
+        </customer>
+        <description>
+            <customer_section>
+                { "preferred_comm": "email", "text": "Pipe makes strange noises." }
+                <fridgeid>"292"</fridgeid>
+            </customer_section>
+        </description>
+    </ticket>
+    <ticket ticketid="142">
+        <status>assigned</status>
+        <editor>Acosta</editor>
+        <central servicecenterid="642">
+            <central_name>Bernice-Central-642</central_name>
+        </central>
+        <customer customerid="422">
+            <name>Beatriz Phillips</name>
+            <email>Beatriz.Phillips@yahoo.com</email>
+        </customer>
+        <description>
+            <customer_section>
+                { "preferred_comm": "email", "text": "Glass Panel is not cooling." }
+                <fridgeid>"356"</fridgeid>
+            </customer_section>
+        </description>
+    </ticket>
+    <ticket ticketid="148">
+        <status>assigned</status>
+        <editor>Cooper</editor>
+        <central servicecenterid="330">
+            <central_name>Terry-Central-330</central_name>
+        </central>
+        <customer customerid="282">
+            <name>Teresa Bugg</name>
+            <email>Teresa.Bugg@gmx.com</email>
+        </customer>
+        <description>
+            <customer_section>
+                { "preferred_comm": "email", "text": "Compressor makes strange noises." }
+                <fridgeid>"496"</fridgeid>
+            </customer_section>
+        </description>
+    </ticket>
+    <ticket ticketid="154">
+        <status>assigned</status>
+        <editor>Jackson</editor>
+        <central servicecenterid="43">
+            <central_name>Robert-Central-43</central_name>
+        </central>
+        <customer customerid="49">
+            <name>Dennis Mattila</name>
+            <email>Dennis.Mattila@hotmail.com</email>
+        </customer>
+        <description>
+            <customer_section>
+                { "preferred_comm": "email", "text": "Thermostat does not work properly." }
+                <fridgeid>"729"</fridgeid>
+            </customer_section>
+        </description>
+    </ticket>
+    <ticket ticketid="157">
+        <status>assigned</status>
+        <editor>Blocker</editor>
+        <central servicecenterid="529">
+            <central_name>Sherry-Central-529</central_name>
+        </central>
+        <customer customerid="329">
+            <name>Glen Woods</name>
+            <email>Glen.Woods@gmx.com</email>
+        </customer>
+        <description>
+            <customer_section>
+                { "preferred_comm": "email", "text": "Glass Panel does not work properly." }
+                <fridgeid>"449"</fridgeid>
+            </customer_section>
+        </description>
+    </ticket>
+    <ticket ticketid="160">
+        <status>assigned</status>
+        <editor>Dingler</editor>
+        <central servicecenterid="216">
+            <central_name>Sarah-Central-216</central_name>
+        </central>
+        <customer customerid="276">
+            <name>Martin Smith</name>
+            <email>Martin.Smith@hotmail.com</email>
+        </customer>
+        <description>
+            <customer_section>
+                { "preferred_comm": "email", "text": "Glass Panel looks strange." }
+                <fridgeid>"502"</fridgeid>
+            </customer_section>
+        </description>
+    </ticket>
+    <ticket ticketid="177">
+        <status>assigned</status>
+        <editor>Lewis</editor>
+        <central servicecenterid="87">
+            <central_name>Kia-Central-87</central_name>
+        </central>
+        <customer customerid="208">
+            <name>Rachel Han</name>
+            <email>Rachel.Han@hotmail.com</email>
+        </customer>
+        <description>
+            <customer_section>
+                { "preferred_comm": "email", "text": "Condenser looks strange." }
+                <fridgeid>"986"</fridgeid>
+            </customer_section>
+        </description>
+    </ticket>
+    <ticket ticketid="182">
+        <status>assigned</status>
+        <editor>Mena</editor>
+        <central servicecenterid="364">
+            <central_name>Michael-Central-364</central_name>
+        </central>
+        <customer customerid="270">
+            <name>Adelaide Clark</name>
+            <email>Adelaide.Clark@yahoo.com</email>
+        </customer>
+        <description>
+            <customer_section>
+                { "preferred_comm": "email", "text": "Pipe does not work properly." }
+                <fridgeid>"508"</fridgeid>
+            </customer_section>
+        </description>
+    </ticket>
+    <ticket ticketid="191">
+        <status>assigned</status>
+        <editor>Trombley</editor>
+        <central servicecenterid="57">
+            <central_name>Lindsey-Central-57</central_name>
+        </central>
+        <customer customerid="38">
+            <name>Murray Henry</name>
+            <email>Murray.Henry@hotmail.com</email>
+        </customer>
+        <description>
+            <customer_section>
+                { "preferred_comm": "email", "text": "Tube is not cooling." }
+                <fridgeid>"740"</fridgeid>
+            </customer_section>
+        </description>
+    </ticket>
+    <ticket ticketid="196">
+        <status>assigned</status>
+        <editor>Miller</editor>
+        <central servicecenterid="546">
+            <central_name>Brian-Central-546</central_name>
+        </central>
+        <customer customerid="300">
+            <name>Sara Thompson</name>
+            <email>Sara.Thompson@gmx.com</email>
+        </customer>
+        <description>
+            <customer_section>
+                { "preferred_comm": "email", "text": "Pipe is not cooling." }
+                <fridgeid>"478"</fridgeid>
+            </customer_section>
+        </description>
+    </ticket>
+    <ticket ticketid="199">
+        <status>assigned</status>
+        <editor>Hamilton</editor>
+        <central servicecenterid="166">
+            <central_name>Hazel-Central-166</central_name>
+        </central>
+        <customer customerid="749">
+            <name>Karl Simmons</name>
+            <email>Karl.Simmons@yahoo.com</email>
+        </customer>
+        <description>
+            <customer_section>
+                { "preferred_comm": "email", "text": "Condenser makes strange noises." }
+                <fridgeid>"29"</fridgeid>
+            </customer_section>
+        </description>
+    </ticket>
+    <ticket ticketid="201">
+        <status>assigned</status>
+        <editor>Hiott</editor>
+        <central servicecenterid="572">
+            <central_name>Roland-Central-572</central_name>
+        </central>
+        <customer customerid="304">
+            <name>Mary Laurie</name>
+            <email>Mary.Laurie@yahoo.com</email>
+        </customer>
+        <description>
+            <customer_section>
+                { "preferred_comm": "email", "text": "Tube makes strange noises." }
+                <fridgeid>"474"</fridgeid>
+            </customer_section>
+        </description>
+    </ticket>
+    <ticket ticketid="212">
+        <status>assigned</status>
+        <editor>Odell</editor>
+        <central servicecenterid="325">
+            <central_name>Gilbert-Central-325</central_name>
+        </central>
+        <customer customerid="453">
+            <name>Martha Carnahan</name>
+            <email>Martha.Carnahan@me.com</email>
+        </customer>
+        <description>
+            <customer_section>
+                { "preferred_comm": "email", "text": "Tube looks strange." }
+                <fridgeid>"325"</fridgeid>
+            </customer_section>
+        </description>
+    </ticket>
+    <ticket ticketid="213">
+        <status>assigned</status>
+        <editor>Garcia</editor>
+        <central servicecenterid="420">
+            <central_name>Jonathan-Central-420</central_name>
+        </central>
+        <customer customerid="369">
+            <name>Stephanie Stone</name>
+            <email>Stephanie.Stone@yahoo.com</email>
+        </customer>
+        <description>
+            <customer_section>
+                { "preferred_comm": "email", "text": "Compressor does not work properly." }
+                <fridgeid>"409"</fridgeid>
+            </customer_section>
+        </description>
+    </ticket>
+    <ticket ticketid="232">
+        <status>assigned</status>
+        <editor>Toney</editor>
+        <central servicecenterid="539">
+            <central_name>Neva-Central-539</central_name>
+        </central>
+        <customer customerid="618">
+            <name>Nathaniel Emerson</name>
+            <email>Nathaniel.Emerson@hotmail.com</email>
+        </customer>
+        <description>
+            <customer_section>
+                { "preferred_comm": "email", "text": "Pipe makes strange noises." }
+                <fridgeid>"160"</fridgeid>
+            </customer_section>
+        </description>
+    </ticket>
+    <ticket ticketid="236">
+        <status>assigned</status>
+        <editor>Bragg</editor>
+        <central servicecenterid="489">
+            <central_name>Fred-Central-489</central_name>
+        </central>
+        <customer customerid="613">
+            <name>Barbara Moore</name>
+            <email>Barbara.Moore@gmx.com</email>
+        </customer>
+        <description>
+            <customer_section>
+                { "preferred_comm": "email", "text": "Thermostat makes strange noises." }
+                <fridgeid>"165"</fridgeid>
+            </customer_section>
+        </description>
+    </ticket>
+    <ticket ticketid="237">
+        <status>assigned</status>
+        <editor>Malone</editor>
+        <central servicecenterid="478">
+            <central_name>Ronnie-Central-478</central_name>
+        </central>
+        <customer customerid="603">
+            <name>Anna Lafave</name>
+            <email>Anna.Lafave@yahoo.com</email>
+        </customer>
+        <description>
+            <customer_section>
+                { "preferred_comm": "email", "text": "Pipe makes strange noises." }
+                <fridgeid>"175"</fridgeid>
+            </customer_section>
+        </description>
+    </ticket>
+    <ticket ticketid="244">
+        <status>assigned</status>
+        <editor>Archer</editor>
+        <central servicecenterid="393">
+            <central_name>Linda-Central-393</central_name>
+        </central>
+        <customer customerid="403">
+            <name>Allan Dumar</name>
+            <email>Allan.Dumar@hotmail.com</email>
+        </customer>
+        <description>
+            <customer_section>
+                { "preferred_comm": "email", "text": "Compressor looks strange." }
+                <fridgeid>"375"</fridgeid>
+            </customer_section>
+        </description>
+    </ticket>
+    <ticket ticketid="247">
+        <status>assigned</status>
+        <editor>Chaney</editor>
+        <central servicecenterid="549">
+            <central_name>Benjamin-Central-549</central_name>
+        </central>
+        <customer customerid="691">
+            <name>Jorge Stout</name>
+            <email>Jorge.Stout@hotmail.com</email>
+        </customer>
+        <description>
+            <customer_section>
+                { "preferred_comm": "email", "text": "Thermostat is not cooling." }
+                <fridgeid>"87"</fridgeid>
+            </customer_section>
+        </description>
+    </ticket>
+    <ticket ticketid="262">
+        <status>assigned</status>
+        <editor>Carroll</editor>
+        <central servicecenterid="523">
+            <central_name>Keith-Central-523</central_name>
+        </central>
+        <customer customerid="611">
+            <name>Kurt Sanders</name>
+            <email>Kurt.Sanders@gmail.com</email>
+        </customer>
+        <description>
+            <customer_section>
+                { "preferred_comm": "email", "text": "Compressor does not work properly." }
+                <fridgeid>"167"</fridgeid>
+            </customer_section>
+        </description>
+    </ticket>
+    <ticket ticketid="264">
+        <status>assigned</status>
+        <editor>Harris</editor>
+        <central servicecenterid="257">
+            <central_name>Sandy-Central-257</central_name>
+        </central>
+        <customer customerid="709">
+            <name>Michael Wood</name>
+            <email>Michael.Wood@me.com</email>
+        </customer>
+        <description>
+            <customer_section>
+                { "preferred_comm": "email", "text": "Tube looks strange." }
+                <fridgeid>"69"</fridgeid>
+            </customer_section>
+        </description>
+    </ticket>
+    <ticket ticketid="268">
+        <status>assigned</status>
+        <editor>Nation</editor>
+        <central servicecenterid="54">
+            <central_name>Maria-Central-54</central_name>
+        </central>
+        <customer customerid="365">
+            <name>Danny Grosbier</name>
+            <email>Danny.Grosbier@hotmail.com</email>
+        </customer>
+        <description>
+            <customer_section>
+                { "preferred_comm": "email", "text": "Thermostat looks strange." }
+                <fridgeid>"413"</fridgeid>
+            </customer_section>
+        </description>
+    </ticket>
+    <ticket ticketid="279">
+        <status>assigned</status>
+        <editor>Lambert</editor>
+        <central servicecenterid="5">
+            <central_name>Katherine-Central-5</central_name>
+        </central>
+        <customer customerid="391">
+            <name>Lottie Davis</name>
+            <email>Lottie.Davis@hotmail.com</email>
+        </customer>
+        <description>
+            <customer_section>
+                { "preferred_comm": "email", "text": "Door looks strange." }
+                <fridgeid>"387"</fridgeid>
+            </customer_section>
+        </description>
+    </ticket>
+    <ticket ticketid="297">
+        <status>assigned</status>
+        <editor>Diamond</editor>
+        <central servicecenterid="691">
+            <central_name>Beverly-Central-691</central_name>
+        </central>
+        <customer customerid="737">
+            <name>Jeffery Christner</name>
+            <email>Jeffery.Christner@gmail.com</email>
+        </customer>
+        <description>
+            <customer_section>
+                { "preferred_comm": "email", "text": "Compressor makes strange noises." }
+                <fridgeid>"41"</fridgeid>
+            </customer_section>
+        </description>
+    </ticket>
+    <ticket ticketid="300">
+        <status>assigned</status>
+        <editor>Wright</editor>
+        <central servicecenterid="24">
+            <central_name>John-Central-24</central_name>
+        </central>
+        <customer customerid="160">
+            <name>Leah Hancock</name>
+            <email>Leah.Hancock@yahoo.com</email>
+        </customer>
+        <description>
+            <customer_section>
+                { "preferred_comm": "email", "text": "Door does not work properly." }
+                <fridgeid>"618"</fridgeid>
+            </customer_section>
+        </description>
+    </ticket>
+    <ticket ticketid="312">
+        <status>assigned</status>
+        <editor>Marshall</editor>
+        <central servicecenterid="527">
+            <central_name>Martha-Central-527</central_name>
+        </central>
+        <customer customerid="417">
+            <name>Christopher Putnam</name>
+            <email>Christopher.Putnam@yahoo.com</email>
+        </customer>
+        <description>
+            <customer_section>
+                { "preferred_comm": "email", "text": "Door makes strange noises." }
+                <fridgeid>"361"</fridgeid>
+            </customer_section>
+        </description>
+    </ticket>
+    <ticket ticketid="319">
+        <status>assigned</status>
+        <editor>Juarez</editor>
+        <central servicecenterid="164">
+            <central_name>Sergio-Central-164</central_name>
+        </central>
+        <customer customerid="36">
+            <name>Sandra Delozier</name>
+            <email>Sandra.Delozier@gmail.com</email>
+        </customer>
+        <description>
+            <customer_section>
+                { "preferred_comm": "email", "text": "Thermostat looks strange." }
+                <fridgeid>"814"</fridgeid>
+            </customer_section>
+        </description>
+    </ticket>
+    <ticket ticketid="322">
+        <status>assigned</status>
+        <editor>Andrews</editor>
+        <central servicecenterid="542">
+            <central_name>Kimberly-Central-542</central_name>
+        </central>
+        <customer customerid="642">
+            <name>Tamara Miller</name>
+            <email>Tamara.Miller@gmail.com</email>
+        </customer>
+        <description>
+            <customer_section>
+                { "preferred_comm": "email", "text": "Tube is not cooling." }
+                <fridgeid>"136"</fridgeid>
+            </customer_section>
+        </description>
+    </ticket>
+    <ticket ticketid="327">
+        <status>assigned</status>
+        <editor>Recio</editor>
+        <central servicecenterid="302">
+            <central_name>Luther-Central-302</central_name>
+        </central>
+        <customer customerid="172">
+            <name>Lynn Eckloff</name>
+            <email>Lynn.Eckloff@yahoo.com</email>
+        </customer>
+        <description>
+            <customer_section>
+                { "preferred_comm": "email", "text": "Tube does not work properly." }
+                <fridgeid>"606"</fridgeid>
+            </customer_section>
+        </description>
+    </ticket>
+    <ticket ticketid="328">
+        <status>assigned</status>
+        <editor>Mushrush</editor>
+        <central servicecenterid="414">
+            <central_name>Elsa-Central-414</central_name>
+        </central>
+        <customer customerid="53">
+            <name>Rosemary Ramirez</name>
+            <email>Rosemary.Ramirez@me.com</email>
+        </customer>
+        <description>
+            <customer_section>
+                { "preferred_comm": "email", "text": "Pipe looks strange." }
+                <fridgeid>"725"</fridgeid>
+            </customer_section>
+        </description>
+    </ticket>
+    <ticket ticketid="342">
+        <status>assigned</status>
+        <editor>Thrope</editor>
+        <central servicecenterid="587">
+            <central_name>Marjorie-Central-587</central_name>
+        </central>
+        <customer customerid="300">
+            <name>Sara Thompson</name>
+            <email>Sara.Thompson@gmx.com</email>
+        </customer>
+        <description>
+            <customer_section>
+                { "preferred_comm": "email", "text": "Compressor looks strange." }
+                <fridgeid>"478"</fridgeid>
+            </customer_section>
+        </description>
+    </ticket>
+    <ticket ticketid="345">
+        <status>assigned</status>
+        <editor>Bolden</editor>
+        <central servicecenterid="109">
+            <central_name>Charles-Central-109</central_name>
+        </central>
+        <customer customerid="679">
+            <name>Jeanette Bradford</name>
+            <email>Jeanette.Bradford@gmx.com</email>
+        </customer>
+        <description>
+            <customer_section>
+                { "preferred_comm": "email", "text": "Tube looks strange." }
+                <fridgeid>"99"</fridgeid>
+            </customer_section>
+        </description>
+    </ticket>
+    <ticket ticketid="347">
+        <status>assigned</status>
+        <editor>Fryer</editor>
+        <central servicecenterid="708">
+            <central_name>Laura-Central-708</central_name>
+        </central>
+        <customer customerid="299">
+            <name>Lorri Fox</name>
+            <email>Lorri.Fox@me.com</email>
+        </customer>
+        <description>
+            <customer_section>
+                { "preferred_comm": "email", "text": "Condenser is not cooling." }
+                <fridgeid>"479"</fridgeid>
+            </customer_section>
+        </description>
+    </ticket>
+    <ticket ticketid="380">
+        <status>assigned</status>
+        <editor>Rodriguez</editor>
+        <central servicecenterid="396">
+            <central_name>Lois-Central-396</central_name>
+        </central>
+        <customer customerid="326">
+            <name>Barry Johnson</name>
+            <email>Barry.Johnson@gmail.com</email>
+        </customer>
+        <description>
+            <customer_section>
+                { "preferred_comm": "email", "text": "Tube does not work properly." }
+                <fridgeid>"452"</fridgeid>
+            </customer_section>
+        </description>
+    </ticket>
+    <ticket ticketid="388">
+        <status>assigned</status>
+        <editor>Williams</editor>
+        <central servicecenterid="552">
+            <central_name>Victoria-Central-552</central_name>
+        </central>
+        <customer customerid="464">
+            <name>Amy Williams</name>
+            <email>Amy.Williams@me.com</email>
+        </customer>
+        <description>
+            <customer_section>
+                { "preferred_comm": "email", "text": "Compressor is not cooling." }
+                <fridgeid>"314"</fridgeid>
+            </customer_section>
+        </description>
+    </ticket>
+    <ticket ticketid="396">
+        <status>assigned</status>
+        <editor>Evans</editor>
+        <central servicecenterid="518">
+            <central_name>Natalie-Central-518</central_name>
+        </central>
+        <customer customerid="195">
+            <name>Evelyn Duchon</name>
+            <email>Evelyn.Duchon@gmx.com</email>
+        </customer>
+        <description>
+            <customer_section>
+                { "preferred_comm": "email", "text": "Pipe looks strange." }
+                <fridgeid>"583"</fridgeid>
+            </customer_section>
+        </description>
+    </ticket>
+    <ticket ticketid="441">
+        <status>assigned</status>
+        <editor>Slater</editor>
+        <central servicecenterid="288">
+            <central_name>Victor-Central-288</central_name>
+        </central>
+        <customer customerid="360">
+            <name>Carolyn Ferguson</name>
+            <email>Carolyn.Ferguson@hotmail.com</email>
+        </customer>
+        <description>
+            <customer_section>
+                { "preferred_comm": "email", "text": "Door is not cooling." }
+                <fridgeid>"418"</fridgeid>
+            </customer_section>
+        </description>
+    </ticket>
+    <ticket ticketid="454">
+        <status>assigned</status>
+        <editor>Hoover</editor>
+        <central servicecenterid="2">
+            <central_name>Corey-Central-2</central_name>
+        </central>
+        <customer customerid="349">
+            <name>Terrance Rose</name>
+            <email>Terrance.Rose@hotmail.com</email>
+        </customer>
+        <description>
+            <customer_section>
+                { "preferred_comm": "email", "text": "Door does not work properly." }
+                <fridgeid>"429"</fridgeid>
+            </customer_section>
+        </description>
+    </ticket>
+    <ticket ticketid="460">
+        <status>assigned</status>
+        <editor>Page</editor>
+        <central servicecenterid="745">
+            <central_name>Eleanor-Central-745</central_name>
+        </central>
+        <customer customerid="30">
+            <name>Aaron Rutledge</name>
+            <email>Aaron.Rutledge@gmail.com</email>
+        </customer>
+        <description>
+            <customer_section>
+                { "preferred_comm": "email", "text": "Door makes strange noises." }
+                <fridgeid>"808"</fridgeid>
+            </customer_section>
+        </description>
+    </ticket>
+    <ticket ticketid="469">
+        <status>assigned</status>
+        <editor>Blank</editor>
+        <central servicecenterid="30">
+            <central_name>Richard-Central-30</central_name>
+        </central>
+        <customer customerid="535">
+            <name>Tracy Robinson</name>
+            <email>Tracy.Robinson@gmx.com</email>
+        </customer>
+        <description>
+            <customer_section>
+                { "preferred_comm": "email", "text": "Condenser is not cooling." }
+                <fridgeid>"243"</fridgeid>
+            </customer_section>
+        </description>
+    </ticket>
+    <ticket ticketid="472">
+        <status>assigned</status>
+        <editor>Williams</editor>
+        <central servicecenterid="8">
+            <central_name>Florencio-Central-8</central_name>
+        </central>
+        <customer customerid="502">
+            <name>Mathew Perez</name>
+            <email>Mathew.Perez@gmx.com</email>
+        </customer>
+        <description>
+            <customer_section>
+                { "preferred_comm": "email", "text": "Condenser does not work properly." }
+                <fridgeid>"276"</fridgeid>
+            </customer_section>
+        </description>
+    </ticket>
+    <ticket ticketid="489">
+        <status>assigned</status>
+        <editor>Nielsen</editor>
+        <central servicecenterid="269">
+            <central_name>Vanda-Central-269</central_name>
+        </central>
+        <customer customerid="608">
+            <name>Juan Galvan</name>
+            <email>Juan.Galvan@gmail.com</email>
+        </customer>
+        <description>
+            <customer_section>
+                { "preferred_comm": "email", "text": "Compressor does not work properly." }
+                <fridgeid>"170"</fridgeid>
+            </customer_section>
+        </description>
+    </ticket>
+    <ticket ticketid="497">
+        <status>assigned</status>
+        <editor>Williams</editor>
+        <central servicecenterid="445">
+            <central_name>Amanda-Central-445</central_name>
+        </central>
+        <customer customerid="159">
+            <name>William White</name>
+            <email>William.White@gmail.com</email>
+        </customer>
+        <description>
+            <customer_section>
+                { "preferred_comm": "email", "text": "Condenser is not cooling." }
+                <fridgeid>"937"</fridgeid>
+            </customer_section>
+        </description>
+    </ticket>
+    <ticket ticketid="516">
+        <status>assigned</status>
+        <editor>Youngs</editor>
+        <central servicecenterid="181">
+            <central_name>Timothy-Central-181</central_name>
+        </central>
+        <customer customerid="473">
+            <name>Mark Lehman</name>
+            <email>Mark.Lehman@gmail.com</email>
+        </customer>
+        <description>
+            <customer_section>
+                { "preferred_comm": "email", "text": "Tube is not cooling." }
+                <fridgeid>"305"</fridgeid>
+            </customer_section>
+        </description>
+    </ticket>
+    <ticket ticketid="518">
+        <status>assigned</status>
+        <editor>Monson</editor>
+        <central servicecenterid="748">
+            <central_name>Ralph-Central-748</central_name>
+        </central>
+        <customer customerid="606">
+            <name>Margaret Williams</name>
+            <email>Margaret.Williams@gmx.com</email>
+        </customer>
+        <description>
+            <customer_section>
+                { "preferred_comm": "email", "text": "Thermostat looks strange." }
+                <fridgeid>"172"</fridgeid>
+            </customer_section>
+        </description>
+    </ticket>
+    <ticket ticketid="526">
+        <status>assigned</status>
+        <editor>Acosta</editor>
+        <central servicecenterid="98">
+            <central_name>Charles-Central-98</central_name>
+        </central>
+        <customer customerid="553">
+            <name>Brian Davis</name>
+            <email>Brian.Davis@me.com</email>
+        </customer>
+        <description>
+            <customer_section>
+                { "preferred_comm": "email", "text": "Door makes strange noises." }
+                <fridgeid>"225"</fridgeid>
+            </customer_section>
+        </description>
+    </ticket>
+    <ticket ticketid="527">
+        <status>assigned</status>
+        <editor>Dolly</editor>
+        <central servicecenterid="170">
+            <central_name>Charles-Central-170</central_name>
+        </central>
+        <customer customerid="351">
+            <name>Julius Dickow</name>
+            <email>Julius.Dickow@me.com</email>
+        </customer>
+        <description>
+            <customer_section>
+                { "preferred_comm": "email", "text": "Tube looks strange." }
+                <fridgeid>"427"</fridgeid>
+            </customer_section>
+        </description>
+    </ticket>
+    <ticket ticketid="546">
+        <status>assigned</status>
+        <editor>Eytcheson</editor>
+        <central servicecenterid="219">
+            <central_name>Marion-Central-219</central_name>
+        </central>
+        <customer customerid="419">
+            <name>Krista Mayer</name>
+            <email>Krista.Mayer@hotmail.com</email>
+        </customer>
+        <description>
+            <customer_section>
+                { "preferred_comm": "email", "text": "Tube makes strange noises." }
+                <fridgeid>"359"</fridgeid>
+            </customer_section>
+        </description>
+    </ticket>
+    <ticket ticketid="547">
+        <status>assigned</status>
+        <editor>Hall</editor>
+        <central servicecenterid="449">
+            <central_name>Ervin-Central-449</central_name>
+        </central>
+        <customer customerid="740">
+            <name>Kathleen Giard</name>
+            <email>Kathleen.Giard@me.com</email>
+        </customer>
+        <description>
+            <customer_section>
+                { "preferred_comm": "email", "text": "Door is not cooling." }
+                <fridgeid>"38"</fridgeid>
+            </customer_section>
+        </description>
+    </ticket>
+    <ticket ticketid="558">
+        <status>assigned</status>
+        <editor>Yaney</editor>
+        <central servicecenterid="31">
+            <central_name>Anne-Central-31</central_name>
+        </central>
+        <customer customerid="223">
+            <name>Ardell Dandy</name>
+            <email>Ardell.Dandy@hotmail.com</email>
+        </customer>
+        <description>
+            <customer_section>
+                { "preferred_comm": "email", "text": "Glass Panel is not cooling." }
+                <fridgeid>"555"</fridgeid>
+            </customer_section>
+        </description>
+    </ticket>
+    <ticket ticketid="566">
+        <status>assigned</status>
+        <editor>Nash</editor>
+        <central servicecenterid="441">
+            <central_name>Jonathan-Central-441</central_name>
+        </central>
+        <customer customerid="705">
+            <name>Betty Gillett</name>
+            <email>Betty.Gillett@gmx.com</email>
+        </customer>
+        <description>
+            <customer_section>
+                { "preferred_comm": "email", "text": "Glass Panel is not cooling." }
+                <fridgeid>"73"</fridgeid>
+            </customer_section>
+        </description>
+    </ticket>
+    <ticket ticketid="567">
+        <status>assigned</status>
+        <editor>Cashman</editor>
+        <central servicecenterid="653">
+            <central_name>James-Central-653</central_name>
+        </central>
+        <customer customerid="446">
+            <name>Jeffery Houck</name>
+            <email>Jeffery.Houck@me.com</email>
+        </customer>
+        <description>
+            <customer_section>
+                { "preferred_comm": "email", "text": "Tube does not work properly." }
+                <fridgeid>"332"</fridgeid>
+            </customer_section>
+        </description>
+    </ticket>
+    <ticket ticketid="570">
+        <status>assigned</status>
+        <editor>Johnson</editor>
+        <central servicecenterid="325">
+            <central_name>Gilbert-Central-325</central_name>
+        </central>
+        <customer customerid="332">
+            <name>Marcia Riley</name>
+            <email>Marcia.Riley@gmx.com</email>
+        </customer>
+        <description>
+            <customer_section>
+                { "preferred_comm": "email", "text": "Pipe makes strange noises." }
+                <fridgeid>"446"</fridgeid>
+            </customer_section>
+        </description>
+    </ticket>
+    <ticket ticketid="585">
+        <status>assigned</status>
+        <editor>Hunt</editor>
+        <central servicecenterid="185">
+            <central_name>John-Central-185</central_name>
+        </central>
+        <customer customerid="446">
+            <name>Jeffery Houck</name>
+            <email>Jeffery.Houck@me.com</email>
+        </customer>
+        <description>
+            <customer_section>
+                { "preferred_comm": "email", "text": "Condenser does not work properly." }
+                <fridgeid>"332"</fridgeid>
+            </customer_section>
+        </description>
+    </ticket>
+    <ticket ticketid="593">
+        <status>assigned</status>
+        <editor>Stoltenberg</editor>
+        <central servicecenterid="338">
+            <central_name>Jennifer-Central-338</central_name>
+        </central>
+        <customer customerid="220">
+            <name>Donald Hall</name>
+            <email>Donald.Hall@gmail.com</email>
+        </customer>
+        <description>
+            <customer_section>
+                { "preferred_comm": "email", "text": "Compressor does not work properly." }
+                <fridgeid>"998"</fridgeid>
+            </customer_section>
+        </description>
+    </ticket>
+    <ticket ticketid="597">
+        <status>assigned</status>
+        <editor>Newsom</editor>
+        <central servicecenterid="499">
+            <central_name>Jeffrey-Central-499</central_name>
+        </central>
+        <customer customerid="425">
+            <name>Alexis Giglio</name>
+            <email>Alexis.Giglio@hotmail.com</email>
+        </customer>
+        <description>
+            <customer_section>
+                { "preferred_comm": "email", "text": "Glass Panel is not cooling." }
+                <fridgeid>"353"</fridgeid>
+            </customer_section>
+        </description>
+    </ticket>
+    <ticket ticketid="599">
+        <status>assigned</status>
+        <editor>Gomez</editor>
+        <central servicecenterid="254">
+            <central_name>Viola-Central-254</central_name>
+        </central>
+        <customer customerid="4">
+            <name>Eileen Fair</name>
+            <email>Eileen.Fair@gmail.com</email>
+        </customer>
+        <description>
+            <customer_section>
+                { "preferred_comm": "email", "text": "Glass Panel looks strange." }
+                <fridgeid>"782"</fridgeid>
+            </customer_section>
+        </description>
+    </ticket>
+    <ticket ticketid="601">
+        <status>assigned</status>
+        <editor>Worrell</editor>
+        <central servicecenterid="239">
+            <central_name>Kurt-Central-239</central_name>
+        </central>
+        <customer customerid="183">
+            <name>Lavone Hernandez</name>
+            <email>Lavone.Hernandez@me.com</email>
+        </customer>
+        <description>
+            <customer_section>
+                { "preferred_comm": "email", "text": "Door does not work properly." }
+                <fridgeid>"595"</fridgeid>
+            </customer_section>
+        </description>
+    </ticket>
+    <ticket ticketid="628">
+        <status>assigned</status>
+        <editor>Acosta</editor>
+        <central servicecenterid="173">
+            <central_name>Michelle-Central-173</central_name>
+        </central>
+        <customer customerid="70">
+            <name>Ellen Cruise</name>
+            <email>Ellen.Cruise@hotmail.com</email>
+        </customer>
+        <description>
+            <customer_section>
+                { "preferred_comm": "email", "text": "Glass Panel makes strange noises." }
+                <fridgeid>"848"</fridgeid>
+            </customer_section>
+        </description>
+    </ticket>
+    <ticket ticketid="633">
+        <status>assigned</status>
+        <editor>Barry</editor>
+        <central servicecenterid="359">
+            <central_name>Julie-Central-359</central_name>
+        </central>
+        <customer customerid="260">
+            <name>Pearl Ortiz</name>
+            <email>Pearl.Ortiz@gmail.com</email>
+        </customer>
+        <description>
+            <customer_section>
+                { "preferred_comm": "email", "text": "Condenser makes strange noises." }
+                <fridgeid>"518"</fridgeid>
+            </customer_section>
+        </description>
+    </ticket>
+    <ticket ticketid="635">
+        <status>assigned</status>
+        <editor>Andrews</editor>
+        <central servicecenterid="650">
+            <central_name>Thomas-Central-650</central_name>
+        </central>
+        <customer customerid="510">
+            <name>Leslie Wagner</name>
+            <email>Leslie.Wagner@yahoo.com</email>
+        </customer>
+        <description>
+            <customer_section>
+                { "preferred_comm": "email", "text": "Door looks strange." }
+                <fridgeid>"268"</fridgeid>
+            </customer_section>
+        </description>
+    </ticket>
+    <ticket ticketid="641">
+        <status>assigned</status>
+        <editor>Connell</editor>
+        <central servicecenterid="75">
+            <central_name>Mary-Central-75</central_name>
+        </central>
+        <customer customerid="685">
+            <name>James Kanahele</name>
+            <email>James.Kanahele@hotmail.com</email>
+        </customer>
+        <description>
+            <customer_section>
+                { "preferred_comm": "email", "text": "Door makes strange noises." }
+                <fridgeid>"93"</fridgeid>
+            </customer_section>
+        </description>
+    </ticket>
+    <ticket ticketid="642">
+        <status>assigned</status>
+        <editor>Wright</editor>
+        <central servicecenterid="191">
+            <central_name>Elise-Central-191</central_name>
+        </central>
+        <customer customerid="25">
+            <name>Gladys Scott</name>
+            <email>Gladys.Scott@hotmail.com</email>
+        </customer>
+        <description>
+            <customer_section>
+                { "preferred_comm": "email", "text": "Door does not work properly." }
+                <fridgeid>"753"</fridgeid>
+            </customer_section>
+        </description>
+    </ticket>
+    <ticket ticketid="644">
+        <status>assigned</status>
+        <editor>Bruce</editor>
+        <central servicecenterid="442">
+            <central_name>John-Central-442</central_name>
+        </central>
+        <customer customerid="592">
+            <name>Mary Slack</name>
+            <email>Mary.Slack@gmx.com</email>
+        </customer>
+        <description>
+            <customer_section>
+                { "preferred_comm": "email", "text": "Tube does not work properly." }
+                <fridgeid>"186"</fridgeid>
+            </customer_section>
+        </description>
+    </ticket>
+    <ticket ticketid="651">
+        <status>assigned</status>
+        <editor>Barer</editor>
+        <central servicecenterid="468">
+            <central_name>Richard-Central-468</central_name>
+        </central>
+        <customer customerid="132">
+            <name>Corey Zelaya</name>
+            <email>Corey.Zelaya@gmail.com</email>
+        </customer>
+        <description>
+            <customer_section>
+                { "preferred_comm": "email", "text": "Tube does not work properly." }
+                <fridgeid>"646"</fridgeid>
+            </customer_section>
+        </description>
+    </ticket>
+    <ticket ticketid="657">
+        <status>assigned</status>
+        <editor>Barnes</editor>
+        <central servicecenterid="615">
+            <central_name>Stephen-Central-615</central_name>
+        </central>
+        <customer customerid="257">
+            <name>Joseph Flores</name>
+            <email>Joseph.Flores@gmx.com</email>
+        </customer>
+        <description>
+            <customer_section>
+                { "preferred_comm": "email", "text": "Tube makes strange noises." }
+                <fridgeid>"521"</fridgeid>
+            </customer_section>
+        </description>
+    </ticket>
+    <ticket ticketid="674">
+        <status>assigned</status>
+        <editor>Battle</editor>
+        <central servicecenterid="305">
+            <central_name>Jane-Central-305</central_name>
+        </central>
+        <customer customerid="637">
+            <name>Bonnie Ross</name>
+            <email>Bonnie.Ross@hotmail.com</email>
+        </customer>
+        <description>
+            <customer_section>
+                { "preferred_comm": "email", "text": "Door does not work properly." }
+                <fridgeid>"141"</fridgeid>
+            </customer_section>
+        </description>
+    </ticket>
+    <ticket ticketid="676">
+        <status>assigned</status>
+        <editor>Middleton</editor>
+        <central servicecenterid="17">
+            <central_name>James-Central-17</central_name>
+        </central>
+        <customer customerid="23">
+            <name>Sophie Mcquillen</name>
+            <email>Sophie.Mcquillen@hotmail.com</email>
+        </customer>
+        <description>
+            <customer_section>
+                { "preferred_comm": "email", "text": "Glass Panel is not cooling." }
+                <fridgeid>"755"</fridgeid>
+            </customer_section>
+        </description>
+    </ticket>
+    <ticket ticketid="682">
+        <status>assigned</status>
+        <editor>Lewis</editor>
+        <central servicecenterid="160">
+            <central_name>Dennis-Central-160</central_name>
+        </central>
+        <customer customerid="106">
+            <name>Thomas Greenley</name>
+            <email>Thomas.Greenley@gmx.com</email>
+        </customer>
+        <description>
+            <customer_section>
+                { "preferred_comm": "email", "text": "Condenser does not work properly." }
+                <fridgeid>"884"</fridgeid>
+            </customer_section>
+        </description>
+    </ticket>
+    <ticket ticketid="690">
+        <status>assigned</status>
+        <editor>Smith</editor>
+        <central servicecenterid="643">
+            <central_name>Amber-Central-643</central_name>
+        </central>
+        <customer customerid="514">
+            <name>Britt Clark</name>
+            <email>Britt.Clark@yahoo.com</email>
+        </customer>
+        <description>
+            <customer_section>
+                { "preferred_comm": "email", "text": "Condenser makes strange noises." }
+                <fridgeid>"264"</fridgeid>
+            </customer_section>
+        </description>
+    </ticket>
+    <ticket ticketid="692">
+        <status>assigned</status>
+        <editor>Gallagher</editor>
+        <central servicecenterid="258">
+            <central_name>Leeanna-Central-258</central_name>
+        </central>
+        <customer customerid="206">
+            <name>Marilyn Lewis</name>
+            <email>Marilyn.Lewis@gmx.com</email>
+        </customer>
+        <description>
+            <customer_section>
+                { "preferred_comm": "email", "text": "Glass Panel makes strange noises." }
+                <fridgeid>"572"</fridgeid>
+            </customer_section>
+        </description>
+    </ticket>
+    <ticket ticketid="731">
+        <status>assigned</status>
+        <editor>Sons</editor>
+        <central servicecenterid="639">
+            <central_name>Alease-Central-639</central_name>
+        </central>
+        <customer customerid="4">
+            <name>Eileen Fair</name>
+            <email>Eileen.Fair@gmail.com</email>
+        </customer>
+        <description>
+            <customer_section>
+                { "preferred_comm": "email", "text": "Door is not cooling." }
+                <fridgeid>"774"</fridgeid>
+            </customer_section>
+        </description>
+    </ticket>
+    <ticket ticketid="737">
+        <status>assigned</status>
+        <editor>Cabiness</editor>
+        <central servicecenterid="375">
+            <central_name>Sam-Central-375</central_name>
+        </central>
+        <customer customerid="587">
+            <name>Harry Overton</name>
+            <email>Harry.Overton@yahoo.com</email>
+        </customer>
+        <description>
+            <customer_section>
+                { "preferred_comm": "email", "text": "Thermostat looks strange." }
+                <fridgeid>"191"</fridgeid>
+            </customer_section>
+        </description>
+    </ticket>
+    <ticket ticketid="762">
+        <status>assigned</status>
+        <editor>Lozada</editor>
+        <central servicecenterid="256">
+            <central_name>Elaine-Central-256</central_name>
+        </central>
+        <customer customerid="495">
+            <name>Lynn Martin</name>
+            <email>Lynn.Martin@gmx.com</email>
+        </customer>
+        <description>
+            <customer_section>
+                { "preferred_comm": "email", "text": "Pipe makes strange noises." }
+                <fridgeid>"283"</fridgeid>
+            </customer_section>
+        </description>
+    </ticket>
+    <ticket ticketid="766">
+        <status>assigned</status>
+        <editor>Alto</editor>
+        <central servicecenterid="765">
+            <central_name>Jerome-Central-765</central_name>
+        </central>
+        <customer customerid="142">
+            <name>Leonard Wilks</name>
+            <email>Leonard.Wilks@me.com</email>
+        </customer>
+        <description>
+            <customer_section>
+                { "preferred_comm": "email", "text": "Glass Panel does not work properly." }
+                <fridgeid>"920"</fridgeid>
+            </customer_section>
+        </description>
+    </ticket>
+    <ticket ticketid="793">
+        <status>assigned</status>
+        <editor>Ellis</editor>
+        <central servicecenterid="142">
+            <central_name>Thu-Central-142</central_name>
+        </central>
+        <customer customerid="349">
+            <name>Terrance Rose</name>
+            <email>Terrance.Rose@hotmail.com</email>
+        </customer>
+        <description>
+            <customer_section>
+                { "preferred_comm": "email", "text": "Pipe looks strange." }
+                <fridgeid>"429"</fridgeid>
+            </customer_section>
+        </description>
+    </ticket>
+    <ticket ticketid="798">
+        <status>assigned</status>
+        <editor>Salazar</editor>
+        <central servicecenterid="668">
+            <central_name>Hal-Central-668</central_name>
+        </central>
+        <customer customerid="189">
+            <name>Andy Ikard</name>
+            <email>Andy.Ikard@yahoo.com</email>
+        </customer>
+        <description>
+            <customer_section>
+                { "preferred_comm": "email", "text": "Compressor is not cooling." }
+                <fridgeid>"967"</fridgeid>
+            </customer_section>
+        </description>
+    </ticket>
+    <ticket ticketid="801">
+        <status>assigned</status>
+        <editor>Jones</editor>
+        <central servicecenterid="470">
+            <central_name>Shawn-Central-470</central_name>
+        </central>
+        <customer customerid="769">
+            <name>Samantha Mcguire</name>
+            <email>Samantha.Mcguire@gmail.com</email>
+        </customer>
+        <description>
+            <customer_section>
+                { "preferred_comm": "email", "text": "Tube does not work properly." }
+                <fridgeid>"9"</fridgeid>
+            </customer_section>
+        </description>
+    </ticket>
+    <ticket ticketid="805">
+        <status>assigned</status>
+        <editor>Stevens</editor>
+        <central servicecenterid="660">
+            <central_name>Kevin-Central-660</central_name>
+        </central>
+        <customer customerid="506">
+            <name>Lena Wellman</name>
+            <email>Lena.Wellman@gmx.com</email>
+        </customer>
+        <description>
+            <customer_section>
+                { "preferred_comm": "email", "text": "Tube makes strange noises." }
+                <fridgeid>"272"</fridgeid>
+            </customer_section>
+        </description>
+    </ticket>
+    <ticket ticketid="833">
+        <status>assigned</status>
+        <editor>Cloutier</editor>
+        <central servicecenterid="249">
+            <central_name>Karl-Central-249</central_name>
+        </central>
+        <customer customerid="679">
+            <name>Jeanette Bradford</name>
+            <email>Jeanette.Bradford@gmx.com</email>
+        </customer>
+        <description>
+            <customer_section>
+                { "preferred_comm": "email", "text": "Condenser makes strange noises." }
+                <fridgeid>"99"</fridgeid>
+            </customer_section>
+        </description>
+    </ticket>
+    <ticket ticketid="840">
+        <status>assigned</status>
+        <editor>Johnson</editor>
+        <central servicecenterid="92">
+            <central_name>Vincent-Central-92</central_name>
+        </central>
+        <customer customerid="47">
+            <name>Annie Maldonado</name>
+            <email>Annie.Maldonado@me.com</email>
+        </customer>
+        <description>
+            <customer_section>
+                { "preferred_comm": "email", "text": "Compressor looks strange." }
+                <fridgeid>"731"</fridgeid>
+            </customer_section>
+        </description>
+    </ticket>
+    <ticket ticketid="848">
+        <status>assigned</status>
+        <editor>Coleman</editor>
+        <central servicecenterid="200">
+            <central_name>Ferdinand-Central-200</central_name>
+        </central>
+        <customer customerid="512">
+            <name>Charles Brown</name>
+            <email>Charles.Brown@hotmail.com</email>
+        </customer>
+        <description>
+            <customer_section>
+                { "preferred_comm": "email", "text": "Thermostat does not work properly." }
+                <fridgeid>"266"</fridgeid>
+            </customer_section>
+        </description>
+    </ticket>
+    <ticket ticketid="860">
+        <status>assigned</status>
+        <editor>Hawkins</editor>
+        <central servicecenterid="203">
+            <central_name>Sally-Central-203</central_name>
+        </central>
+        <customer customerid="564">
+            <name>Christine Carnicelli</name>
+            <email>Christine.Carnicelli@yahoo.com</email>
+        </customer>
+        <description>
+            <customer_section>
+                { "preferred_comm": "email", "text": "Tube does not work properly." }
+                <fridgeid>"214"</fridgeid>
+            </customer_section>
+        </description>
+    </ticket>
+    <ticket ticketid="862">
+        <status>assigned</status>
+        <editor>Herren</editor>
+        <central servicecenterid="719">
+            <central_name>Jason-Central-719</central_name>
+        </central>
+        <customer customerid="598">
+            <name>Norma Smiley</name>
+            <email>Norma.Smiley@hotmail.com</email>
+        </customer>
+        <description>
+            <customer_section>
+                { "preferred_comm": "email", "text": "Tube does not work properly." }
+                <fridgeid>"180"</fridgeid>
+            </customer_section>
+        </description>
+    </ticket>
+    <ticket ticketid="869">
+        <status>assigned</status>
+        <editor>Cowen</editor>
+        <central servicecenterid="127">
+            <central_name>Dorothy-Central-127</central_name>
+        </central>
+        <customer customerid="451">
+            <name>Susan Morris</name>
+            <email>Susan.Morris@gmail.com</email>
+        </customer>
+        <description>
+            <customer_section>
+                { "preferred_comm": "email", "text": "Glass Panel does not work properly." }
+                <fridgeid>"327"</fridgeid>
+            </customer_section>
+        </description>
+    </ticket>
+    <ticket ticketid="890">
+        <status>assigned</status>
+        <editor>Medina</editor>
+        <central servicecenterid="443">
+            <central_name>Leon-Central-443</central_name>
+        </central>
+        <customer customerid="245">
+            <name>Jennifer Rimmer</name>
+            <email>Jennifer.Rimmer@hotmail.com</email>
+        </customer>
+        <description>
+            <customer_section>
+                { "preferred_comm": "email", "text": "Compressor looks strange." }
+                <fridgeid>"533"</fridgeid>
+            </customer_section>
+        </description>
+    </ticket>
+    <ticket ticketid="894">
+        <status>assigned</status>
+        <editor>Couch</editor>
+        <central servicecenterid="8">
+            <central_name>Florencio-Central-8</central_name>
+        </central>
+        <customer customerid="181">
+            <name>Christopher Owen</name>
+            <email>Christopher.Owen@gmail.com</email>
+        </customer>
+        <description>
+            <customer_section>
+                { "preferred_comm": "email", "text": "Thermostat looks strange." }
+                <fridgeid>"959"</fridgeid>
+            </customer_section>
+        </description>
+    </ticket>
+    <ticket ticketid="896">
+        <status>assigned</status>
+        <editor>Cole</editor>
+        <central servicecenterid="28">
+            <central_name>Philip-Central-28</central_name>
+        </central>
+        <customer customerid="470">
+            <name>Nathan Jones</name>
+            <email>Nathan.Jones@me.com</email>
+        </customer>
+        <description>
+            <customer_section>
+                { "preferred_comm": "email", "text": "Glass Panel makes strange noises." }
+                <fridgeid>"308"</fridgeid>
+            </customer_section>
+        </description>
+    </ticket>
+    <ticket ticketid="927">
+        <status>assigned</status>
+        <editor>Lloyd</editor>
+        <central servicecenterid="5">
+            <central_name>Katherine-Central-5</central_name>
+        </central>
+        <customer customerid="417">
+            <name>Christopher Putnam</name>
+            <email>Christopher.Putnam@yahoo.com</email>
+        </customer>
+        <description>
+            <customer_section>
+                { "preferred_comm": "email", "text": "Door is not cooling." }
+                <fridgeid>"361"</fridgeid>
+            </customer_section>
+        </description>
+    </ticket>
+    <ticket ticketid="931">
+        <status>assigned</status>
+        <editor>Lowe</editor>
+        <central servicecenterid="538">
+            <central_name>Nathan-Central-538</central_name>
+        </central>
+        <customer customerid="272">
+            <name>Judith Batchelor</name>
+            <email>Judith.Batchelor@hotmail.com</email>
+        </customer>
+        <description>
+            <customer_section>
+                { "preferred_comm": "email", "text": "Compressor makes strange noises." }
+                <fridgeid>"506"</fridgeid>
+            </customer_section>
+        </description>
+    </ticket>
+    <ticket ticketid="934">
+        <status>assigned</status>
+        <editor>Arnold</editor>
+        <central servicecenterid="213">
+            <central_name>Robert-Central-213</central_name>
+        </central>
+        <customer customerid="216">
+            <name>Peter Brzozowski</name>
+            <email>Peter.Brzozowski@gmail.com</email>
+        </customer>
+        <description>
+            <customer_section>
+                { "preferred_comm": "email", "text": "Compressor does not work properly." }
+                <fridgeid>"994"</fridgeid>
+            </customer_section>
+        </description>
+    </ticket>
+    <ticket ticketid="936">
+        <status>assigned</status>
+        <editor>Oliver</editor>
+        <central servicecenterid="10">
+            <central_name>Anthony-Central-10</central_name>
+        </central>
+        <customer customerid="484">
+            <name>Rachel Nelsen</name>
+            <email>Rachel.Nelsen@gmx.com</email>
+        </customer>
+        <description>
+            <customer_section>
+                { "preferred_comm": "email", "text": "Condenser looks strange." }
+                <fridgeid>"294"</fridgeid>
+            </customer_section>
+        </description>
+    </ticket>
+    <ticket ticketid="957">
+        <status>assigned</status>
+        <editor>Reed</editor>
+        <central servicecenterid="274">
+            <central_name>Ryan-Central-274</central_name>
+        </central>
+        <customer customerid="18">
+            <name>Anna Blevins</name>
+            <email>Anna.Blevins@me.com</email>
+        </customer>
+        <description>
+            <customer_section>
+                { "preferred_comm": "email", "text": "Compressor makes strange noises." }
+                <fridgeid>"760"</fridgeid>
+            </customer_section>
+        </description>
+    </ticket>
+    <ticket ticketid="990">
+        <status>assigned</status>
+        <editor>Denard</editor>
+        <central servicecenterid="719">
+            <central_name>Jason-Central-719</central_name>
+        </central>
+        <customer customerid="447">
+            <name>Vernice Ingram</name>
+            <email>Vernice.Ingram@hotmail.com</email>
+        </customer>
+        <description>
+            <customer_section>
+                { "preferred_comm": "email", "text": "Thermostat looks strange." }
+                <fridgeid>"331"</fridgeid>
+            </customer_section>
+        </description>
+    </ticket>
+    <ticket ticketid="991">
+        <status>assigned</status>
+        <editor>Lott</editor>
+        <central servicecenterid="155">
+            <central_name>Jimmie-Central-155</central_name>
+        </central>
+        <customer customerid="7">
+            <name>Douglas Clay</name>
+            <email>Douglas.Clay@hotmail.com</email>
+        </customer>
+        <description>
+            <customer_section>
+                { "preferred_comm": "email", "text": "Compressor looks strange." }
+                <fridgeid>"771"</fridgeid>
+            </customer_section>
+        </description>
+    </ticket>
+    <ticket ticketid="997">
+        <status>assigned</status>
+        <editor>Blair</editor>
+        <central servicecenterid="120">
+            <central_name>Joel-Central-120</central_name>
+        </central>
+        <customer customerid="649">
+            <name>Katherine Demello</name>
+            <email>Katherine.Demello@gmx.com</email>
+        </customer>
+        <description>
+            <customer_section>
+                { "preferred_comm": "email", "text": "Door looks strange." }
+                <fridgeid>"129"</fridgeid>
+            </customer_section>
+        </description>
+    </ticket>
+    <ticket ticketid="998">
+        <status>assigned</status>
+        <editor>Miller</editor>
+        <central servicecenterid="771">
+            <central_name>Michael-Central-771</central_name>
+        </central>
+        <customer customerid="478">
+            <name>Diane Kehoe</name>
+            <email>Diane.Kehoe@yahoo.com</email>
+        </customer>
+        <description>
+            <customer_section>
+                { "preferred_comm": "email", "text": "Thermostat looks strange." }
+                <fridgeid>"300"</fridgeid>
+            </customer_section>
+        </description>
+    </ticket>
+</tickets>

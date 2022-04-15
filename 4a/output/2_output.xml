@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LocatedAtFacility>
+    <facility phone="82 940775-99" email="sales683@snowman.com support683@snowman.com management683@snowman.com" active="true">
+        <repairpart>
+            <material>Condenser</material>
+            <price>129.49</price>
+            <remarks>{"importance":3}</remarks>
+        </repairpart>
+        <employee>
+            <id>683</id>
+            <email>sales683@snowman.com support683@snowman.com management683@snowman.com</email>
+        </employee>
+    </facility>
+    <facility phone="82 940775-99" email="sales683@snowman.com support683@snowman.com management683@snowman.com" active="true">
+        <repairpart>
+            <material>Door</material>
+            <price>986.51</price>
+            <remarks>{"importance":3}</remarks>
+        </repairpart>
+        <employee>
+            <id>683</id>
+            <email>sales683@snowman.com support683@snowman.com management683@snowman.com</email>
+        </employee>
+    </facility>
+    <facility phone="99 260141-79" email="" active="true">
+        <repairpart>
+            <material>Thermostat</material>
+            <price>592.06</price>
+            <remarks>{"importance":3}</remarks>
+        </repairpart>
+        <employee>
+            <id>684</id>
+            <email/>
+        </employee>
+    </facility>
+    <facility phone="" email="management664@snowman.com" active="true">
+        <repairpart>
+            <material>Tube</material>
+            <price>162.69</price>
+            <remarks>{"importance":3}</remarks>
+        </repairpart>
+        <employee>
+            <id>664</id>
+            <email>management664@snowman.com</email>
+        </employee>
+    </facility>
+    <facility phone="" email="sales59@snowman.com management59@snowman.com" active="true">
+        <repairpart>
+            <material>Tube</material>
+            <price>668.56</price>
+            <remarks>{"importance":3}</remarks>
+        </repairpart>
+        <employee>
+            <id>59</id>
+            <email>sales59@snowman.com management59@snowman.com</email>
+        </employee>
+    </facility>
+    <facility phone="" email="management664@snowman.com" active="true">
+        <repairpart>
+            <material>Glass Panel</material>
+            <price>497.43</price>
+            <remarks>{"importance":3}</remarks>
+        </repairpart>
+        <employee>
+            <id>664</id>
+            <email>management664@snowman.com</email>
+        </employee>
+    </facility>
+    <facility phone="99 260141-79" email="" active="true">
+        <repairpart>
+            <material>Pipe</material>
+            <price>598.41</price>
+            <remarks>{"importance":3}</remarks>
+        </repairpart>
+        <employee>
+            <id>684</id>
+            <email/>
+        </employee>
+    </facility>
+</LocatedAtFacility>

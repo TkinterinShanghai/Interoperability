@@ -1,0 +1,653 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomerComplaintAppointment>
+    <appointment handled="2021-12-31" rating="4.467">
+        <complaint>
+            <id>28</id>
+            <isresolved>true</isresolved>
+            <issuedate>2020-06-06</issuedate>
+        </complaint>
+        <customer importance="3">
+            <remarkstext>Condenser not available any more, other version ordered.</remarkstext>
+        </customer>
+    </appointment>
+    <appointment handled="2021-12-31" rating="4.387">
+        <complaint>
+            <id>34</id>
+            <isresolved>true</isresolved>
+            <issuedate>2022-12-17</issuedate>
+        </complaint>
+        <customer importance="3">
+            <remarkstext>Glass Panel ordered - waiting for goods receipt.</remarkstext>
+        </customer>
+    </appointment>
+    <appointment handled="2021-12-31" rating="4.997">
+        <complaint>
+            <id>38</id>
+            <isresolved>true</isresolved>
+            <issuedate>2020-01-16</issuedate>
+        </complaint>
+        <customer importance="3">
+            <remarkstext>Glass Panel ordered - waiting for goods receipt.</remarkstext>
+        </customer>
+    </appointment>
+    <appointment handled="2021-12-31" rating="4.723">
+        <complaint>
+            <id>72</id>
+            <isresolved>true</isresolved>
+            <issuedate>2021-02-11</issuedate>
+        </complaint>
+        <customer importance="3">
+            <remarkstext>Thermostat repaired.</remarkstext>
+        </customer>
+    </appointment>
+    <appointment handled="2021-12-31" rating="4.932">
+        <complaint>
+            <id>76</id>
+            <isresolved>true</isresolved>
+            <issuedate>2020-08-21</issuedate>
+        </complaint>
+        <customer importance="3">
+            <remarkstext>Pipe fixed.</remarkstext>
+        </customer>
+    </appointment>
+    <appointment handled="2021-12-31" rating="4.821">
+        <complaint>
+            <id>125</id>
+            <isresolved>true</isresolved>
+            <issuedate>2022-02-27</issuedate>
+        </complaint>
+        <customer importance="3">
+            <remarkstext>Glass Panel fixed.</remarkstext>
+        </customer>
+    </appointment>
+    <appointment handled="2021-12-31" rating="4.876">
+        <complaint>
+            <id>126</id>
+            <isresolved>true</isresolved>
+            <issuedate>2021-03-06</issuedate>
+        </complaint>
+        <customer importance="3">
+            <remarkstext>Compressor ordered - waiting for goods receipt.</remarkstext>
+        </customer>
+    </appointment>
+    <appointment handled="2021-12-31" rating="4.027">
+        <complaint>
+            <id>170</id>
+            <isresolved>true</isresolved>
+            <issuedate>2021-07-12</issuedate>
+        </complaint>
+        <customer importance="3">
+            <remarkstext>Tube not available any more, other version ordered.</remarkstext>
+        </customer>
+    </appointment>
+    <appointment handled="2021-12-31" rating="4.628">
+        <complaint>
+            <id>171</id>
+            <isresolved>true</isresolved>
+            <issuedate>2021-05-19</issuedate>
+        </complaint>
+        <customer importance="3">
+            <remarkstext>Door fixed.</remarkstext>
+        </customer>
+    </appointment>
+    <appointment handled="2021-12-31" rating="4.343">
+        <complaint>
+            <id>174</id>
+            <isresolved>true</isresolved>
+            <issuedate>2022-09-18</issuedate>
+        </complaint>
+        <customer importance="3">
+            <remarkstext>Compressor not available any more, other version ordered.</remarkstext>
+        </customer>
+    </appointment>
+    <appointment handled="2021-12-31" rating="4.289">
+        <complaint>
+            <id>180</id>
+            <isresolved>true</isresolved>
+            <issuedate>2021-07-05</issuedate>
+        </complaint>
+        <customer importance="3">
+            <remarkstext>Glass Panel fixed.</remarkstext>
+        </customer>
+    </appointment>
+    <appointment handled="2021-12-31" rating="4.065">
+        <complaint>
+            <id>192</id>
+            <isresolved>true</isresolved>
+            <issuedate>2022-01-05</issuedate>
+        </complaint>
+        <customer importance="3">
+            <remarkstext>Tube ordered - waiting for goods receipt.</remarkstext>
+        </customer>
+    </appointment>
+    <appointment handled="2021-12-31" rating="4.606">
+        <complaint>
+            <id>194</id>
+            <isresolved>true</isresolved>
+            <issuedate>2020-01-05</issuedate>
+        </complaint>
+        <customer importance="3">
+            <remarkstext>Thermostat changed, everything fine now again.</remarkstext>
+        </customer>
+    </appointment>
+    <appointment handled="2021-12-31" rating="4.368">
+        <complaint>
+            <id>209</id>
+            <isresolved>true</isresolved>
+            <issuedate>2022-11-28</issuedate>
+        </complaint>
+        <customer importance="3">
+            <remarkstext>Glass Panel repaired.</remarkstext>
+        </customer>
+    </appointment>
+    <appointment handled="2021-12-31" rating="4.517">
+        <complaint>
+            <id>250</id>
+            <isresolved>true</isresolved>
+            <issuedate>2021-11-10</issuedate>
+        </complaint>
+        <customer importance="3">
+            <remarkstext>Glass Panel ordered - waiting for goods receipt.</remarkstext>
+        </customer>
+    </appointment>
+    <appointment handled="2021-12-31" rating="4.981">
+        <complaint>
+            <id>251</id>
+            <isresolved>true</isresolved>
+            <issuedate>2020-05-06</issuedate>
+        </complaint>
+        <customer importance="3">
+            <remarkstext>Condenser repaired.</remarkstext>
+        </customer>
+    </appointment>
+    <appointment handled="2021-12-31" rating="4.255">
+        <complaint>
+            <id>263</id>
+            <isresolved>true</isresolved>
+            <issuedate>2022-02-02</issuedate>
+        </complaint>
+        <customer importance="3">
+            <remarkstext>Glass Panel changed, everything fine now again.</remarkstext>
+        </customer>
+    </appointment>
+    <appointment handled="2021-12-31" rating="4.461">
+        <complaint>
+            <id>309</id>
+            <isresolved>true</isresolved>
+            <issuedate>2022-07-03</issuedate>
+        </complaint>
+        <customer importance="3">
+            <remarkstext>Thermostat repaired.</remarkstext>
+        </customer>
+    </appointment>
+    <appointment handled="2021-12-31" rating="4.444">
+        <complaint>
+            <id>316</id>
+            <isresolved>true</isresolved>
+            <issuedate>2021-08-03</issuedate>
+        </complaint>
+        <customer importance="3">
+            <remarkstext>Tube not available any more, other version ordered.</remarkstext>
+        </customer>
+    </appointment>
+    <appointment handled="2021-12-31" rating="4.51">
+        <complaint>
+            <id>320</id>
+            <isresolved>true</isresolved>
+            <issuedate>2022-02-06</issuedate>
+        </complaint>
+        <customer importance="3">
+            <remarkstext>Pipe repaired.</remarkstext>
+        </customer>
+    </appointment>
+    <appointment handled="2021-12-31" rating="4.9">
+        <complaint>
+            <id>361</id>
+            <isresolved>true</isresolved>
+            <issuedate>2021-05-22</issuedate>
+        </complaint>
+        <customer importance="3">
+            <remarkstext>Condenser ordered - waiting for goods receipt.</remarkstext>
+        </customer>
+    </appointment>
+    <appointment handled="2021-12-31" rating="4.461">
+        <complaint>
+            <id>402</id>
+            <isresolved>true</isresolved>
+            <issuedate>2020-12-06</issuedate>
+        </complaint>
+        <customer importance="3">
+            <remarkstext>Tube not available any more, other version ordered.</remarkstext>
+        </customer>
+    </appointment>
+    <appointment handled="2021-12-31" rating="4.033">
+        <complaint>
+            <id>453</id>
+            <isresolved>true</isresolved>
+            <issuedate>2020-03-13</issuedate>
+        </complaint>
+        <customer importance="3">
+            <remarkstext>Condenser not available any more, other version ordered.</remarkstext>
+        </customer>
+    </appointment>
+    <appointment handled="2021-12-31" rating="4.068">
+        <complaint>
+            <id>457</id>
+            <isresolved>true</isresolved>
+            <issuedate>2021-05-01</issuedate>
+        </complaint>
+        <customer importance="3">
+            <remarkstext>Condenser ordered - waiting for goods receipt.</remarkstext>
+        </customer>
+    </appointment>
+    <appointment handled="2021-12-31" rating="4.661">
+        <complaint>
+            <id>462</id>
+            <isresolved>true</isresolved>
+            <issuedate>2022-02-16</issuedate>
+        </complaint>
+        <customer importance="3">
+            <remarkstext>Tube changed, everything fine now again.</remarkstext>
+        </customer>
+    </appointment>
+    <appointment handled="2021-12-31" rating="4.134">
+        <complaint>
+            <id>465</id>
+            <isresolved>true</isresolved>
+            <issuedate>2022-02-26</issuedate>
+        </complaint>
+        <customer importance="3">
+            <remarkstext>Pipe not available any more, other version ordered.</remarkstext>
+        </customer>
+    </appointment>
+    <appointment handled="2021-12-31" rating="4.33">
+        <complaint>
+            <id>480</id>
+            <isresolved>true</isresolved>
+            <issuedate>2020-01-11</issuedate>
+        </complaint>
+        <customer importance="3">
+            <remarkstext>Compressor fixed.</remarkstext>
+        </customer>
+    </appointment>
+    <appointment handled="2021-12-31" rating="4.572">
+        <complaint>
+            <id>491</id>
+            <isresolved>true</isresolved>
+            <issuedate>2020-07-08</issuedate>
+        </complaint>
+        <customer importance="3">
+            <remarkstext>Door changed, everything fine now again.</remarkstext>
+        </customer>
+    </appointment>
+    <appointment handled="2021-12-31" rating="4.503">
+        <complaint>
+            <id>496</id>
+            <isresolved>true</isresolved>
+            <issuedate>2022-06-17</issuedate>
+        </complaint>
+        <customer importance="3">
+            <remarkstext>Tube repaired.</remarkstext>
+        </customer>
+    </appointment>
+    <appointment handled="2021-12-31" rating="4.924">
+        <complaint>
+            <id>506</id>
+            <isresolved>true</isresolved>
+            <issuedate>2022-10-24</issuedate>
+        </complaint>
+        <customer importance="3">
+            <remarkstext>Door ordered - waiting for goods receipt.</remarkstext>
+        </customer>
+    </appointment>
+    <appointment handled="2021-12-31" rating="4.37">
+        <complaint>
+            <id>520</id>
+            <isresolved>true</isresolved>
+            <issuedate>2021-04-19</issuedate>
+        </complaint>
+        <customer importance="3">
+            <remarkstext>Glass Panel repaired.</remarkstext>
+        </customer>
+    </appointment>
+    <appointment handled="2021-12-31" rating="4.999">
+        <complaint>
+            <id>539</id>
+            <isresolved>true</isresolved>
+            <issuedate>2022-07-04</issuedate>
+        </complaint>
+        <customer importance="3">
+            <remarkstext>Door fixed.</remarkstext>
+        </customer>
+    </appointment>
+    <appointment handled="2021-12-31" rating="4.9">
+        <complaint>
+            <id>557</id>
+            <isresolved>true</isresolved>
+            <issuedate>2021-01-14</issuedate>
+        </complaint>
+        <customer importance="3">
+            <remarkstext>Pipe not available any more, other version ordered.</remarkstext>
+        </customer>
+    </appointment>
+    <appointment handled="2021-12-31" rating="4.364">
+        <complaint>
+            <id>568</id>
+            <isresolved>true</isresolved>
+            <issuedate>2021-08-26</issuedate>
+        </complaint>
+        <customer importance="3">
+            <remarkstext>Thermostat ordered - waiting for goods receipt.</remarkstext>
+        </customer>
+    </appointment>
+    <appointment handled="2021-12-31" rating="4.033">
+        <complaint>
+            <id>571</id>
+            <isresolved>true</isresolved>
+            <issuedate>2021-04-12</issuedate>
+        </complaint>
+        <customer importance="3">
+            <remarkstext>Thermostat changed, everything fine now again.</remarkstext>
+        </customer>
+    </appointment>
+    <appointment handled="2021-12-31" rating="4.1">
+        <complaint>
+            <id>572</id>
+            <isresolved>true</isresolved>
+            <issuedate>2022-11-13</issuedate>
+        </complaint>
+        <customer importance="3">
+            <remarkstext>Door changed, everything fine now again.</remarkstext>
+        </customer>
+    </appointment>
+    <appointment handled="2021-12-31" rating="4.262">
+        <complaint>
+            <id>589</id>
+            <isresolved>true</isresolved>
+            <issuedate>2020-08-17</issuedate>
+        </complaint>
+        <customer importance="3">
+            <remarkstext>Door ordered - waiting for goods receipt.</remarkstext>
+        </customer>
+    </appointment>
+    <appointment handled="2021-12-31" rating="4.205">
+        <complaint>
+            <id>606</id>
+            <isresolved>true</isresolved>
+            <issuedate>2020-03-16</issuedate>
+        </complaint>
+        <customer importance="3">
+            <remarkstext>Glass Panel changed, everything fine now again.</remarkstext>
+        </customer>
+    </appointment>
+    <appointment handled="2021-12-31" rating="4.27">
+        <complaint>
+            <id>658</id>
+            <isresolved>true</isresolved>
+            <issuedate>2021-11-02</issuedate>
+        </complaint>
+        <customer importance="3">
+            <remarkstext>Door ordered - waiting for goods receipt.</remarkstext>
+        </customer>
+    </appointment>
+    <appointment handled="2021-12-31" rating="4.123">
+        <complaint>
+            <id>667</id>
+            <isresolved>true</isresolved>
+            <issuedate>2020-05-18</issuedate>
+        </complaint>
+        <customer importance="3">
+            <remarkstext>Condenser ordered - waiting for goods receipt.</remarkstext>
+        </customer>
+    </appointment>
+    <appointment handled="2021-12-31" rating="4.981">
+        <complaint>
+            <id>677</id>
+            <isresolved>true</isresolved>
+            <issuedate>2021-11-04</issuedate>
+        </complaint>
+        <customer importance="3">
+            <remarkstext>Tube changed, everything fine now again.</remarkstext>
+        </customer>
+    </appointment>
+    <appointment handled="2021-12-31" rating="4.51">
+        <complaint>
+            <id>714</id>
+            <isresolved>true</isresolved>
+            <issuedate>2021-12-26</issuedate>
+        </complaint>
+        <customer importance="3">
+            <remarkstext>Condenser ordered - waiting for goods receipt.</remarkstext>
+        </customer>
+    </appointment>
+    <appointment handled="2021-12-31" rating="4.14">
+        <complaint>
+            <id>720</id>
+            <isresolved>true</isresolved>
+            <issuedate>2022-01-18</issuedate>
+        </complaint>
+        <customer importance="3">
+            <remarkstext>Compressor fixed.</remarkstext>
+        </customer>
+    </appointment>
+    <appointment handled="2021-12-31" rating="4.971">
+        <complaint>
+            <id>721</id>
+            <isresolved>true</isresolved>
+            <issuedate>2022-06-14</issuedate>
+        </complaint>
+        <customer importance="3">
+            <remarkstext>Compressor not available any more, other version ordered.</remarkstext>
+        </customer>
+    </appointment>
+    <appointment handled="2021-12-31" rating="4.039">
+        <complaint>
+            <id>751</id>
+            <isresolved>true</isresolved>
+            <issuedate>2022-11-19</issuedate>
+        </complaint>
+        <customer importance="3">
+            <remarkstext>Glass Panel changed, everything fine now again.</remarkstext>
+        </customer>
+    </appointment>
+    <appointment handled="2021-12-31" rating="4.47">
+        <complaint>
+            <id>763</id>
+            <isresolved>true</isresolved>
+            <issuedate>2021-06-11</issuedate>
+        </complaint>
+        <customer importance="3">
+            <remarkstext>Door ordered - waiting for goods receipt.</remarkstext>
+        </customer>
+    </appointment>
+    <appointment handled="2021-12-31" rating="4.475">
+        <complaint>
+            <id>769</id>
+            <isresolved>true</isresolved>
+            <issuedate>2021-07-26</issuedate>
+        </complaint>
+        <customer importance="3">
+            <remarkstext>Glass Panel ordered - waiting for goods receipt.</remarkstext>
+        </customer>
+    </appointment>
+    <appointment handled="2021-12-31" rating="4.476">
+        <complaint>
+            <id>775</id>
+            <isresolved>true</isresolved>
+            <issuedate>2022-12-16</issuedate>
+        </complaint>
+        <customer importance="3">
+            <remarkstext>Door ordered - waiting for goods receipt.</remarkstext>
+        </customer>
+    </appointment>
+    <appointment handled="2021-12-31" rating="4.059">
+        <complaint>
+            <id>779</id>
+            <isresolved>true</isresolved>
+            <issuedate>2020-03-19</issuedate>
+        </complaint>
+        <customer importance="3">
+            <remarkstext>Condenser not available any more, other version ordered.</remarkstext>
+        </customer>
+    </appointment>
+    <appointment handled="2021-12-31" rating="4.924">
+        <complaint>
+            <id>783</id>
+            <isresolved>true</isresolved>
+            <issuedate>2020-12-13</issuedate>
+        </complaint>
+        <customer importance="3">
+            <remarkstext>Door ordered - waiting for goods receipt.</remarkstext>
+        </customer>
+    </appointment>
+    <appointment handled="2021-12-31" rating="4.572">
+        <complaint>
+            <id>796</id>
+            <isresolved>true</isresolved>
+            <issuedate>2021-03-20</issuedate>
+        </complaint>
+        <customer importance="3">
+            <remarkstext>Tube fixed.</remarkstext>
+        </customer>
+    </appointment>
+    <appointment handled="2021-12-31" rating="4.602">
+        <complaint>
+            <id>816</id>
+            <isresolved>true</isresolved>
+            <issuedate>2022-09-12</issuedate>
+        </complaint>
+        <customer importance="3">
+            <remarkstext>Glass Panel fixed.</remarkstext>
+        </customer>
+    </appointment>
+    <appointment handled="2021-12-31" rating="4.631">
+        <complaint>
+            <id>824</id>
+            <isresolved>true</isresolved>
+            <issuedate>2022-12-21</issuedate>
+        </complaint>
+        <customer importance="3">
+            <remarkstext>Tube fixed.</remarkstext>
+        </customer>
+    </appointment>
+    <appointment handled="2021-12-31" rating="4.682">
+        <complaint>
+            <id>828</id>
+            <isresolved>true</isresolved>
+            <issuedate>2020-02-21</issuedate>
+        </complaint>
+        <customer importance="3">
+            <remarkstext>Glass Panel changed, everything fine now again.</remarkstext>
+        </customer>
+    </appointment>
+    <appointment handled="2021-12-31" rating="4.663">
+        <complaint>
+            <id>834</id>
+            <isresolved>true</isresolved>
+            <issuedate>2022-04-01</issuedate>
+        </complaint>
+        <customer importance="3">
+            <remarkstext>Door changed, everything fine now again.</remarkstext>
+        </customer>
+    </appointment>
+    <appointment handled="2021-12-31" rating="4.849">
+        <complaint>
+            <id>858</id>
+            <isresolved>true</isresolved>
+            <issuedate>2020-10-17</issuedate>
+        </complaint>
+        <customer importance="3">
+            <remarkstext>Condenser ordered - waiting for goods receipt.</remarkstext>
+        </customer>
+    </appointment>
+    <appointment handled="2021-12-31" rating="4.699">
+        <complaint>
+            <id>871</id>
+            <isresolved>true</isresolved>
+            <issuedate>2020-08-26</issuedate>
+        </complaint>
+        <customer importance="3">
+            <remarkstext>Thermostat ordered - waiting for goods receipt.</remarkstext>
+        </customer>
+    </appointment>
+    <appointment handled="2021-12-31" rating="4.253">
+        <complaint>
+            <id>872</id>
+            <isresolved>true</isresolved>
+            <issuedate>2022-03-19</issuedate>
+        </complaint>
+        <customer importance="3">
+            <remarkstext>Compressor repaired.</remarkstext>
+        </customer>
+    </appointment>
+    <appointment handled="2021-12-31" rating="4.053">
+        <complaint>
+            <id>893</id>
+            <isresolved>true</isresolved>
+            <issuedate>2022-10-13</issuedate>
+        </complaint>
+        <customer importance="3">
+            <remarkstext>Glass Panel changed, everything fine now again.</remarkstext>
+        </customer>
+    </appointment>
+    <appointment handled="2021-12-31" rating="4.276">
+        <complaint>
+            <id>914</id>
+            <isresolved>true</isresolved>
+            <issuedate>2021-12-10</issuedate>
+        </complaint>
+        <customer importance="3">
+            <remarkstext>Compressor not available any more, other version ordered.</remarkstext>
+        </customer>
+    </appointment>
+    <appointment handled="2021-12-31" rating="4.878">
+        <complaint>
+            <id>918</id>
+            <isresolved>true</isresolved>
+            <issuedate>2020-11-14</issuedate>
+        </complaint>
+        <customer importance="3">
+            <remarkstext>Glass Panel changed, everything fine now again.</remarkstext>
+        </customer>
+    </appointment>
+    <appointment handled="2021-12-31" rating="4.9">
+        <complaint>
+            <id>968</id>
+            <isresolved>true</isresolved>
+            <issuedate>2020-04-09</issuedate>
+        </complaint>
+        <customer importance="3">
+            <remarkstext>Tube changed, everything fine now again.</remarkstext>
+        </customer>
+    </appointment>
+    <appointment handled="2021-12-31" rating="4.059">
+        <complaint>
+            <id>973</id>
+            <isresolved>true</isresolved>
+            <issuedate>2022-03-17</issuedate>
+        </complaint>
+        <customer importance="3">
+            <remarkstext>Door changed, everything fine now again.</remarkstext>
+        </customer>
+    </appointment>
+    <appointment handled="2021-12-31" rating="4.472">
+        <complaint>
+            <id>974</id>
+            <isresolved>true</isresolved>
+            <issuedate>2022-04-17</issuedate>
+        </complaint>
+        <customer importance="3">
+            <remarkstext>Condenser ordered - waiting for goods receipt.</remarkstext>
+        </customer>
+    </appointment>
+    <appointment handled="2021-12-31" rating="4.231">
+        <complaint>
+            <id>976</id>
+            <isresolved>true</isresolved>
+            <issuedate>2020-01-18</issuedate>
+        </complaint>
+        <customer importance="3">
+            <remarkstext>Glass Panel ordered - waiting for goods receipt.</remarkstext>
+        </customer>
+    </appointment>
+</CustomerComplaintAppointment>

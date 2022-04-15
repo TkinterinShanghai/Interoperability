@@ -1,0 +1,923 @@
+<result>
+    <script />
+    <fridge fridgeid="12">
+        <part partid="989">
+            <name>Pipe</name>
+            <price>494.58</price>
+            <stock>30</stock>
+            <facility facilityid="765">
+                <country>Guernsey</country>
+                <creditcard_type>Mastercard</creditcard_type>
+            </facility>
+        </part>
+    </fridge>
+    <fridge fridgeid="120">
+        <part partid="4428">
+            <name>Tube</name>
+            <price>141.73</price>
+            <stock>24</stock>
+            <facility facilityid="765">
+                <country>Guernsey</country>
+                <creditcard_type>Mastercard</creditcard_type>
+            </facility>
+        </part>
+        <part partid="4287">
+            <name>Compressor</name>
+            <price>810.31</price>
+            <stock>28</stock>
+            <facility facilityid="699">
+                <country>Indonesia</country>
+                <creditcard_type>Mastercard</creditcard_type>
+            </facility>
+        </part>
+    </fridge>
+    <fridge fridgeid="23">
+        <part partid="4374">
+            <name>Pipe</name>
+            <price>634.56</price>
+            <stock>28</stock>
+            <facility facilityid="493">
+                <country>Puerto Rico</country>
+                <creditcard_type>Mastercard</creditcard_type>
+            </facility>
+        </part>
+    </fridge>
+    <fridge fridgeid="57">
+        <part partid="2487">
+            <name>Pipe</name>
+            <price>284.24</price>
+            <stock>21</stock>
+            <facility facilityid="306">
+                <country>Congo</country>
+                <creditcard_type>Mastercard</creditcard_type>
+            </facility>
+        </part>
+    </fridge>
+    <fridge fridgeid="60">
+        <part partid="3497">
+            <name>Thermostat</name>
+            <price>330.49</price>
+            <stock>30</stock>
+            <facility facilityid="699">
+                <country>Indonesia</country>
+                <creditcard_type>Mastercard</creditcard_type>
+            </facility>
+        </part>
+    </fridge>
+    <fridge fridgeid="68">
+        <part partid="933">
+            <name>Tube</name>
+            <price>251.52</price>
+            <stock>25</stock>
+            <facility facilityid="430">
+                <country>Slovenia</country>
+                <creditcard_type>Mastercard</creditcard_type>
+            </facility>
+        </part>
+    </fridge>
+    <fridge fridgeid="71">
+        <part partid="930">
+            <name>Compressor</name>
+            <price>888.24</price>
+            <stock>22</stock>
+            <facility facilityid="30">
+                <country>Iraq</country>
+                <creditcard_type>Mastercard</creditcard_type>
+            </facility>
+        </part>
+    </fridge>
+    <fridge fridgeid="92">
+        <part partid="1093">
+            <name>Door</name>
+            <price>312.65</price>
+            <stock>30</stock>
+            <facility facilityid="764">
+                <country>Tonga</country>
+                <creditcard_type>Mastercard</creditcard_type>
+            </facility>
+        </part>
+    </fridge>
+    <fridge fridgeid="104">
+        <part partid="2924">
+            <name>Condenser</name>
+            <price>740.2</price>
+            <stock>26</stock>
+            <facility facilityid="378">
+                <country>Botswana</country>
+                <creditcard_type>Mastercard</creditcard_type>
+            </facility>
+        </part>
+    </fridge>
+    <fridge fridgeid="123">
+        <part partid="4403">
+            <name>Thermostat</name>
+            <price>603.12</price>
+            <stock>21</stock>
+            <facility facilityid="663">
+                <country>Eritrea</country>
+                <creditcard_type>Mastercard</creditcard_type>
+            </facility>
+        </part>
+    </fridge>
+    <fridge fridgeid="138">
+        <part partid="1139">
+            <name>Condenser</name>
+            <price>362.5</price>
+            <stock>28</stock>
+            <facility facilityid="710">
+                <country>Argentina</country>
+                <creditcard_type>Mastercard</creditcard_type>
+            </facility>
+        </part>
+    </fridge>
+    <fridge fridgeid="149">
+        <part partid="4351">
+            <name>Condenser</name>
+            <price>129.49</price>
+            <stock>24</stock>
+            <facility facilityid="683">
+                <country>Belarus</country>
+                <creditcard_type>Mastercard</creditcard_type>
+            </facility>
+        </part>
+    </fridge>
+    <fridge fridgeid="158">
+        <part partid="3499">
+            <name>Compressor</name>
+            <price>656.91</price>
+            <stock>28</stock>
+            <facility facilityid="11">
+                <country>Norfolk Island</country>
+                <creditcard_type>Mastercard</creditcard_type>
+            </facility>
+        </part>
+    </fridge>
+    <fridge fridgeid="159">
+        <part partid="842">
+            <name>Thermostat</name>
+            <price>521.71</price>
+            <stock>22</stock>
+            <facility facilityid="533">
+                <country>Comoros</country>
+                <creditcard_type>Mastercard</creditcard_type>
+            </facility>
+        </part>
+    </fridge>
+    <fridge fridgeid="169">
+        <part partid="2289">
+            <name>Pipe</name>
+            <price>217.75</price>
+            <stock>29</stock>
+            <facility facilityid="216">
+                <country>Benin</country>
+                <creditcard_type>Mastercard</creditcard_type>
+            </facility>
+        </part>
+    </fridge>
+    <fridge fridgeid="185">
+        <part partid="1186">
+            <name>Glass Panel</name>
+            <price>54.19</price>
+            <stock>28</stock>
+            <facility facilityid="270">
+                <country>Turkey</country>
+                <creditcard_type>Mastercard</creditcard_type>
+            </facility>
+        </part>
+    </fridge>
+    <fridge fridgeid="208">
+        <part partid="2249">
+            <name>Condenser</name>
+            <price>528.01</price>
+            <stock>28</stock>
+            <facility facilityid="606">
+                <country>Ethiopia</country>
+                <creditcard_type>Mastercard</creditcard_type>
+            </facility>
+        </part>
+    </fridge>
+    <fridge fridgeid="216">
+        <part partid="785">
+            <name>Condenser</name>
+            <price>431.53</price>
+            <stock>22</stock>
+            <facility facilityid="113">
+                <country>Iceland</country>
+                <creditcard_type>Mastercard</creditcard_type>
+            </facility>
+        </part>
+    </fridge>
+    <fridge fridgeid="226">
+        <part partid="3885">
+            <name>Condenser</name>
+            <price>319.55</price>
+            <stock>26</stock>
+            <facility facilityid="430">
+                <country>Slovenia</country>
+                <creditcard_type>Mastercard</creditcard_type>
+            </facility>
+        </part>
+    </fridge>
+    <fridge fridgeid="236">
+        <part partid="2628">
+            <name>Pipe</name>
+            <price>247.98</price>
+            <stock>22</stock>
+            <facility facilityid="663">
+                <country>Eritrea</country>
+                <creditcard_type>Mastercard</creditcard_type>
+            </facility>
+        </part>
+    </fridge>
+    <fridge fridgeid="267">
+        <part partid="734">
+            <name>Thermostat</name>
+            <price>858.33</price>
+            <stock>25</stock>
+            <facility facilityid="699">
+                <country>Indonesia</country>
+                <creditcard_type>Mastercard</creditcard_type>
+            </facility>
+        </part>
+    </fridge>
+    <fridge fridgeid="272">
+        <part partid="3587">
+            <name>Door</name>
+            <price>986.51</price>
+            <stock>24</stock>
+            <facility facilityid="683">
+                <country>Belarus</country>
+                <creditcard_type>Mastercard</creditcard_type>
+            </facility>
+        </part>
+    </fridge>
+    <fridge fridgeid="288">
+        <part partid="3215">
+            <name>Compressor</name>
+            <price>924.04</price>
+            <stock>25</stock>
+            <facility facilityid="30">
+                <country>Iraq</country>
+                <creditcard_type>Mastercard</creditcard_type>
+            </facility>
+        </part>
+    </fridge>
+    <fridge fridgeid="309">
+        <part partid="3852">
+            <name>Door</name>
+            <price>306.09</price>
+            <stock>21</stock>
+            <facility facilityid="430">
+                <country>Slovenia</country>
+                <creditcard_type>Mastercard</creditcard_type>
+            </facility>
+        </part>
+    </fridge>
+    <fridge fridgeid="326">
+        <part partid="4155">
+            <name>Condenser</name>
+            <price>282.6</price>
+            <stock>23</stock>
+            <facility facilityid="378">
+                <country>Botswana</country>
+                <creditcard_type>Mastercard</creditcard_type>
+            </facility>
+        </part>
+    </fridge>
+    <fridge fridgeid="334">
+        <part partid="1335">
+            <name>Compressor</name>
+            <price>796.18</price>
+            <stock>23</stock>
+            <facility facilityid="263">
+                <country>Mauritius</country>
+                <creditcard_type>Mastercard</creditcard_type>
+            </facility>
+        </part>
+    </fridge>
+    <fridge fridgeid="342">
+        <part partid="659">
+            <name>Tube</name>
+            <price>422.24</price>
+            <stock>27</stock>
+            <facility facilityid="467">
+                <country>Madagascar</country>
+                <creditcard_type>Mastercard</creditcard_type>
+            </facility>
+        </part>
+    </fridge>
+    <fridge fridgeid="360">
+        <part partid="1361">
+            <name>Glass Panel</name>
+            <price>368.77</price>
+            <stock>21</stock>
+            <facility facilityid="39">
+                <country>Thailand</country>
+                <creditcard_type>Mastercard</creditcard_type>
+            </facility>
+        </part>
+    </fridge>
+    <fridge fridgeid="369">
+        <part partid="632">
+            <name>Condenser</name>
+            <price>807.92</price>
+            <stock>27</stock>
+            <facility facilityid="11">
+                <country>Norfolk Island</country>
+                <creditcard_type>Mastercard</creditcard_type>
+            </facility>
+        </part>
+    </fridge>
+    <fridge fridgeid="370">
+        <part partid="3162">
+            <name>Condenser</name>
+            <price>295.2</price>
+            <stock>22</stock>
+            <facility facilityid="430">
+                <country>Slovenia</country>
+                <creditcard_type>Mastercard</creditcard_type>
+            </facility>
+        </part>
+    </fridge>
+    <fridge fridgeid="375">
+        <part partid="626">
+            <name>Thermostat</name>
+            <price>592.06</price>
+            <stock>24</stock>
+            <facility facilityid="684">
+                <country>Jordan</country>
+                <creditcard_type>Mastercard</creditcard_type>
+            </facility>
+        </part>
+    </fridge>
+    <fridge fridgeid="376">
+        <part partid="2192">
+            <name>Tube</name>
+            <price>162.69</price>
+            <stock>30</stock>
+            <facility facilityid="664">
+                <country>Nigeria</country>
+                <creditcard_type>Mastercard</creditcard_type>
+            </facility>
+        </part>
+    </fridge>
+    <fridge fridgeid="378">
+        <part partid="1379">
+            <name>Condenser</name>
+            <price>820.78</price>
+            <stock>26</stock>
+            <facility facilityid="216">
+                <country>Benin</country>
+                <creditcard_type>Mastercard</creditcard_type>
+            </facility>
+        </part>
+    </fridge>
+    <fridge fridgeid="383">
+        <part partid="1384">
+            <name>Tube</name>
+            <price>441.38</price>
+            <stock>30</stock>
+            <facility facilityid="113">
+                <country>Iceland</country>
+                <creditcard_type>Mastercard</creditcard_type>
+            </facility>
+        </part>
+    </fridge>
+    <fridge fridgeid="394">
+        <part partid="607">
+            <name>Door</name>
+            <price>361.86</price>
+            <stock>24</stock>
+            <facility facilityid="547">
+                <country>Poland</country>
+                <creditcard_type>Mastercard</creditcard_type>
+            </facility>
+        </part>
+    </fridge>
+    <fridge fridgeid="436">
+        <part partid="3909">
+            <name>Tube</name>
+            <price>399.79</price>
+            <stock>21</stock>
+            <facility facilityid="710">
+                <country>Argentina</country>
+                <creditcard_type>Mastercard</creditcard_type>
+            </facility>
+        </part>
+    </fridge>
+    <fridge fridgeid="437">
+        <part partid="1438">
+            <name>Door</name>
+            <price>299.89</price>
+            <stock>28</stock>
+            <facility facilityid="547">
+                <country>Poland</country>
+                <creditcard_type>Mastercard</creditcard_type>
+            </facility>
+        </part>
+    </fridge>
+    <fridge fridgeid="443">
+        <part partid="2944">
+            <name>Tube</name>
+            <price>280.64</price>
+            <stock>27</stock>
+            <facility facilityid="547">
+                <country>Poland</country>
+                <creditcard_type>Mastercard</creditcard_type>
+            </facility>
+        </part>
+    </fridge>
+    <fridge fridgeid="463">
+        <part partid="2579">
+            <name>Compressor</name>
+            <price>672.05</price>
+            <stock>30</stock>
+            <facility facilityid="216">
+                <country>Benin</country>
+                <creditcard_type>Mastercard</creditcard_type>
+            </facility>
+        </part>
+    </fridge>
+    <fridge fridgeid="473">
+        <part partid="2483">
+            <name>Tube</name>
+            <price>76.93</price>
+            <stock>29</stock>
+            <facility facilityid="216">
+                <country>Benin</country>
+                <creditcard_type>Mastercard</creditcard_type>
+            </facility>
+        </part>
+    </fridge>
+    <fridge fridgeid="479">
+        <part partid="522">
+            <name>Condenser</name>
+            <price>419.48</price>
+            <stock>26</stock>
+            <facility facilityid="207">
+                <country>Aruba</country>
+                <creditcard_type>Mastercard</creditcard_type>
+            </facility>
+        </part>
+    </fridge>
+    <fridge fridgeid="494">
+        <part partid="507">
+            <name>Tube</name>
+            <price>391.64</price>
+            <stock>23</stock>
+            <facility facilityid="113">
+                <country>Iceland</country>
+                <creditcard_type>Mastercard</creditcard_type>
+            </facility>
+        </part>
+    </fridge>
+    <fridge fridgeid="497">
+        <part partid="4795">
+            <name>Thermostat</name>
+            <price>270.94</price>
+            <stock>28</stock>
+            <facility facilityid="663">
+                <country>Eritrea</country>
+                <creditcard_type>Mastercard</creditcard_type>
+            </facility>
+        </part>
+    </fridge>
+    <fridge fridgeid="524">
+        <part partid="2359">
+            <name>Glass Panel</name>
+            <price>690.12</price>
+            <stock>21</stock>
+            <facility facilityid="606">
+                <country>Ethiopia</country>
+                <creditcard_type>Mastercard</creditcard_type>
+            </facility>
+        </part>
+    </fridge>
+    <fridge fridgeid="525">
+        <part partid="4536">
+            <name>Thermostat</name>
+            <price>643.23</price>
+            <stock>26</stock>
+            <facility facilityid="113">
+                <country>Iceland</country>
+                <creditcard_type>Mastercard</creditcard_type>
+            </facility>
+        </part>
+    </fridge>
+    <fridge fridgeid="536">
+        <part partid="465">
+            <name>Pipe</name>
+            <price>560.87</price>
+            <stock>29</stock>
+            <facility facilityid="216">
+                <country>Benin</country>
+                <creditcard_type>Mastercard</creditcard_type>
+            </facility>
+        </part>
+    </fridge>
+    <fridge fridgeid="546">
+        <part partid="2477">
+            <name>Pipe</name>
+            <price>56.92</price>
+            <stock>22</stock>
+            <facility facilityid="663">
+                <country>Eritrea</country>
+                <creditcard_type>Mastercard</creditcard_type>
+            </facility>
+        </part>
+    </fridge>
+    <fridge fridgeid="551">
+        <part partid="2275">
+            <name>Compressor</name>
+            <price>394.38</price>
+            <stock>23</stock>
+            <facility facilityid="762">
+                <country>Panama</country>
+                <creditcard_type>Mastercard</creditcard_type>
+            </facility>
+        </part>
+    </fridge>
+    <fridge fridgeid="552">
+        <part partid="1553">
+            <name>Condenser</name>
+            <price>712.47</price>
+            <stock>22</stock>
+            <facility facilityid="306">
+                <country>Congo</country>
+                <creditcard_type>Mastercard</creditcard_type>
+            </facility>
+        </part>
+    </fridge>
+    <fridge fridgeid="568">
+        <part partid="433">
+            <name>Thermostat</name>
+            <price>438.19</price>
+            <stock>22</stock>
+            <facility facilityid="39">
+                <country>Thailand</country>
+                <creditcard_type>Mastercard</creditcard_type>
+            </facility>
+        </part>
+    </fridge>
+    <fridge fridgeid="577">
+        <part partid="1578">
+            <name>Glass Panel</name>
+            <price>46.86</price>
+            <stock>22</stock>
+            <facility facilityid="710">
+                <country>Argentina</country>
+                <creditcard_type>Mastercard</creditcard_type>
+            </facility>
+        </part>
+    </fridge>
+    <fridge fridgeid="579">
+        <part partid="2120">
+            <name>Condenser</name>
+            <price>322.89</price>
+            <stock>28</stock>
+            <facility facilityid="270">
+                <country>Turkey</country>
+                <creditcard_type>Mastercard</creditcard_type>
+            </facility>
+        </part>
+    </fridge>
+    <fridge fridgeid="582">
+        <part partid="1583">
+            <name>Tube</name>
+            <price>668.56</price>
+            <stock>28</stock>
+            <facility facilityid="59">
+                <country>Ecuador</country>
+                <creditcard_type>Mastercard</creditcard_type>
+            </facility>
+        </part>
+    </fridge>
+    <fridge fridgeid="605">
+        <part partid="1606">
+            <name>Condenser</name>
+            <price>206.51</price>
+            <stock>28</stock>
+            <facility facilityid="762">
+                <country>Panama</country>
+                <creditcard_type>Mastercard</creditcard_type>
+            </facility>
+        </part>
+    </fridge>
+    <fridge fridgeid="606">
+        <part partid="2058">
+            <name>Pipe</name>
+            <price>423.29</price>
+            <stock>24</stock>
+            <facility facilityid="207">
+                <country>Aruba</country>
+                <creditcard_type>Mastercard</creditcard_type>
+            </facility>
+        </part>
+    </fridge>
+    <fridge fridgeid="636">
+        <part partid="1637">
+            <name>Thermostat</name>
+            <price>237.47</price>
+            <stock>27</stock>
+            <facility facilityid="113">
+                <country>Iceland</country>
+                <creditcard_type>Mastercard</creditcard_type>
+            </facility>
+        </part>
+    </fridge>
+    <fridge fridgeid="676">
+        <part partid="3759">
+            <name>Compressor</name>
+            <price>654.12</price>
+            <stock>24</stock>
+            <facility facilityid="40">
+                <country>Antigua and Barbuda</country>
+                <creditcard_type>Mastercard</creditcard_type>
+            </facility>
+        </part>
+    </fridge>
+    <fridge fridgeid="681">
+        <part partid="1682">
+            <name>Glass Panel</name>
+            <price>497.43</price>
+            <stock>25</stock>
+            <facility facilityid="664">
+                <country>Nigeria</country>
+                <creditcard_type>Mastercard</creditcard_type>
+            </facility>
+        </part>
+    </fridge>
+    <fridge fridgeid="698">
+        <part partid="3198">
+            <name>Pipe</name>
+            <price>598.41</price>
+            <stock>30</stock>
+            <facility facilityid="684">
+                <country>Jordan</country>
+                <creditcard_type>Mastercard</creditcard_type>
+            </facility>
+        </part>
+    </fridge>
+    <fridge fridgeid="711">
+        <part partid="2605">
+            <name>Compressor</name>
+            <price>118.57</price>
+            <stock>28</stock>
+            <facility facilityid="40">
+                <country>Antigua and Barbuda</country>
+                <creditcard_type>Mastercard</creditcard_type>
+            </facility>
+        </part>
+    </fridge>
+    <fridge fridgeid="715">
+        <part partid="4041">
+            <name>Compressor</name>
+            <price>866.31</price>
+            <stock>25</stock>
+            <facility facilityid="154">
+                <country>Cape Verde</country>
+                <creditcard_type>Mastercard</creditcard_type>
+            </facility>
+        </part>
+    </fridge>
+    <fridge fridgeid="721">
+        <part partid="4458">
+            <name>Compressor</name>
+            <price>595.75</price>
+            <stock>29</stock>
+            <facility facilityid="378">
+                <country>Botswana</country>
+                <creditcard_type>Mastercard</creditcard_type>
+            </facility>
+        </part>
+    </fridge>
+    <fridge fridgeid="733">
+        <part partid="4404">
+            <name>Door</name>
+            <price>69.45</price>
+            <stock>23</stock>
+            <facility facilityid="207">
+                <country>Aruba</country>
+                <creditcard_type>Mastercard</creditcard_type>
+            </facility>
+        </part>
+    </fridge>
+    <fridge fridgeid="736">
+        <part partid="3991">
+            <name>Compressor</name>
+            <price>325.9</price>
+            <stock>26</stock>
+            <facility facilityid="207">
+                <country>Aruba</country>
+                <creditcard_type>Mastercard</creditcard_type>
+            </facility>
+        </part>
+    </fridge>
+    <fridge fridgeid="754">
+        <part partid="4231">
+            <name>Glass Panel</name>
+            <price>763.24</price>
+            <stock>24</stock>
+            <facility facilityid="430">
+                <country>Slovenia</country>
+                <creditcard_type>Mastercard</creditcard_type>
+            </facility>
+        </part>
+    </fridge>
+    <fridge fridgeid="767">
+        <part partid="2922">
+            <name>Pipe</name>
+            <price>41.73</price>
+            <stock>25</stock>
+            <facility facilityid="40">
+                <country>Antigua and Barbuda</country>
+                <creditcard_type>Mastercard</creditcard_type>
+            </facility>
+        </part>
+    </fridge>
+    <fridge fridgeid="774">
+        <part partid="227">
+            <name>Glass Panel</name>
+            <price>979.65</price>
+            <stock>24</stock>
+            <facility facilityid="764">
+                <country>Tonga</country>
+                <creditcard_type>Mastercard</creditcard_type>
+            </facility>
+        </part>
+    </fridge>
+    <fridge fridgeid="775">
+        <part partid="4314">
+            <name>Door</name>
+            <price>518.48</price>
+            <stock>23</stock>
+            <facility facilityid="306">
+                <country>Congo</country>
+                <creditcard_type>Mastercard</creditcard_type>
+            </facility>
+        </part>
+    </fridge>
+    <fridge fridgeid="786">
+        <part partid="215">
+            <name>Pipe</name>
+            <price>450.83</price>
+            <stock>29</stock>
+            <facility facilityid="154">
+                <country>Cape Verde</country>
+                <creditcard_type>Mastercard</creditcard_type>
+            </facility>
+        </part>
+    </fridge>
+    <fridge fridgeid="808">
+        <part partid="3947">
+            <name>Door</name>
+            <price>778.21</price>
+            <stock>29</stock>
+            <facility facilityid="263">
+                <country>Mauritius</country>
+                <creditcard_type>Mastercard</creditcard_type>
+            </facility>
+        </part>
+    </fridge>
+    <fridge fridgeid="817">
+        <part partid="3484">
+            <name>Condenser</name>
+            <price>832.98</price>
+            <stock>29</stock>
+            <facility facilityid="710">
+                <country>Argentina</country>
+                <creditcard_type>Mastercard</creditcard_type>
+            </facility>
+        </part>
+    </fridge>
+    <fridge fridgeid="822">
+        <part partid="179">
+            <name>Tube</name>
+            <price>520.99</price>
+            <stock>27</stock>
+            <facility facilityid="98">
+                <country>Korea</country>
+                <creditcard_type>Mastercard</creditcard_type>
+            </facility>
+        </part>
+    </fridge>
+    <fridge fridgeid="832">
+        <part partid="1833">
+            <name>Thermostat</name>
+            <price>541.92</price>
+            <stock>21</stock>
+            <facility facilityid="207">
+                <country>Aruba</country>
+                <creditcard_type>Mastercard</creditcard_type>
+            </facility>
+        </part>
+        <part partid="2796">
+            <name>Thermostat</name>
+            <price>857.03</price>
+            <stock>30</stock>
+            <facility facilityid="663">
+                <country>Eritrea</country>
+                <creditcard_type>Mastercard</creditcard_type>
+            </facility>
+        </part>
+    </fridge>
+    <fridge fridgeid="843">
+        <part partid="3024">
+            <name>Door</name>
+            <price>511.29</price>
+            <stock>29</stock>
+            <facility facilityid="375">
+                <country>Ireland</country>
+                <creditcard_type>Mastercard</creditcard_type>
+            </facility>
+        </part>
+    </fridge>
+    <fridge fridgeid="852">
+        <part partid="2916">
+            <name>Door</name>
+            <price>60.96</price>
+            <stock>24</stock>
+            <facility facilityid="207">
+                <country>Aruba</country>
+                <creditcard_type>Mastercard</creditcard_type>
+            </facility>
+        </part>
+    </fridge>
+    <fridge fridgeid="893">
+        <part partid="3622">
+            <name>Compressor</name>
+            <price>224.78</price>
+            <stock>30</stock>
+            <facility facilityid="584">
+                <country>United Kingdom</country>
+                <creditcard_type>Mastercard</creditcard_type>
+            </facility>
+        </part>
+    </fridge>
+    <fridge fridgeid="917">
+        <part partid="2094">
+            <name>Tube</name>
+            <price>883.98</price>
+            <stock>21</stock>
+            <facility facilityid="533">
+                <country>Comoros</country>
+                <creditcard_type>Mastercard</creditcard_type>
+            </facility>
+        </part>
+    </fridge>
+    <fridge fridgeid="923">
+        <part partid="4464">
+            <name>Condenser</name>
+            <price>682.2</price>
+            <stock>25</stock>
+            <facility facilityid="154">
+                <country>Cape Verde</country>
+                <creditcard_type>Mastercard</creditcard_type>
+            </facility>
+        </part>
+    </fridge>
+    <fridge fridgeid="934">
+        <part partid="1935">
+            <name>Thermostat</name>
+            <price>571.62</price>
+            <stock>21</stock>
+            <facility facilityid="765">
+                <country>Guernsey</country>
+                <creditcard_type>Mastercard</creditcard_type>
+            </facility>
+        </part>
+    </fridge>
+    <fridge fridgeid="943">
+        <part partid="4238">
+            <name>Thermostat</name>
+            <price>451.55</price>
+            <stock>26</stock>
+            <facility facilityid="533">
+                <country>Comoros</country>
+                <creditcard_type>Mastercard</creditcard_type>
+            </facility>
+        </part>
+    </fridge>
+    <fridge fridgeid="963">
+        <part partid="3433">
+            <name>Condenser</name>
+            <price>292.56</price>
+            <stock>28</stock>
+            <facility facilityid="270">
+                <country>Turkey</country>
+                <creditcard_type>Mastercard</creditcard_type>
+            </facility>
+        </part>
+    </fridge>
+    <fridge fridgeid="996">
+        <part partid="2313">
+            <name>Thermostat</name>
+            <price>417.64</price>
+            <stock>27</stock>
+            <facility facilityid="493">
+                <country>Puerto Rico</country>
+                <creditcard_type>Mastercard</creditcard_type>
+            </facility>
+        </part>
+    </fridge>
+</result>

@@ -1,0 +1,1362 @@
+<facility_ratings>
+    <script />
+    <ticket ticketid="28">
+        <last_edited>2020-06-06</last_edited>
+        <status>closed</status>
+        <solution>Condenser not available any more, other version ordered.</solution>
+        <facility facilityid="648">
+            <rating>4.467</rating>
+            <communication>
+                <department name="sales" contact_person="Ann Monroy">
+                    <email>sales648@snowman.com</email>
+                    <fax>81 565882-65</fax>
+                    <phone>81 565882-66</phone>
+                </department>
+            </communication>
+        </facility>
+        <customer customerid="14">
+            <name>Sarah Lande</name>
+        </customer>
+    </ticket>
+    <ticket ticketid="34">
+        <last_edited>2022-12-17</last_edited>
+        <status>closed</status>
+        <solution>Glass Panel ordered - waiting for goods receipt.</solution>
+        <facility facilityid="684">
+            <rating>4.387</rating>
+            <communication>
+                <department name="support" contact_person="Leticia Roberts">
+                    <fax>99 260141-78</fax>
+                    <phone>99 260141-79</phone>
+                </department>
+            </communication>
+        </facility>
+        <customer customerid="585">
+            <name>James Mata</name>
+        </customer>
+    </ticket>
+    <ticket ticketid="38">
+        <last_edited>2020-01-16</last_edited>
+        <status>closed</status>
+        <solution>Glass Panel ordered - waiting for goods receipt.</solution>
+        <facility facilityid="276">
+            <rating>4.997</rating>
+            <communication>
+                <department name="sales" contact_person="Thaddeus Coats">
+                    <fax>86 531635-46</fax>
+                </department>
+                <department name="support" contact_person="William Rivera">
+                    <email>support276@snowman.com</email>
+                    <fax>86 531635-117</fax>
+                </department>
+            </communication>
+        </facility>
+        <customer customerid="738">
+            <name>Ronald Wenger</name>
+        </customer>
+    </ticket>
+    <ticket ticketid="72">
+        <last_edited>2021-02-11</last_edited>
+        <status>closed</status>
+        <solution>Thermostat repaired.</solution>
+        <facility facilityid="692">
+            <rating>4.723</rating>
+            <communication>
+                <department name="support" contact_person="Christopher Gattshall">
+                    <email>support692@snowman.com</email>
+                    <fax>95 675112-74</fax>
+                    <phone>95 675112-75</phone>
+                </department>
+                <department name="management" contact_person="Luis Davis">
+                    <fax>95 675112-157</fax>
+                    <phone>95 675112-158</phone>
+                </department>
+            </communication>
+        </facility>
+        <customer customerid="488">
+            <name>James Champlin</name>
+        </customer>
+    </ticket>
+    <ticket ticketid="76">
+        <last_edited>2020-08-21</last_edited>
+        <status>closed</status>
+        <solution>Pipe fixed.</solution>
+        <facility facilityid="138">
+            <rating>4.932</rating>
+            <communication>
+                <department name="sales" contact_person="Leah Adams">
+                    <phone>74 825556-1</phone>
+                </department>
+                <department name="management" contact_person="Lorene Seidman">
+                    <email>management138@snowman.com</email>
+                    <phone>74 825556-2</phone>
+                </department>
+                <department name="support" contact_person="Louise Sundby">
+                    <email>support138@snowman.com</email>
+                    <fax>74 825556-14</fax>
+                    <phone>74 825556-15</phone>
+                </department>
+            </communication>
+        </facility>
+        <customer customerid="34">
+            <name>James Watson</name>
+        </customer>
+    </ticket>
+    <ticket ticketid="125">
+        <last_edited>2022-02-27</last_edited>
+        <status>closed</status>
+        <solution>Glass Panel fixed.</solution>
+        <facility facilityid="454">
+            <rating>4.821</rating>
+            <communication>
+                <department name="management" contact_person="Lula Everitt">
+                    <email>management454@snowman.com</email>
+                </department>
+                <department name="sales" contact_person="Juan Kramer">
+                    <fax>13 396482-64</fax>
+                </department>
+            </communication>
+        </facility>
+        <customer customerid="80">
+            <name>Scott Paschall</name>
+        </customer>
+    </ticket>
+    <ticket ticketid="126">
+        <last_edited>2021-03-06</last_edited>
+        <status>closed</status>
+        <solution>Compressor ordered - waiting for goods receipt.</solution>
+        <facility facilityid="495">
+            <rating>4.876</rating>
+            <communication>
+                <department name="support" contact_person="Gary Todd">
+                    <email>support495@snowman.com</email>
+                    <phone>66 584538-1</phone>
+                </department>
+                <department name="sales" contact_person="Jack Walls">
+                    <email>sales495@snowman.com</email>
+                    <fax>66 584538-72</fax>
+                    <phone>66 584538-73</phone>
+                </department>
+                <department name="management" contact_person="Todd Simpson">
+                    <email>management495@snowman.com</email>
+                    <fax>66 584538-165</fax>
+                    <phone>66 584538-166</phone>
+                </department>
+            </communication>
+        </facility>
+        <customer customerid="570">
+            <name>Willie Ehrisman</name>
+        </customer>
+    </ticket>
+    <ticket ticketid="170">
+        <last_edited>2021-07-12</last_edited>
+        <status>closed</status>
+        <solution>Tube not available any more, other version ordered.</solution>
+        <facility facilityid="115">
+            <rating>4.027</rating>
+            <communication>
+                <department name="support" contact_person="Joseph Demarco">
+                    <email>support115@snowman.com</email>
+                    <fax>15 933792-97</fax>
+                    <phone>15 933792-98</phone>
+                </department>
+            </communication>
+        </facility>
+        <customer customerid="94">
+            <name>Brent Payne</name>
+        </customer>
+    </ticket>
+    <ticket ticketid="171">
+        <last_edited>2021-05-19</last_edited>
+        <status>closed</status>
+        <solution>Door fixed.</solution>
+        <facility facilityid="59">
+            <rating>4.628</rating>
+            <communication>
+                <department name="sales" contact_person="Sara Cockrill">
+                    <email>sales59@snowman.com</email>
+                </department>
+                <department name="management" contact_person="Kelly Bowthorpe">
+                    <email>management59@snowman.com</email>
+                </department>
+            </communication>
+        </facility>
+        <customer customerid="663">
+            <name>Sandra Dorsey</name>
+        </customer>
+    </ticket>
+    <ticket ticketid="174">
+        <last_edited>2022-09-18</last_edited>
+        <status>closed</status>
+        <solution>Compressor not available any more, other version ordered.</solution>
+        <facility facilityid="195">
+            <rating>4.343</rating>
+            <communication>
+                <department name="management" contact_person="Jacob Meeks">
+                    <fax>15 920268-47</fax>
+                </department>
+                <department name="support" contact_person="Clara Lopez">
+                    <email>support195@snowman.com</email>
+                    <fax>15 920268-75</fax>
+                </department>
+            </communication>
+        </facility>
+        <customer customerid="753">
+            <name>Jamie Ross</name>
+        </customer>
+    </ticket>
+    <ticket ticketid="180">
+        <last_edited>2021-07-05</last_edited>
+        <status>closed</status>
+        <solution>Glass Panel fixed.</solution>
+        <facility facilityid="262">
+            <rating>4.289</rating>
+            <communication>
+                <department name="management" contact_person="Geraldine Francis">
+                    <email>management262@snowman.com</email>
+                    <fax>68 974823-26</fax>
+                    <phone>68 974823-27</phone>
+                </department>
+                <department name="support" contact_person="Justin Simmons">
+                    <email>support262@snowman.com</email>
+                    <fax>68 974823-44</fax>
+                    <phone>68 974823-45</phone>
+                </department>
+                <department name="sales" contact_person="Richard Marcantonio">
+                    <fax>68 974823-134</fax>
+                </department>
+            </communication>
+        </facility>
+        <customer customerid="155">
+            <name>Linda Varela</name>
+        </customer>
+    </ticket>
+    <ticket ticketid="192">
+        <last_edited>2022-01-05</last_edited>
+        <status>closed</status>
+        <solution>Tube ordered - waiting for goods receipt.</solution>
+        <facility facilityid="180">
+            <rating>4.065</rating>
+            <communication>
+                <department name="sales" contact_person="Bryan Bode">
+                    <fax>41 254643-28</fax>
+                    <phone>41 254643-29</phone>
+                </department>
+                <department name="management" contact_person="Robert Mcgrew">
+                    <email>management180@snowman.com</email>
+                    <fax>41 254643-42</fax>
+                    <phone>41 254643-43</phone>
+                </department>
+            </communication>
+        </facility>
+        <customer customerid="430">
+            <name>Ryan Montanez</name>
+        </customer>
+    </ticket>
+    <ticket ticketid="194">
+        <last_edited>2020-01-05</last_edited>
+        <status>closed</status>
+        <solution>Thermostat changed, everything fine now again.</solution>
+        <facility facilityid="491">
+            <rating>4.606</rating>
+            <communication>
+                <department name="sales" contact_person="Dan Vines">
+                    <email>sales491@snowman.com</email>
+                    <fax>18 591095-28</fax>
+                    <phone>18 591095-29</phone>
+                </department>
+            </communication>
+        </facility>
+        <customer customerid="135">
+            <name>Florence Moore</name>
+        </customer>
+    </ticket>
+    <ticket ticketid="209">
+        <last_edited>2022-11-28</last_edited>
+        <status>closed</status>
+        <solution>Glass Panel repaired.</solution>
+        <facility facilityid="341">
+            <rating>4.368</rating>
+            <communication>
+                <department name="management" contact_person="Jacqueline Smith">
+                    <email>management341@snowman.com</email>
+                    <fax>36 728880-79</fax>
+                    <phone>36 728880-80</phone>
+                </department>
+                <department name="support" contact_person="Colin Perez">
+                    <email>support341@snowman.com</email>
+                    <fax>36 728880-140</fax>
+                    <phone>36 728880-141</phone>
+                </department>
+                <department name="sales" contact_person="Luis Beck">
+                    <email>sales341@snowman.com</email>
+                    <fax>36 728880-168</fax>
+                    <phone>36 728880-169</phone>
+                </department>
+            </communication>
+        </facility>
+        <customer customerid="426">
+            <name>Amy Doss</name>
+        </customer>
+    </ticket>
+    <ticket ticketid="250">
+        <last_edited>2021-11-10</last_edited>
+        <status>closed</status>
+        <solution>Glass Panel ordered - waiting for goods receipt.</solution>
+        <facility facilityid="683">
+            <rating>4.517</rating>
+            <communication>
+                <department name="sales" contact_person="Paul Kucera">
+                    <email>sales683@snowman.com</email>
+                    <fax>82 940775-98</fax>
+                    <phone>82 940775-99</phone>
+                </department>
+                <department name="support" contact_person="Reginald Rios">
+                    <email>support683@snowman.com</email>
+                    <fax>82 940775-129</fax>
+                </department>
+                <department name="management" contact_person="Lee Chapa">
+                    <email>management683@snowman.com</email>
+                    <fax>82 940775-193</fax>
+                </department>
+            </communication>
+        </facility>
+        <customer customerid="321">
+            <name>Raymond Canady</name>
+        </customer>
+    </ticket>
+    <ticket ticketid="251">
+        <last_edited>2020-05-06</last_edited>
+        <status>closed</status>
+        <solution>Condenser repaired.</solution>
+        <facility facilityid="618">
+            <rating>4.981</rating>
+            <communication>
+                <department name="support" contact_person="James Wolfe">
+                    <fax>75 739803-52</fax>
+                </department>
+            </communication>
+        </facility>
+        <customer customerid="731">
+            <name>Larry Gonzalez</name>
+        </customer>
+    </ticket>
+    <ticket ticketid="263">
+        <last_edited>2022-02-02</last_edited>
+        <status>closed</status>
+        <solution>Glass Panel changed, everything fine now again.</solution>
+        <facility facilityid="689">
+            <rating>4.255</rating>
+            <communication>
+                <department name="support" contact_person="William Wade">
+                    <fax>73 139914-4</fax>
+                    <phone>73 139914-5</phone>
+                </department>
+            </communication>
+        </facility>
+        <customer customerid="436">
+            <name>Thelma Belew</name>
+        </customer>
+    </ticket>
+    <ticket ticketid="309">
+        <last_edited>2022-07-03</last_edited>
+        <status>closed</status>
+        <solution>Thermostat repaired.</solution>
+        <facility facilityid="77">
+            <rating>4.461</rating>
+            <communication>
+                <department name="support" contact_person="Lillian Maier">
+                    <email>support77@snowman.com</email>
+                    <fax>87 735501-71</fax>
+                    <phone>87 735501-72</phone>
+                </department>
+            </communication>
+        </facility>
+        <customer customerid="466">
+            <name>Diane Vining</name>
+        </customer>
+    </ticket>
+    <ticket ticketid="316">
+        <last_edited>2021-08-03</last_edited>
+        <status>closed</status>
+        <solution>Tube not available any more, other version ordered.</solution>
+        <facility facilityid="700">
+            <rating>4.444</rating>
+            <communication>
+                <department name="sales" contact_person="Tom Kelley">
+                    <fax>86 979185-43</fax>
+                </department>
+            </communication>
+        </facility>
+        <customer customerid="525">
+            <name>Reginald Wilson</name>
+        </customer>
+    </ticket>
+    <ticket ticketid="320">
+        <last_edited>2022-02-06</last_edited>
+        <status>closed</status>
+        <solution>Pipe repaired.</solution>
+        <facility facilityid="463">
+            <rating>4.51</rating>
+            <communication>
+                <department name="sales" contact_person="Wilbert Surface">
+                    <fax>91 348180-44</fax>
+                </department>
+                <department name="support" contact_person="Ian Thompson">
+                    <email>support463@snowman.com</email>
+                    <phone>91 348180-45</phone>
+                </department>
+            </communication>
+        </facility>
+        <customer customerid="134">
+            <name>Michele Hannon</name>
+        </customer>
+    </ticket>
+    <ticket ticketid="361">
+        <last_edited>2021-05-22</last_edited>
+        <status>closed</status>
+        <solution>Condenser ordered - waiting for goods receipt.</solution>
+        <facility facilityid="96">
+            <rating>4.9</rating>
+            <communication>
+                <department name="support" contact_person="Willa Karp">
+                    <phone>2 676957-1</phone>
+                </department>
+                <department name="management" contact_person="Arthur Janssen">
+                    <email>management96@snowman.com</email>
+                    <fax>2 676957-18</fax>
+                    <phone>2 676957-19</phone>
+                </department>
+            </communication>
+        </facility>
+        <customer customerid="350">
+            <name>Sam Bushovisky</name>
+        </customer>
+    </ticket>
+    <ticket ticketid="402">
+        <last_edited>2020-12-06</last_edited>
+        <status>closed</status>
+        <solution>Tube not available any more, other version ordered.</solution>
+        <facility facilityid="77">
+            <rating>4.461</rating>
+            <communication>
+                <department name="support" contact_person="Lillian Maier">
+                    <email>support77@snowman.com</email>
+                    <fax>87 735501-71</fax>
+                    <phone>87 735501-72</phone>
+                </department>
+            </communication>
+        </facility>
+        <customer customerid="108">
+            <name>Sam Jackson</name>
+        </customer>
+    </ticket>
+    <ticket ticketid="453">
+        <last_edited>2020-03-13</last_edited>
+        <status>closed</status>
+        <solution>Condenser not available any more, other version ordered.</solution>
+        <facility facilityid="514">
+            <rating>4.033</rating>
+            <communication>
+                <department name="support" contact_person="Mary Barrientos">
+                    <fax>61 258000-76</fax>
+                    <phone>61 258000-77</phone>
+                </department>
+                <department name="sales" contact_person="Joyce Bernal">
+                    <email>sales514@snowman.com</email>
+                    <fax>61 258000-142</fax>
+                </department>
+                <department name="management" contact_person="Frances Lord">
+                    <phone>61 258000-143</phone>
+                </department>
+            </communication>
+        </facility>
+        <customer customerid="8">
+            <name>Stanley Overby</name>
+        </customer>
+    </ticket>
+    <ticket ticketid="457">
+        <last_edited>2021-05-01</last_edited>
+        <status>closed</status>
+        <solution>Condenser ordered - waiting for goods receipt.</solution>
+        <facility facilityid="652">
+            <rating>4.068</rating>
+            <communication>
+                <department name="support" contact_person="Blair Nowell">
+                    <email>support652@snowman.com</email>
+                    <fax>80 699006-85</fax>
+                </department>
+                <department name="management" contact_person="James Lozada">
+                    <fax>80 699006-132</fax>
+                    <phone>80 699006-133</phone>
+                </department>
+            </communication>
+        </facility>
+        <customer customerid="750">
+            <name>Marina Moss</name>
+        </customer>
+    </ticket>
+    <ticket ticketid="462">
+        <last_edited>2022-02-16</last_edited>
+        <status>closed</status>
+        <solution>Tube changed, everything fine now again.</solution>
+        <facility facilityid="756">
+            <rating>4.661</rating>
+            <communication>
+                <department name="sales" contact_person="Tom Smith">
+                    <email>sales756@snowman.com</email>
+                    <fax>88 169773-59</fax>
+                    <phone>88 169773-60</phone>
+                </department>
+                <department name="management" contact_person="Geraldo Myers">
+                    <email>management756@snowman.com</email>
+                </department>
+            </communication>
+        </facility>
+        <customer customerid="478">
+            <name>Diane Kehoe</name>
+        </customer>
+    </ticket>
+    <ticket ticketid="465">
+        <last_edited>2022-02-26</last_edited>
+        <status>closed</status>
+        <solution>Pipe not available any more, other version ordered.</solution>
+        <facility facilityid="485">
+            <rating>4.134</rating>
+            <communication>
+                <department name="sales" contact_person="Melissa Davis">
+                    <fax>21 411691-9</fax>
+                </department>
+                <department name="management" contact_person="Albert Littlejohn">
+                    <email>management485@snowman.com</email>
+                    <fax>21 411691-53</fax>
+                    <phone>21 411691-54</phone>
+                </department>
+            </communication>
+        </facility>
+        <customer customerid="418">
+            <name>Charles Strom</name>
+        </customer>
+    </ticket>
+    <ticket ticketid="480">
+        <last_edited>2020-01-11</last_edited>
+        <status>closed</status>
+        <solution>Compressor fixed.</solution>
+        <facility facilityid="105">
+            <rating>4.33</rating>
+            <communication>
+                <department name="support" contact_person="Mary Ahmann">
+                    <fax>23 653730-29</fax>
+                    <phone>23 653730-30</phone>
+                </department>
+                <department name="management" contact_person="Sonja Bradwell">
+                    <email>management105@snowman.com</email>
+                    <fax>23 653730-78</fax>
+                    <phone>23 653730-79</phone>
+                </department>
+                <department name="sales" contact_person="Fredrick Hinnant">
+                    <fax>23 653730-147</fax>
+                </department>
+            </communication>
+        </facility>
+        <customer customerid="627">
+            <name>Michael Hicks</name>
+        </customer>
+    </ticket>
+    <ticket ticketid="491">
+        <last_edited>2020-07-08</last_edited>
+        <status>closed</status>
+        <solution>Door changed, everything fine now again.</solution>
+        <facility facilityid="58">
+            <rating>4.572</rating>
+            <communication>
+                <department name="support" contact_person="Robert Carter">
+                    <email>support58@snowman.com</email>
+                    <fax>8 579267-63</fax>
+                    <phone>8 579267-64</phone>
+                </department>
+            </communication>
+        </facility>
+        <customer customerid="310">
+            <name>Roland Mcmanis</name>
+        </customer>
+    </ticket>
+    <ticket ticketid="496">
+        <last_edited>2022-06-17</last_edited>
+        <status>closed</status>
+        <solution>Tube repaired.</solution>
+        <facility facilityid="249">
+            <rating>4.503</rating>
+            <communication>
+                <department name="management" contact_person="William Fox">
+                    <fax>62 229519-20</fax>
+                </department>
+                <department name="sales" contact_person="Michael Leet">
+                    <email>sales249@snowman.com</email>
+                    <fax>62 229519-105</fax>
+                    <phone>62 229519-106</phone>
+                </department>
+                <department name="support" contact_person="Erika Mudd">
+                    <fax>62 229519-185</fax>
+                </department>
+            </communication>
+        </facility>
+        <customer customerid="263">
+            <name>Lee Lew</name>
+        </customer>
+    </ticket>
+    <ticket ticketid="506">
+        <last_edited>2022-10-24</last_edited>
+        <status>closed</status>
+        <solution>Door ordered - waiting for goods receipt.</solution>
+        <facility facilityid="130">
+            <rating>4.924</rating>
+            <communication>
+                <department name="sales" contact_person="Donna Reid">
+                    <fax>16 415215-37</fax>
+                </department>
+                <department name="management" contact_person="Raymond Franklin">
+                    <fax>16 415215-95</fax>
+                    <phone>16 415215-96</phone>
+                </department>
+                <department name="support" contact_person="Peggy Trask">
+                    <fax>16 415215-118</fax>
+                </department>
+            </communication>
+        </facility>
+        <customer customerid="126">
+            <name>Karen Smith</name>
+        </customer>
+    </ticket>
+    <ticket ticketid="520">
+        <last_edited>2021-04-19</last_edited>
+        <status>closed</status>
+        <solution>Glass Panel repaired.</solution>
+        <facility facilityid="239">
+            <rating>4.37</rating>
+            <communication>
+                <department name="management" contact_person="David Florian">
+                    <email>management239@snowman.com</email>
+                    <fax>87 797378-3</fax>
+                    <phone>87 797378-4</phone>
+                </department>
+            </communication>
+        </facility>
+        <customer customerid="94">
+            <name>Brent Payne</name>
+        </customer>
+    </ticket>
+    <ticket ticketid="539">
+        <last_edited>2022-07-04</last_edited>
+        <status>closed</status>
+        <solution>Door fixed.</solution>
+        <facility facilityid="688">
+            <rating>4.999</rating>
+            <communication>
+                <department name="sales" contact_person="Joseph Valentine">
+                    <fax>81 231735-86</fax>
+                    <phone>81 231735-87</phone>
+                </department>
+                <department name="management" contact_person="Edwin Williams">
+                    <fax>81 231735-165</fax>
+                </department>
+            </communication>
+        </facility>
+        <customer customerid="607">
+            <name>Rita Bartko</name>
+        </customer>
+    </ticket>
+    <ticket ticketid="557">
+        <last_edited>2021-01-14</last_edited>
+        <status>closed</status>
+        <solution>Pipe not available any more, other version ordered.</solution>
+        <facility facilityid="96">
+            <rating>4.9</rating>
+            <communication>
+                <department name="support" contact_person="Willa Karp">
+                    <phone>2 676957-1</phone>
+                </department>
+                <department name="management" contact_person="Arthur Janssen">
+                    <email>management96@snowman.com</email>
+                    <fax>2 676957-18</fax>
+                    <phone>2 676957-19</phone>
+                </department>
+            </communication>
+        </facility>
+        <customer customerid="475">
+            <name>Henry Davis</name>
+        </customer>
+    </ticket>
+    <ticket ticketid="568">
+        <last_edited>2021-08-26</last_edited>
+        <status>closed</status>
+        <solution>Thermostat ordered - waiting for goods receipt.</solution>
+        <facility facilityid="382">
+            <rating>4.364</rating>
+            <communication>
+                <department name="management" contact_person="Bonnie Turner">
+                    <phone>27 743684-1</phone>
+                </department>
+            </communication>
+        </facility>
+        <customer customerid="485">
+            <name>Carol Kelly</name>
+        </customer>
+    </ticket>
+    <ticket ticketid="571">
+        <last_edited>2021-04-12</last_edited>
+        <status>closed</status>
+        <solution>Thermostat changed, everything fine now again.</solution>
+        <facility facilityid="514">
+            <rating>4.033</rating>
+            <communication>
+                <department name="support" contact_person="Mary Barrientos">
+                    <fax>61 258000-76</fax>
+                    <phone>61 258000-77</phone>
+                </department>
+                <department name="sales" contact_person="Joyce Bernal">
+                    <email>sales514@snowman.com</email>
+                    <fax>61 258000-142</fax>
+                </department>
+                <department name="management" contact_person="Frances Lord">
+                    <phone>61 258000-143</phone>
+                </department>
+            </communication>
+        </facility>
+        <customer customerid="151">
+            <name>Marissa Lawrence</name>
+        </customer>
+    </ticket>
+    <ticket ticketid="572">
+        <last_edited>2022-11-13</last_edited>
+        <status>closed</status>
+        <solution>Door changed, everything fine now again.</solution>
+        <facility facilityid="559">
+            <rating>4.1</rating>
+            <communication>
+                <department name="management" contact_person="June Artis">
+                    <phone>14 430947-1</phone>
+                </department>
+                <department name="support" contact_person="Jamie Reed">
+                    <phone>14 430947-2</phone>
+                </department>
+                <department name="sales" contact_person="Jesse Kim">
+                    <phone>14 430947-3</phone>
+                </department>
+            </communication>
+        </facility>
+        <customer customerid="58">
+            <name>Maudie Jones</name>
+        </customer>
+    </ticket>
+    <ticket ticketid="589">
+        <last_edited>2020-08-17</last_edited>
+        <status>closed</status>
+        <solution>Door ordered - waiting for goods receipt.</solution>
+        <facility facilityid="236">
+            <rating>4.262</rating>
+            <communication>
+                <department name="sales" contact_person="Audrey Crow">
+                    <phone>36 360939-1</phone>
+                </department>
+                <department name="support" contact_person="Bruce Mcdougall">
+                    <email>support236@snowman.com</email>
+                    <phone>36 360939-2</phone>
+                </department>
+                <department name="management" contact_person="Priscilla Howard">
+                    <email>management236@snowman.com</email>
+                    <fax>36 360939-44</fax>
+                    <phone>36 360939-45</phone>
+                </department>
+            </communication>
+        </facility>
+        <customer customerid="563">
+            <name>Lottie Anderson</name>
+        </customer>
+    </ticket>
+    <ticket ticketid="606">
+        <last_edited>2020-03-16</last_edited>
+        <status>closed</status>
+        <solution>Glass Panel changed, everything fine now again.</solution>
+        <facility facilityid="412">
+            <rating>4.205</rating>
+            <communication>
+                <department name="sales" contact_person="Audrey Fuller">
+                    <email>sales412@snowman.com</email>
+                    <fax>1 122299-82</fax>
+                </department>
+                <department name="management" contact_person="Michelle Turner">
+                    <email>management412@snowman.com</email>
+                    <phone>1 122299-83</phone>
+                </department>
+            </communication>
+        </facility>
+        <customer customerid="394">
+            <name>Michele Higgins</name>
+        </customer>
+    </ticket>
+    <ticket ticketid="658">
+        <last_edited>2021-11-02</last_edited>
+        <status>closed</status>
+        <solution>Door ordered - waiting for goods receipt.</solution>
+        <facility facilityid="664">
+            <rating>4.27</rating>
+            <communication>
+                <department name="management" contact_person="Francisco Marshall">
+                    <email>management664@snowman.com</email>
+                    <fax>7 885334-39</fax>
+                </department>
+            </communication>
+        </facility>
+        <customer customerid="377">
+            <name>Mabel Franklin</name>
+        </customer>
+    </ticket>
+    <ticket ticketid="667">
+        <last_edited>2020-05-18</last_edited>
+        <status>closed</status>
+        <solution>Condenser ordered - waiting for goods receipt.</solution>
+        <facility facilityid="404">
+            <rating>4.123</rating>
+            <communication>
+                <department name="sales" contact_person="Renee Huntley">
+                    <email>sales404@snowman.com</email>
+                    <fax>87 777997-48</fax>
+                </department>
+                <department name="management" contact_person="John Akins">
+                    <phone>87 777997-49</phone>
+                </department>
+                <department name="support" contact_person="Dorothy Larson">
+                    <fax>87 777997-140</fax>
+                    <phone>87 777997-141</phone>
+                </department>
+            </communication>
+        </facility>
+        <customer customerid="6">
+            <name>Tiffany Cyr</name>
+        </customer>
+    </ticket>
+    <ticket ticketid="677">
+        <last_edited>2021-11-04</last_edited>
+        <status>closed</status>
+        <solution>Tube changed, everything fine now again.</solution>
+        <facility facilityid="618">
+            <rating>4.981</rating>
+            <communication>
+                <department name="support" contact_person="James Wolfe">
+                    <fax>75 739803-52</fax>
+                </department>
+            </communication>
+        </facility>
+        <customer customerid="72">
+            <name>Jarvis Ivey</name>
+        </customer>
+    </ticket>
+    <ticket ticketid="714">
+        <last_edited>2021-12-26</last_edited>
+        <status>closed</status>
+        <solution>Condenser ordered - waiting for goods receipt.</solution>
+        <facility facilityid="463">
+            <rating>4.51</rating>
+            <communication>
+                <department name="sales" contact_person="Wilbert Surface">
+                    <fax>91 348180-44</fax>
+                </department>
+                <department name="support" contact_person="Ian Thompson">
+                    <email>support463@snowman.com</email>
+                    <phone>91 348180-45</phone>
+                </department>
+            </communication>
+        </facility>
+        <customer customerid="441">
+            <name>Susan Hudspeth</name>
+        </customer>
+    </ticket>
+    <ticket ticketid="720">
+        <last_edited>2022-01-18</last_edited>
+        <status>closed</status>
+        <solution>Compressor fixed.</solution>
+        <facility facilityid="186">
+            <rating>4.14</rating>
+            <communication>
+                <department name="management" contact_person="Dorothy Mason">
+                    <phone>25 616595-1</phone>
+                </department>
+            </communication>
+        </facility>
+        <customer customerid="727">
+            <name>Robert Florio</name>
+        </customer>
+    </ticket>
+    <ticket ticketid="721">
+        <last_edited>2022-06-14</last_edited>
+        <status>closed</status>
+        <solution>Compressor not available any more, other version ordered.</solution>
+        <facility facilityid="311">
+            <rating>4.971</rating>
+            <communication>
+                <department name="management" contact_person="Adam Adens">
+                    <email>management311@snowman.com</email>
+                    <fax>76 640087-43</fax>
+                    <phone>76 640087-44</phone>
+                </department>
+                <department name="support" contact_person="Joseph Quinones">
+                    <fax>76 640087-87</fax>
+                    <phone>76 640087-88</phone>
+                </department>
+            </communication>
+        </facility>
+        <customer customerid="533">
+            <name>Jeanne Haney</name>
+        </customer>
+    </ticket>
+    <ticket ticketid="751">
+        <last_edited>2022-11-19</last_edited>
+        <status>closed</status>
+        <solution>Glass Panel changed, everything fine now again.</solution>
+        <facility facilityid="506">
+            <rating>4.039</rating>
+            <communication>
+                <department name="management" contact_person="Briana Hawkins">
+                    <email>management506@snowman.com</email>
+                    <fax>64 267327-62</fax>
+                    <phone>64 267327-63</phone>
+                </department>
+                <department name="sales" contact_person="Jessica Billings">
+                    <fax>64 267327-125</fax>
+                    <phone>64 267327-126</phone>
+                </department>
+                <department name="support" contact_person="Kathy Estrada">
+                    <phone>64 267327-127</phone>
+                </department>
+            </communication>
+        </facility>
+        <customer customerid="144">
+            <name>Ora Pullis</name>
+        </customer>
+    </ticket>
+    <ticket ticketid="763">
+        <last_edited>2021-06-11</last_edited>
+        <status>closed</status>
+        <solution>Door ordered - waiting for goods receipt.</solution>
+        <facility facilityid="497">
+            <rating>4.47</rating>
+            <communication>
+                <department name="management" contact_person="Jeffrey Sobania">
+                    <email>management497@snowman.com</email>
+                    <fax>89 649360-61</fax>
+                    <phone>89 649360-62</phone>
+                </department>
+                <department name="sales" contact_person="Anna Gutierrez">
+                    <email>sales497@snowman.com</email>
+                    <fax>89 649360-98</fax>
+                    <phone>89 649360-99</phone>
+                </department>
+                <department name="support" contact_person="Meghan Colquitt">
+                    <email>support497@snowman.com</email>
+                    <fax>89 649360-126</fax>
+                </department>
+            </communication>
+        </facility>
+        <customer customerid="485">
+            <name>Carol Kelly</name>
+        </customer>
+    </ticket>
+    <ticket ticketid="769">
+        <last_edited>2021-07-26</last_edited>
+        <status>closed</status>
+        <solution>Glass Panel ordered - waiting for goods receipt.</solution>
+        <facility facilityid="266">
+            <rating>4.475</rating>
+            <communication>
+                <department name="support" contact_person="John Nash">
+                    <email>support266@snowman.com</email>
+                    <fax>30 585971-45</fax>
+                    <phone>30 585971-46</phone>
+                </department>
+                <department name="sales" contact_person="Joseph Mckenna">
+                    <email>sales266@snowman.com</email>
+                </department>
+            </communication>
+        </facility>
+        <customer customerid="670">
+            <name>Courtney Toolson</name>
+        </customer>
+    </ticket>
+    <ticket ticketid="775">
+        <last_edited>2022-12-16</last_edited>
+        <status>closed</status>
+        <solution>Door ordered - waiting for goods receipt.</solution>
+        <facility facilityid="660">
+            <rating>4.476</rating>
+            <communication>
+                <department name="sales" contact_person="Afton Urreta">
+                    <email>sales660@snowman.com</email>
+                    <fax>53 303809-60</fax>
+                    <phone>53 303809-61</phone>
+                </department>
+            </communication>
+        </facility>
+        <customer customerid="99">
+            <name>Trenton Richards</name>
+        </customer>
+    </ticket>
+    <ticket ticketid="779">
+        <last_edited>2020-03-19</last_edited>
+        <status>closed</status>
+        <solution>Condenser not available any more, other version ordered.</solution>
+        <facility facilityid="117">
+            <rating>4.059</rating>
+            <communication>
+                <department name="sales" contact_person="Timothy Hosley">
+                    <fax>4 560353-90</fax>
+                    <phone>4 560353-91</phone>
+                </department>
+                <department name="support" contact_person="Amber Fulton">
+                    <fax>4 560353-172</fax>
+                </department>
+            </communication>
+        </facility>
+        <customer customerid="391">
+            <name>Lottie Davis</name>
+        </customer>
+    </ticket>
+    <ticket ticketid="783">
+        <last_edited>2020-12-13</last_edited>
+        <status>closed</status>
+        <solution>Door ordered - waiting for goods receipt.</solution>
+        <facility facilityid="130">
+            <rating>4.924</rating>
+            <communication>
+                <department name="sales" contact_person="Donna Reid">
+                    <fax>16 415215-37</fax>
+                </department>
+                <department name="management" contact_person="Raymond Franklin">
+                    <fax>16 415215-95</fax>
+                    <phone>16 415215-96</phone>
+                </department>
+                <department name="support" contact_person="Peggy Trask">
+                    <fax>16 415215-118</fax>
+                </department>
+            </communication>
+        </facility>
+        <customer customerid="64">
+            <name>Doris Lee</name>
+        </customer>
+    </ticket>
+    <ticket ticketid="796">
+        <last_edited>2021-03-20</last_edited>
+        <status>closed</status>
+        <solution>Tube fixed.</solution>
+        <facility facilityid="58">
+            <rating>4.572</rating>
+            <communication>
+                <department name="support" contact_person="Robert Carter">
+                    <email>support58@snowman.com</email>
+                    <fax>8 579267-63</fax>
+                    <phone>8 579267-64</phone>
+                </department>
+            </communication>
+        </facility>
+        <customer customerid="652">
+            <name>Charles Jones</name>
+        </customer>
+    </ticket>
+    <ticket ticketid="816">
+        <last_edited>2022-09-12</last_edited>
+        <status>closed</status>
+        <solution>Glass Panel fixed.</solution>
+        <facility facilityid="191">
+            <rating>4.602</rating>
+            <communication>
+                <department name="support" contact_person="Edith Morris">
+                    <email>support191@snowman.com</email>
+                </department>
+                <department name="management" contact_person="Nicole Hughes">
+                    <fax>54 672962-78</fax>
+                </department>
+            </communication>
+        </facility>
+        <customer customerid="498">
+            <name>Douglas Veal</name>
+        </customer>
+    </ticket>
+    <ticket ticketid="824">
+        <last_edited>2022-12-21</last_edited>
+        <status>closed</status>
+        <solution>Tube fixed.</solution>
+        <facility facilityid="655">
+            <rating>4.631</rating>
+            <communication>
+                <department name="support" contact_person="Michael Taylor">
+                    <email>support655@snowman.com</email>
+                    <fax>16 148483-89</fax>
+                    <phone>16 148483-90</phone>
+                </department>
+                <department name="management" contact_person="Catherine Schmidt">
+                    <email>management655@snowman.com</email>
+                    <fax>16 148483-140</fax>
+                    <phone>16 148483-141</phone>
+                </department>
+            </communication>
+        </facility>
+        <customer customerid="84">
+            <name>Gloria Schechter</name>
+        </customer>
+    </ticket>
+    <ticket ticketid="828">
+        <last_edited>2020-02-21</last_edited>
+        <status>closed</status>
+        <solution>Glass Panel changed, everything fine now again.</solution>
+        <facility facilityid="490">
+            <rating>4.682</rating>
+            <communication>
+                <department name="support" contact_person="Trudie Baisch">
+                    <email>support490@snowman.com</email>
+                    <fax>39 420457-3</fax>
+                    <phone>39 420457-4</phone>
+                </department>
+                <department name="sales" contact_person="Jeffrey Rutledge">
+                    <email>sales490@snowman.com</email>
+                    <fax>39 420457-30</fax>
+                </department>
+                <department name="management" contact_person="Aaron Wrobel">
+                    <email>management490@snowman.com</email>
+                    <fax>39 420457-86</fax>
+                    <phone>39 420457-87</phone>
+                </department>
+            </communication>
+        </facility>
+        <customer customerid="80">
+            <name>Scott Paschall</name>
+        </customer>
+    </ticket>
+    <ticket ticketid="834">
+        <last_edited>2022-04-01</last_edited>
+        <status>closed</status>
+        <solution>Door changed, everything fine now again.</solution>
+        <facility facilityid="359">
+            <rating>4.663</rating>
+            <communication>
+                <department name="management" contact_person="Jimmy Rishel">
+                    <email>management359@snowman.com</email>
+                    <fax>8 313371-9</fax>
+                    <phone>8 313371-10</phone>
+                </department>
+            </communication>
+        </facility>
+        <customer customerid="417">
+            <name>Christopher Putnam</name>
+        </customer>
+    </ticket>
+    <ticket ticketid="858">
+        <last_edited>2020-10-17</last_edited>
+        <status>closed</status>
+        <solution>Condenser ordered - waiting for goods receipt.</solution>
+        <facility facilityid="639">
+            <rating>4.849</rating>
+            <communication>
+                <department name="management" contact_person="Luther Harwell">
+                    <email>management639@snowman.com</email>
+                    <fax>63 754835-1</fax>
+                    <phone>63 754835-2</phone>
+                </department>
+            </communication>
+        </facility>
+        <customer customerid="750">
+            <name>Marina Moss</name>
+        </customer>
+    </ticket>
+    <ticket ticketid="871">
+        <last_edited>2020-08-26</last_edited>
+        <status>closed</status>
+        <solution>Thermostat ordered - waiting for goods receipt.</solution>
+        <facility facilityid="713">
+            <rating>4.699</rating>
+            <communication>
+                <department name="management" contact_person="Jill Pierce">
+                    <phone>99 530156-1</phone>
+                </department>
+                <department name="support" contact_person="Jerry Vanpelt">
+                    <email>support713@snowman.com</email>
+                </department>
+                <department name="sales" contact_person="Johanna Mccormick">
+                    <phone>99 530156-2</phone>
+                </department>
+            </communication>
+        </facility>
+        <customer customerid="36">
+            <name>Sandra Delozier</name>
+        </customer>
+    </ticket>
+    <ticket ticketid="872">
+        <last_edited>2022-03-19</last_edited>
+        <status>closed</status>
+        <solution>Compressor repaired.</solution>
+        <facility facilityid="198">
+            <rating>4.253</rating>
+            <communication>
+                <department name="support" contact_person="Bonnie Hartzell">
+                    <email>support198@snowman.com</email>
+                    <fax>75 747682-92</fax>
+                </department>
+                <department name="sales" contact_person="Nadia Nowakowski">
+                    <email>sales198@snowman.com</email>
+                    <fax>75 747682-114</fax>
+                    <phone>75 747682-115</phone>
+                </department>
+            </communication>
+        </facility>
+        <customer customerid="635">
+            <name>Gerald Lopez</name>
+        </customer>
+    </ticket>
+    <ticket ticketid="893">
+        <last_edited>2022-10-13</last_edited>
+        <status>closed</status>
+        <solution>Glass Panel changed, everything fine now again.</solution>
+        <facility facilityid="89">
+            <rating>4.053</rating>
+            <communication>
+                <department name="sales" contact_person="Danny Murphy">
+                    <phone>98 428992-1</phone>
+                </department>
+                <department name="management" contact_person="James Biderman">
+                    <email>management89@snowman.com</email>
+                    <fax>98 428992-61</fax>
+                    <phone>98 428992-62</phone>
+                </department>
+                <department name="support" contact_person="Angel Collier">
+                    <email>support89@snowman.com</email>
+                    <fax>98 428992-147</fax>
+                    <phone>98 428992-148</phone>
+                </department>
+            </communication>
+        </facility>
+        <customer customerid="474">
+            <name>Jason Storlie</name>
+        </customer>
+    </ticket>
+    <ticket ticketid="914">
+        <last_edited>2021-12-10</last_edited>
+        <status>closed</status>
+        <solution>Compressor not available any more, other version ordered.</solution>
+        <facility facilityid="542">
+            <rating>4.276</rating>
+            <communication>
+                <department name="support" contact_person="Maxine Shepherd">
+                    <email>support542@snowman.com</email>
+                    <fax>32 896246-94</fax>
+                    <phone>32 896246-95</phone>
+                </department>
+                <department name="management" contact_person="William Bush">
+                    <fax>32 896246-194</fax>
+                </department>
+                <department name="sales" contact_person="Joyce Bailey">
+                    <email>sales542@snowman.com</email>
+                    <phone>32 896246-195</phone>
+                </department>
+            </communication>
+        </facility>
+        <customer customerid="55">
+            <name>Keith Mcmickell</name>
+        </customer>
+    </ticket>
+    <ticket ticketid="918">
+        <last_edited>2020-11-14</last_edited>
+        <status>closed</status>
+        <solution>Glass Panel changed, everything fine now again.</solution>
+        <facility facilityid="300">
+            <rating>4.878</rating>
+            <communication>
+                <department name="sales" contact_person="Carlos Lindgren">
+                    <email>sales300@snowman.com</email>
+                </department>
+                <department name="management" contact_person="Paula Mangina">
+                    <email>management300@snowman.com</email>
+                </department>
+            </communication>
+        </facility>
+        <customer customerid="186">
+            <name>Patricia Shaffer</name>
+        </customer>
+    </ticket>
+    <ticket ticketid="968">
+        <last_edited>2020-04-09</last_edited>
+        <status>closed</status>
+        <solution>Tube changed, everything fine now again.</solution>
+        <facility facilityid="451">
+            <rating>4.9</rating>
+            <communication>
+                <department name="sales" contact_person="Dorothy Kemp">
+                    <fax>23 550998-29</fax>
+                </department>
+                <department name="support" contact_person="Jackie Prosser">
+                    <email>support451@snowman.com</email>
+                    <phone>23 550998-30</phone>
+                </department>
+            </communication>
+        </facility>
+        <customer customerid="776">
+            <name>Kristy Lockhart</name>
+        </customer>
+    </ticket>
+    <ticket ticketid="973">
+        <last_edited>2022-03-17</last_edited>
+        <status>closed</status>
+        <solution>Door changed, everything fine now again.</solution>
+        <facility facilityid="117">
+            <rating>4.059</rating>
+            <communication>
+                <department name="sales" contact_person="Timothy Hosley">
+                    <fax>4 560353-90</fax>
+                    <phone>4 560353-91</phone>
+                </department>
+                <department name="support" contact_person="Amber Fulton">
+                    <fax>4 560353-172</fax>
+                </department>
+            </communication>
+        </facility>
+        <customer customerid="557">
+            <name>Joshua Kee</name>
+        </customer>
+    </ticket>
+    <ticket ticketid="974">
+        <last_edited>2022-04-17</last_edited>
+        <status>closed</status>
+        <solution>Condenser ordered - waiting for goods receipt.</solution>
+        <facility facilityid="484">
+            <rating>4.472</rating>
+            <communication>
+                <department name="management" contact_person="Connie Wooten">
+                    <fax>27 691238-23</fax>
+                    <phone>27 691238-24</phone>
+                </department>
+                <department name="sales" contact_person="John Carpenter">
+                    <email>sales484@snowman.com</email>
+                    <phone>27 691238-25</phone>
+                </department>
+            </communication>
+        </facility>
+        <customer customerid="270">
+            <name>Adelaide Clark</name>
+        </customer>
+    </ticket>
+    <ticket ticketid="976">
+        <last_edited>2020-01-18</last_edited>
+        <status>closed</status>
+        <solution>Glass Panel ordered - waiting for goods receipt.</solution>
+        <facility facilityid="419">
+            <rating>4.231</rating>
+            <communication>
+                <department name="management" contact_person="Martina Freas">
+                    <email>management419@snowman.com</email>
+                    <fax>83 241234-96</fax>
+                </department>
+            </communication>
+        </facility>
+        <customer customerid="533">
+            <name>Jeanne Haney</name>
+        </customer>
+    </ticket>
+</facility_ratings>

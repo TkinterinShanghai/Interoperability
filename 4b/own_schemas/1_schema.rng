@@ -1,0 +1,80 @@
+<grammar xmlns="http://relaxng.org/ns/structure/1.0" datatypeLibrary="http://www.w3.org/2001/XMLSchema-datatypes">
+  <start>
+    <element name="ComplaintOverview">
+      <oneOrMore>
+        <element name="complaint">
+          <attribute name="id" />
+          <attribute name="isresolved">
+            <choice>
+              <value type="string">true</value>
+              <value type="string">false</value>
+            </choice>
+          </attribute>
+          <attribute name="issuedate" />
+          <ref name="customer" />
+          <ref name="fridge" />
+        </element>
+      </oneOrMore>
+    </element>
+  </start>
+
+  <define name="customer">
+    <element name="customer">
+      <optional>
+        <ref name="customerInfo" />
+        <element name="adress">
+          <ref name="adress" />
+        </element>
+      </optional>
+    </element>
+  </define>
+
+  <define name="customerInfo">
+    <choice>
+      <element name="email">
+        <data type="string" />
+      </element>
+      <element name="contact">
+        <data type="string" />
+      </element>
+    </choice>
+    <element name="lastactive">
+      <data type="date" />
+    </element>
+  </define>
+
+  <define name="adress">
+    <interleave>
+      <element name="adress">
+        <attribute name="country" />
+        <attribute name="zip" />
+        <optional>
+          <element name="otherCountries">
+            <list>
+              <data type="string" />
+            </list>
+          </element>
+        </optional>
+        <element name="street">
+          <element name="name">
+            <data type="string" />
+          </element>
+          <element name="number">
+            <data type="positiveInteger" />
+          </element>
+        </element>
+      </element>
+    </interleave>
+  </define>
+
+  <define name="fridge">
+    <element name="fridge">
+      <element name="fridge_type">
+        <data type="string" />
+      </element>
+      <element name="price">
+        <data type="positiveInteger" />
+      </element>
+    </element>
+  </define>
+</grammar>
