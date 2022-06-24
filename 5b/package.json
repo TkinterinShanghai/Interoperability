@@ -1,0 +1,35 @@
+{
+  "name": "5b",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test1": "./src/curl/1_PATCH_adress.sh",
+    "test2": "./src/curl/2_DEL_street.sh",
+    "test3": "./src/curl/3_POST_adress.sh",
+    "test4": "./src/curl/4_PUT_complaint.sh",
+    "test5": "./src/curl/5_GET_complaint.sh",
+    "test6": "./src/curl/6_GET_FacilitiesAttribute.sh",
+    "test7": "./src/curl/7_GET_rating.sh",
+    "test8": "./src/curl/8_GET_street.sh",
+    "start": "node ./dist/index.js",
+    "dev:compile": "tsc --watch",
+    "dev:serve": "nodemon index.ts"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.20.0",
+    "camaro": "^6.1.0",
+    "express": "^4.18.1",
+    "typescript": "^4.6.4",
+    "xml2js": "^0.4.23"
+  },
+  "devDependencies": {
+    "@types/express": "^4.17.13",
+    "@types/xml2js": "^0.4.11",
+    "@types/xmldom": "^0.1.31",
+    "nodemon": "^2.0.16",
+    "ts-node": "^10.7.0"
+  }
+}

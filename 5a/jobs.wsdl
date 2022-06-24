@@ -1,0 +1,255 @@
+<definitions Name="Jobs" targetNamespace="urn://iop/server.php"
+    xmlns:m="http://wwwlab.cs.univie.ac.at/~wetzelt95/iop/server.php"
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema"
+    xmlns:soap="http://schemas.xmlsoap.org/wsdl/soap/"
+    xmlns:wsdl="http://schemas.xmlsoap.org/wsdl/"
+    xmlns="http://schemas.xmlsoap.org/wsdl/">
+
+    <types>
+        <xsd:schema targetNamespace="http://wwwlab.cs.univie.ac.at/~wetzelt95/iop/server.php">
+
+
+            <xsd:complexType name="type">
+                <xsd:all>
+                    <xsd:element name="item" maxOccurs='unbounded'/>
+                </xsd:all>
+            </xsd:complexType>
+
+            <xsd:complexType name="query13_responsetype">
+                <xsd:all>
+                    <xsd:element name="attribute" maxOccurs='unbounded'>
+
+                    </xsd:element>
+                </xsd:all>
+            </xsd:complexType>
+
+            <complexType name="ArrayOfIntegers">
+                <complexContent>
+                    <restriction base="soapenc:Array">
+                        <attribute ref="soapenc:arrayType" wsdl:arrayType="xsd:integer[]"/>
+                    </restriction>
+                </complexContent>
+            </complexType>
+
+
+            <xsd:complexType name="query22_requesttype">
+                <xsd:sequence>
+                    <xsd:element name="id">
+                        <xsd:complexType>
+                            <xsd:all>
+                                <xsd:element name="id" type="xsd:integer" />
+                                <xsd:element name="secondelement" type="xsd:integer" />
+                            </xsd:all>
+                        </xsd:complexType>
+                    </xsd:element>
+                    <xsd:element name="property">
+                        <xsd:complexType>
+                            <xsd:all>
+                                <xsd:element name="property" type="xsd:string" />
+                                <xsd:element name="secondelement" type="xsd:string" />
+                            </xsd:all>
+                        </xsd:complexType>
+                    </xsd:element>
+                </xsd:sequence>
+            </xsd:complexType>
+        </xsd:schema>
+    </types>
+
+
+    <!--1-->
+    <message name="query13_request">
+        <part name="attribute" type="xsd:string"/>
+    </message>
+    <message name="query13_response">
+        <part name="response" type="m:query13_responsetype" />
+    </message>
+
+    <!--2-->
+    <message name="query14_request">
+        <part name="args_array" type="xsd:string[]"/>
+    </message>
+    <message name="query14_response">
+        <part name="response" type="xsd:string" />
+    </message>
+    <!--3-->
+    <message name="query21_request">
+        <part name="date" type="xsd:date"/>
+        <part name="arg" type="xsd:string"/>
+    </message>
+    <message name="query21_response">
+        <part name="response" type="xsd:string" />
+    </message>
+    <!--4-->
+    <message name="query22_request">
+        <part name="complextype" type="m:query22_requesttype"/>
+    </message>
+    <message name="query22_response">
+        <part name="json" type="xsd:string"/>
+    </message>
+    <!--5-->
+    <message name="query23_request">
+        <part name="args" type="xsd:float"/>
+    </message>
+    <message name="query23_response">
+        <part name="json" type="xsd:string"/>
+    </message>
+    <!--6-->
+    <message name="query24_request">
+        <part name="array" type="ArrayOfIntegers"/>
+    </message>
+    <message name="query24_response">
+        <part name="json" type="xsd:string"/>
+    </message>
+    <!--7-->
+    <message name="query33_request">
+        <part name="int" type="xsd:integer"/>
+        <part name="string" type="xsd:string"/>
+    </message>
+    <message name="query33_response">
+        <part name="json" type="xsd:string"/>
+    </message>
+    <!--8-->
+    <message name="query44_request">
+        <part name="array" type="xsd:string[]"/>
+        <part name="integer" type="xsd:integer"/>
+    </message>
+    <message name="query44_response">
+        <part name="json" type="xsd:string"/>
+    </message>
+    <portType name="JobsPort">
+
+
+        <!--1-->
+        <operation name="query13">
+            <input message="m:query13_request"/>
+            <output message="m:query13_response"/>
+        </operation>
+        <!--2-->
+        <operation name="query14">
+            <input message="m:query14_request"/>
+            <output message="m:query14_response"/>
+        </operation>
+        <!--3-->
+        <operation name="query21">
+            <input message="m:query21_request"/>
+            <output message="m:query21_response"/>
+        </operation>
+        <!--4-->
+        <operation name="query22">
+            <input message="m:query22_request"/>
+            <output message="m:query22_response"/>
+        </operation>
+        <!--5-->
+        <operation name="query23">
+            <input message="m:query23_request"/>
+            <output message="m:query23_response"/>
+        </operation>
+        <!--6-->
+        <operation name="query24">
+            <input message="m:query24_request"/>
+            <output message="m:query24_response"/>
+        </operation>
+        <!--7-->
+        <operation name="query33">
+            <input message="m:query33_request"/>
+            <output message="m:query33_response"/>
+        </operation>
+        <!--8-->
+        <operation name="query44">
+            <input message="m:query44_request"/>
+            <output message="m:query44_response"/>
+        </operation>
+
+
+    </portType>
+
+    <binding name="JobsBinding" type="m:JobsPort">
+        <soap:binding style="rpc" transport="http://schemas.xmlsoap.org/soap/http"/>
+        <operation name="query13">
+            <soap:operation soapAction="urn:Jobs#query13"/>
+            <input>
+                <soap:body use="literal" namespace="urn:m"/>
+            </input>
+            <output>
+                <soap:body use="literal" namespace="urn:m"/>
+            </output>
+        </operation>
+
+        <operation name="query14">
+            <soap:operation soapAction="urn:Jobs#query14"/>
+            <input>
+                <soap:body use="literal" namespace="urn:m"/>
+            </input>
+            <output>
+                <soap:body use="literal" namespace="urn:m"/>
+            </output>
+        </operation>
+
+        <operation name="query21">
+            <soap:operation soapAction="urn:Jobs#query21"/>
+            <input>
+                <soap:body use="literal" namespace="urn:m"/>
+            </input>
+            <output>
+                <soap:body use="literal" namespace="urn:m"/>
+            </output>
+        </operation>
+
+        <operation name="query22">
+            <soap:operation soapAction="urn:Jobs#query22"/>
+            <input>
+                <soap:body use="literal" namespace="urn:m"/>
+            </input>
+            <output>
+                <soap:body use="literal" namespace="urn:m"/>
+            </output>
+        </operation>
+
+        <operation name="query23">
+            <soap:operation soapAction="urn:Jobs#query23"/>
+            <input>
+                <soap:body use="literal" namespace="urn:m"/>
+            </input>
+            <output>
+                <soap:body use="literal" namespace="urn:m"/>
+            </output>
+        </operation>
+
+        <operation name="query24">
+            <soap:operation soapAction="urn:Jobs#query24"/>
+            <input>
+                <soap:body use="literal" namespace="urn:m"/>
+            </input>
+            <output>
+                <soap:body use="literal" namespace="urn:m"/>
+            </output>
+        </operation>
+
+        <operation name="query33">
+            <soap:operation soapAction="urn:Jobs#query33"/>
+            <input>
+                <soap:body use="literal" namespace="urn:m"/>
+            </input>
+            <output>
+                <soap:body use="literal" namespace="urn:m"/>
+            </output>
+        </operation>
+        <operation name="query44">
+            <soap:operation soapAction="urn:Jobs#query44"/>
+            <input>
+                <soap:body use="literal" namespace="urn:m"/>
+            </input>
+            <output>
+                <soap:body use="literal" namespace="urn:m"/>
+            </output>
+        </operation>
+    </binding>
+
+    <service name='Jobs'>
+        <port name="JobsPort" binding="m:JobsBinding">
+            <soap:address location="http://wwwlab.cs.univie.ac.at/~wetzelt95/iop/server.php"/>
+        </port>
+    </service>
+
+</definitions>
+

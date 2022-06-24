@@ -1,0 +1,19 @@
+foreign xml 1 uses schema 2
+java -cp saxon-he-11.3.jar net.sf.saxon.Transform -xsl:1_query.xsl -s:1_data.xml -o:1_output.xml
+
+xmllint --noout --relaxng 2_schema.rng 1_output.xml
+
+foreign xml 2 uses schema 4
+java -cp saxon-he-11.3.jar net.sf.saxon.Transform -xsl:2_query.xsl -s:2_data.xml -o:2_output.xml
+
+xmllint --noout --relaxng 4_schema.rng 2_output.xml
+
+foreign xml 3 uses schema 1
+java -cp saxon-he-11.3.jar net.sf.saxon.Transform -xsl:3_query.xsl -s:3_data.xml -o:3_output.xml
+
+xmllint --noout --relaxng 1_schema.rng 3_output.xml
+
+foreign xml 4 uses schema 3
+java -cp saxon-he-11.3.jar net.sf.saxon.Transform -xsl:4_query.xsl -s:4_data.xml -o:4_output.xml
+
+xmllint --noout --relaxng 3_schema.rng 4_output.xml

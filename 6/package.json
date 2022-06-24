@@ -1,0 +1,27 @@
+{
+  "name": "5b",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "prod:serve": "node ./dist/index.js",
+    "prod:build": "tsc",
+    "dev:compile": "tsc --watch",
+    "dev:serve": "nodemon index.ts"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@faker-js/faker": "^7.2.0",
+    "body-parser": "^1.20.0",
+    "express": "^4.18.1",
+    "morgan": "^1.10.0",
+    "typescript": "^4.6.4"
+  },
+  "devDependencies": {
+    "@types/express": "^4.17.13",
+    "@types/morgan": "^1.9.3",
+    "nodemon": "^2.0.16",
+    "ts-node": "^10.7.0"
+  }
+}

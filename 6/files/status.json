@@ -1,0 +1,18 @@
+[
+  {
+    "progress": 25,
+    "name": "Sending to Logistics Center"
+  },
+  {
+    "progress": 50,
+    "name": "Packaging"
+  },
+  {
+    "progress": 75,
+    "name": "Delivering"
+  },
+  {
+    "progress": 100,
+    "name": "Arrived"
+  }
+]

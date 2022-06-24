@@ -1,0 +1,76 @@
+<grammar ns="" xmlns="http://relaxng.org/ns/structure/1.0" datatypeLibrary="http://www.w3.org/2001/XMLSchema-datatypes">
+  <start>
+    <element name="AppointmentOverview">
+      <oneOrMore>
+        <element name="appointment">
+          <attribute name="handled" />
+          <attribute name="rating" />
+          <attribute name="id" />
+          <interleave>
+            <ref name="complaint" />
+            <ref name="employee" />
+          </interleave>
+        </element>
+      </oneOrMore>
+    </element>
+  </start>
+
+  <define name="complaint">
+    <element name="complaint">
+      <element name="fridgeid">
+        <data type="string"/>
+      </element>
+      <element name="isresolved">
+        <choice>
+          <value type="string">true</value>
+          <value type="string">false</value>
+        </choice>
+      </element>
+      <element name="issuedate">
+        <data type="date" />
+      </element>
+    </element>
+  </define>
+
+  <define name="employee">
+    <element name="employee">
+      <ref name="adress" />
+      <element name="id">
+        <data type="integer" />
+      </element>
+    </element>
+  </define>
+
+  <define name="adress">
+    <element name="adress">
+      <ref name="optional" />
+      <element name="adress">
+        <attribute name="country" />
+        <attribute name="zip" />
+        <element name="street">
+          <element name="name">
+            <data type="string" />
+          </element>
+          <element name="number">
+            <data type="positiveInteger" />
+          </element>
+        </element>
+      </element>
+    </element>
+  </define>
+
+  <define name="optional">
+    <optional>
+      <choice>
+        <element name="info">
+          <data type="string" />
+        </element>
+        <element name="detail">
+          <list>
+            <data type="string"/>
+          </list>
+        </element>
+      </choice>
+    </optional>
+  </define>
+</grammar>
